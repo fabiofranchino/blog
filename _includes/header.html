@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>{{ page.title }} - Fabio Franchino</title>
+
+    	
+
+    	<meta name="viewport" content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0' />
+
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<meta name="description" content="Computational Design and Data Visualization">
+		<meta name="keywords" content="Design, Generative, Art, Data, Visualization">
+		<meta name="author" content="fabiofranchino.com">
+		<meta name="google" content="notranslate" />
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="mobile-web-app-capable" content="yes" /> 
+		<meta name="apple-mobile-web-app-title" content="FF.com">
+
+		<meta property="og:title" content="{{ page.title }}">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="//fabiofranchino.com">
+		{% if page.cover %}
+		<meta property="og:image" content="//fabiofranchino.com/blog/assets/posts/{{ page.slug }}/{{ page.cover }}">
+		{% else %}
+		<meta property="og:image" content="//fabiofranchino.com/blog/assets/colors/{{ page.style }}.png">
+		{% endif %}
+		<meta property="og:site_name" content="fabiofranchino.com">
+		<meta property="og:description" content="Computational Design and Data Visualization">
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@fabiofranchino">
+		<meta name="twitter:creator" content="@fabiofranchino">
+		<meta name="twitter:url" content="https://fabiofranchino.com">
+		<meta name="twitter:title" content="{{ page.title }}">
+		<meta name="twitter:description" content="Computational Design and Data Visualization">
+		{% if page.cover %}
+		<meta name="twitter:image:src" content="https://fabiofranchino.com/blog/assets/posts/{{ page.slug }}/{{ page.cover }}">
+		{% else %}
+		<meta name="twitter:image:src" content="https://fabiofranchino.com/blog/assets/colors/{{ page.style }}.png">
+		{% endif %}
+
+		{% feed_meta %}
+
+		<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700" rel="stylesheet">
+
+		<!--<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">-->
+
+		<link rel="stylesheet" href="/blog/assets/css/normalize.css/normalize.css">
+		<link rel="stylesheet" href="/blog/assets/css/general.css">
+		<link rel="stylesheet" href="/blog/assets/css/colors.css">
+		<link rel="stylesheet" href="/blog/assets/css/style.css">
+		<link rel="stylesheet" href="/blog/assets/css/syntax.css">
+
+		<script
+		  src="https://code.jquery.com/jquery-3.2.1.min.js"
+		  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+		  crossorigin="anonymous"></script>
+		<script type="text/javascript" src="/blog/assets/js/app.js"></script>
+	</head>
+    <body class="{{ page.style }}">
+
+    	

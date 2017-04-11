@@ -1,0 +1,149 @@
+body{
+    font-family: 'Lora', serif; 
+    background-color: #FEFEFE;
+    color: #333;
+}
+
+header{
+    text-align: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+
+
+header h1{
+    color: #fff;
+    font-weight: normal;
+}
+
+header p{
+    color: #fff;
+    opacity: .5;
+    display: inline-block;
+    padding: .2rem;
+    padding-bottom: .5rem;
+    font-size: .8rem;
+}
+
+header small{
+    display: block;
+    font-size: 70%;
+    color: #999;
+    padding-top: .5rem;
+}
+
+footer{
+    border-top: 1px solid #eee;
+    margin-top: 1rem;
+
+    width: 100%;
+    text-align: center;
+    padding: 0 2rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem; 
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:space-around;
+}
+
+footer > *{
+    flex: 1;
+    padding: .5rem;
+    display: block;
+}
+
+@media (min-width: 460px) {
+    footer{
+        flex-direction:row;
+    }
+}
+
+
+footer a{
+    font-size: 1rem;
+}
+
+#index span{
+    font-size: .7rem;
+}
+#index{
+    list-style-type: none;
+}
+#index li{
+    text-decoration: none;
+    padding: .4rem;
+    transition: all .3s;
+    text-align: center;
+    cursor: pointer;
+}
+#index li:hover{
+    text-decoration: none;
+}
+#index a{
+    text-decoration: none;
+    background-color: none;
+}
+article #index a:hover{
+    background-color: transparent;
+}
+#index li:hover a{
+    color: white;
+    background-color: transparent;
+}
+
+article h2{
+    text-align: left;
+    font-style: italic;
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+}
+
+article blockquote{
+    border-left: .5rem solid #333;
+    color: #000;
+}
+
+article .contrib{
+    font-size: .9rem;
+}
+
+
+footer a, article a{
+}
+
+
+footer a, article a{
+    color: #333;
+}
+footer a:hover, article a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+ol.rules{
+    padding: 0;
+    
+}
+ol.rules li{
+    padding-left: .5rem;
+    background-color: #eee;
+    border-left: 2px solid #ccc;
+}
+ol.rules li p{
+    margin-top: .2rem;
+    margin-bottom: .2rem;
+}
+
+
+
+pre.highlight{
+    padding: 1rem;
+    border: 1px solid #ddd;
+}
+code{
+    font-size: .7rem;
+}

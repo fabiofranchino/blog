@@ -1,0 +1,43 @@
+{% include header.html %}
+
+
+
+	<header>
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}
+
+		- {% assign words = content | number_of_words %}
+		{% if words < 360 %}
+		  1 min
+		{% else %}
+		  {{ words | divided_by:180 }} min. read
+		{% endif %}
+</p>
+	</header>
+
+
+
+	<section>
+		<article>
+			{{ content }}
+
+			<hr />
+			<p class="contrib">Spotted a typo or (likely) a grammar error? Send a <a href="https://github.com/fabiofranchino/blog/edit/master/{{page.path}}">pull request</a>.</p>
+
+		</article>
+	</section>
+
+
+	<footer>
+		<a href="/blog/index.html">Index</a>
+		<a href="/index.html">About</a>
+	{% if page.HN != null %}
+		<a href="https://news.ycombinator.com/item?id={{ page.HN }}">On HN</a>
+	{% endif %}
+		<a href="https://twitter.com/fabiofranchino">On TW</a>
+		<a href="https://fabiofranchino.com/blog/feed.xml">RSS</a>
+	</footer>
+	
+
+
+{% include footer.html %}

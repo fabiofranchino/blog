@@ -1,0 +1,310 @@
+*{
+	box-sizing:border-box;
+}
+
+html, body {
+	width: 100%;
+	height: 100%;
+	font-size: 110%;
+}
+
+body{
+	margin:0;
+	padding:0;
+
+	display:flex;
+	flex-direction:column;
+}
+
+img{
+	width: 100%;
+    display: block;
+}
+
+article p img,
+article p video{
+	margin: 0 -1.5rem;
+	width: calc(100% + 3rem);
+	/*width: 100vw;*/
+}
+
+article ul{
+	padding: 0 1.5rem;
+}
+
+
+/* all article images are hidden by default since LazyLoad js plugin will show them*/
+img.lazy{
+    display: none;
+}
+
+section{
+    padding: 0 1.5rem;
+    font-weight: 400;
+    margin: auto;
+}
+
+section h2, section h3, section h4{
+    margin-top: 2rem;
+    margin-bottom: 0rem;
+    text-align: center;
+}
+
+
+
+header h1{
+    margin-bottom: 0rem;
+}
+
+header p{
+    margin: 0;
+}
+
+article{
+	flex:1 0 auto;
+    line-height: 140%;
+}
+
+article .notice{
+    display: none;
+}
+
+
+
+header, footer{
+	flex: 0 0 auto;
+}
+
+
+
+blockquote{
+    margin: 0;
+}
+
+article blockquote{
+    padding: 1rem;
+    font-size: 120%;
+}
+article blockquote p{
+    margin: 0;
+}
+
+
+@media (min-width: 460px) {
+    article blockquote{
+        padding: 2rem;
+        font-size: 120%;
+    }
+}
+
+
+
+
+article small{
+    font-size: 70%;
+    line-height: 70%;
+    color: #999;
+}
+
+
+
+
+hr{
+	border: none;
+    border-top: 1px solid #ddd;
+}
+
+[fouc]{
+	visibility: hidden;
+}
+
+[pressable]{
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+	-khtml-user-select:none;
+	-moz-user-select:none;
+	-ms-user-select:none;
+	user-select:none;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	cursor: default;
+}
+
+.uninteractive{
+    pointer-events:none;
+}
+
+article iframe{
+    width: 100%;
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+article .img_separator{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding-bottom:100%;
+    margin: 0 -1.5rem;
+	width: calc(100% + 3rem);
+}
+
+
+
+@media (min-width: 460px) {
+    article .img_separator{
+        padding-bottom:75%;
+    }
+}
+
+@media (min-width: 767px) {
+    article .img_separator{
+        padding-bottom:50%;
+        margin: 0 -3rem;
+        width: calc(100% + 6rem);
+    }
+
+}
+@media (min-width: 1020px) {
+    article .img_separator{
+        padding-bottom:40%;
+        margin: 0 -6rem;
+        width: calc(100% + 12rem);
+    }
+}
+@media (min-width: 1270px) {
+    article .img_separator{
+        padding-bottom:30%;
+        margin: 0 -8rem;
+        width: calc(100% + 16rem);
+    }
+}
+
+
+
+
+
+
+
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 0 -1.5rem;
+    width: calc(100% + 3rem);
+}
+
+.grid.pair > .grid_item{
+    width: 100%;
+}
+
+.grid.four > .grid_item{
+    width: 100%;
+    padding: .5rem 0;
+}
+
+.grid_item.padded{
+}
+.grid_item.padded > img{
+    display: block;
+    border: 3px solid #fff;
+}
+
+@media (min-width: 460px) {
+    .grid.pair > .grid_item{
+        padding: .5rem;
+        width: 50%;
+    }   
+    .grid.four > .grid_item{
+        width: 50%;
+    }
+}
+
+@media (min-width: 767px) {
+    .grid.four > .grid_item{
+        width: 25%;
+    }  
+    .grid{
+        margin: 0 -3rem;
+        width: calc(100% + 6rem);
+    }
+}
+@media (min-width: 1020px) {
+    .grid{
+        margin: 0 -6rem;
+        width: calc(100% + 12rem);
+    }
+}
+@media (min-width: 1270px) {
+    .grid.pair > .grid_item{
+        width: 25%;
+    }   
+    .grid{
+        margin: 0 -8rem;
+        width: calc(100% + 16rem);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 460px) {
+	html, body{
+		font-size: 115%;
+	}    
+}
+
+@media (min-width: 767px) {
+	html, body{
+		font-size: 120%;
+	}
+    section{
+        padding: 1.5rem 3rem;
+    }
+    article p img,
+    article p video{
+        margin: 0 -3rem;
+        width: calc(100% + 6rem);
+    }
+}
+@media (min-width: 1020px) {
+	html, body{
+		font-size: 130%;
+	}
+    section{
+        padding: 3rem 6rem;
+    }
+    article p img,
+    article p video{
+        margin: 0;
+        width: 100%;
+    }
+}
+@media (min-width: 1270px) {
+	html, body{
+		font-size: 130%;
+	}
+    section{
+        padding: 3rem 8rem;
+    }
+    
+}

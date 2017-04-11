@@ -1,0 +1,31 @@
+
+title: Fabio Franchino's Blog
+email: hello@fabiofranchino.com
+description: Computational Design and Data Visualization
+baseurl: "/blog"
+url: "https://fabiofranchino.com"
+twitter_username: fabiofranchino
+github_username:  abusedmedia
+google_analytics: UA-181587-8
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+permalink: /:title/
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

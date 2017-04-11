@@ -1,0 +1,136 @@
+/* default: GREY */
+header{
+    background-color: #222; 
+    background: linear-gradient(125deg, #555, #222);
+    border-bottom: 5px solid #555;   
+}
+article h2{
+    color: #555;
+    border-top: 1px dashed rgba(0,0,0, .4);
+}
+article blockquote{
+    border-color: #555;
+    background-color: rgba(0,0,0, .08);
+    color: #222;
+}
+footer a, article a{
+    color: #555;
+}
+footer a:hover, article a:hover{
+    color: white;
+    background-color: #555;
+}
+article #index li:hover{
+    background-color: #555;
+}
+#index a{
+    color: #555;
+}
+.grid_item.padded > img{
+    border-color:#555;
+}
+
+
+
+/* PURPLE */
+.purple header{
+    background-color: #3F26A0; 
+    background: linear-gradient(125deg, #842A94, #3F26A0);
+    border-bottom: 5px solid #842A94;   
+}
+.purple article h2{
+    color: #842A94;
+    border-top: 1px dashed rgba(0,0,0, .4);
+}
+.purple article blockquote{
+    border-color: #842A94;
+    background-color: rgba(0,0,0, .08);
+    color: #3F26A0;
+}
+.purple footer a, .purple article a{
+    color: #842A94;
+}
+.purple footer a:hover, .purple article a:hover{
+    color: white;
+    background-color: #842A94;
+}
+article #index li.purple:hover{
+    background-color: #842A94;
+}
+#index .purple a{
+	color: #842A94;
+}
+.purple .grid_item.padded > img{
+    border-color:#842A94;
+}
+
+
+
+
+/* Red */
+.red header{
+    background-color: #a90112; 
+    background: linear-gradient(125deg, #fe3509, #a90112);
+    border-bottom: 5px solid #fe3509;   
+}
+.red article h2{
+    color: #fe3509;
+    border-top: 1px dashed rgba(0,0,0, .4);
+}
+.red article blockquote{
+    border-color: #fe3509;
+    background-color: rgba(0,0,0, .08);
+    color: #a90112;
+}
+.red footer a, .red article a{
+    color: #fe3509;
+}
+.red footer a:hover, .red article a:hover{
+    color: white;
+    background-color: #fe3509;
+}
+article #index li.red:hover{
+    background-color: #fe3509;
+}
+#index .red a{
+    color: #fe3509;
+}
+.red .grid_item.padded > img{
+    border-color:#fe3509;
+}
+
+
+
+/* Blue */
+.blue header{
+    background-color: #0115a9; 
+    background: linear-gradient(125deg, #0977fe, #0115a9);
+    border-bottom: 5px solid #0977fe;   
+}
+.blue article h2{
+    color: #0977fe;
+    border-top: 1px dashed rgba(0,0,0, .4);
+}
+.blue article blockquote{
+    border-color: #0977fe;
+    background-color: rgba(0,0,0, .08);
+    color: #0115a9;
+}
+.blue footer a, .blue article a{
+    color: #0977fe;
+}
+.blue footer a:hover, .blue article a:hover{
+    color: white;
+    background-color: #0977fe;
+}
+article #index li.blue:hover{
+    background-color: #0977fe;
+}
+#index .blue a{
+    color: #0977fe;
+}
+.blue .grid_item.padded > img{
+    border-color:#0977fe;
+}
+
+
