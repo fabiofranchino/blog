@@ -22,7 +22,7 @@ No matter all those true facts are, there are some good reasons to continue to u
 ## It depends
 
 Let's be clear. It depends on the project type.
-If you are building a libraryc then maybe you should try to avoid libraries as much as possible. Avoiding them means avoiding dependencies and future uncertainty about its functionality.
+If you are building a library then maybe you should try to avoid other libraries as much as possible. Avoiding them means to get rid of dependencies and future uncertainty about its functionality.
 It also means you are not forcing your users to include thirty party code, not to mention the risk of conflicts between versions of the same library (the browser is still a huge global scope eventually).
 
 But if you are building some user interface object like a website of something, well, I think you could afford about **29Kb** of code to write less and cleaner code, introducing less potential bugs and issues, don't you?
