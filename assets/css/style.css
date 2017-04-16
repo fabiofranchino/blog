@@ -143,7 +143,10 @@ ol.rules li p{
 pre.highlight{
     padding: 1rem;
     border: 1px solid #ddd;
+    overflow: auto;
+    max-height: 400px;
+    background-color: lightyellow;
 }
 code{
-    font-size: .7rem;
+    font-size: .9rem;
 }
