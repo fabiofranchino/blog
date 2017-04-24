@@ -40,8 +40,15 @@ article #index li:hover{
 .grid_item.padded > img{
     border-color:#555;
 }
-
-
+article.excerpt .header_wrap:before{
+    border-right-color: #555;
+}
+article.excerpt .header_img{
+    border-color: #555;
+}
+article.excerpt a:hover{
+    background-color: #555;
+}
 
 /* PURPLE */
 .purple header{
@@ -74,9 +81,15 @@ article #index li.purple:hover{
 .purple .grid_item.padded > img{
     border-color:#842A94;
 }
-
-
-
+article.excerpt .purple .header_wrap:before{
+    border-right-color: #842A94;
+}
+article.excerpt .purple .header_img{
+    border-color: #842A94;
+}
+article.excerpt .purple a:hover{
+    background-color: #842A94;
+}
 
 /* Red */
 .red header{
@@ -109,6 +122,16 @@ article #index li.red:hover{
 .red .grid_item.padded > img{
     border-color:#fe3509;
 }
+article.excerpt .red .header_wrap:before{
+    border-right-color: #fe3509;
+}
+article.excerpt .red .header_img{
+    border-color: #fe3509;
+}
+article.excerpt .red a:hover{
+    background-color: #fe3509;
+}
+
 
 
 
@@ -143,5 +166,12 @@ article #index li.blue:hover{
 .blue .grid_item.padded > img{
     border-color:#0977fe;
 }
-
-
+article.excerpt .blue .header_wrap:before{
+    border-right-color: #0977fe;
+}
+article.excerpt .blue .header_img{
+    border-color: #0977fe;
+}
+article.excerpt .blue a:hover{
+    background-color: #0977fe;
+}
