@@ -36,4 +36,6 @@ With the help of javascript, it's possible to play with it in order to generate 
 
 You can play with the source code in this [pen](https://codepen.io/abusedmedia/pen/ZKGEoj).
 
+Source files on Github [repo](https://github.com/fabiofranchino/flex-ible-pattern-generator).
+
 Have a nice day.
