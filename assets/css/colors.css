@@ -1,3 +1,14 @@
+header.index .red{
+    color: #fe3509;
+}
+header.index .blue{
+    color: #0977fe;
+}
+header.index .purple{
+    color: #842A94;
+}
+
+
 /* default: GREY */
 header{
     background-color: #222; 
