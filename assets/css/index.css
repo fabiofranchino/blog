@@ -1,0 +1,22 @@
+header.index{
+	background: none;
+	border-bottom: 1px solid #ddd;
+	padding: 1rem;
+}
+
+header.index h3,
+header.index p
+{
+	color: black;
+	display: block;
+	font-weight: normal;
+	opacity: 1;
+}
+
+
+
+@media (min-width: 460px){
+	header.index{
+		padding: 2rem;
+	}
+}
