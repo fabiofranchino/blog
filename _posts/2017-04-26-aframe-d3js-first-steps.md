@@ -14,7 +14,7 @@ VR is actually **a big thing** and it's something I wanted to put my hands on in
 
 Thus, here my first steps not before a shameless advertisement about an upcoming workshop on data visualization and VR I'm involved in:
 
-<a href="https://goo.gl/0GLSb3">![](../assets/posts/aframe-d3js-first-steps/adv.png)</a>
+<a href="https://goo.gl/0GLSb3">![](../assets/posts/aframe-d3js-first-steps/adventures_dataviz.png)</a>
 
 
 
