@@ -108,7 +108,7 @@ en.addEventListener('animationend', function () {
 
 ## Welcome D3.js to the party
 
-D3.js loves the DOM, therefore the A-Frame markup can be manipulated by it.
+D3.js loves the HTML markup, therefore the A-Frame markup can be manipulated by it.
 
 Let's try to write a typical D3.js script to bind an array of values to a list of HTML elements, this time using Aframe tags:
 
