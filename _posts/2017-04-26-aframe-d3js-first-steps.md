@@ -31,7 +31,7 @@ Even though the minimal **hello world** example can be considered straightforwar
 The above code actually renders a box in the 3d scene.  
 The key detail here is the **position** attribute which is responsible for positioning the box in three-dimensional space according to the XYZ axis.
 
-If would happens to leave the default position (which is "0 0 0") you'll end up not seeing anything in the scene. That's because the position of the box coincides with the position of the user's eyes (as if you're within the box).
+If would happen to leave the default position (which is "0 0 0") you'll end up not seeing anything in the scene. That's because the position of the box coincides with the position of the user's eyes (as if you're within the box).
 
 Now, you might wonder: how to fill that attribute properly?
 
