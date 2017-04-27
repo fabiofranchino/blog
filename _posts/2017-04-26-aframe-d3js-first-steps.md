@@ -148,6 +148,6 @@ Do you want to be part of this revolution?
 This summer there'll be an exciting workshop on the topic.  
 [Join](https://goo.gl/0GLSb3) us to this awesome learning experience in beautiful Lugano:
 
-<a href="https://goo.gl/0GLSb3">![](../assets/posts/aframe-d3js-first-steps/adv.png)</a>
+<a href="https://goo.gl/0GLSb3">![](../assets/posts/aframe-d3js-first-steps/adventures_dataviz.png)</a>
 
 Full source code [here](https://github.com/fabiofranchino/aframe-d3js-first-steps)
