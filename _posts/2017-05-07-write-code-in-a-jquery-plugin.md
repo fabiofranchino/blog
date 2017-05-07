@@ -1,7 +1,7 @@
 ---
 title: Write Code in a jQuery Plugin
-date: 2017-05-06 14:00:00 +0100
-subtitle: 6th May, 2017
+date: 2017-05-07 14:00:00 +0100
+subtitle: 7th May, 2017
 style: red
 cover: modularity.jpg
 ---
