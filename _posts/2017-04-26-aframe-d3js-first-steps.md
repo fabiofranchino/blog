@@ -12,9 +12,7 @@ It's built on top of [Three.js](https://threejs.org/) and other cool web technol
 
 VR is actually **a big thing** and it's something I wanted to put my hands on in quite some time. I'm also interested in exploring the potential integration with [D3.js](https://d3js.org/) for data visualization purposes in VR experiences.  
 
-Thus, here my first steps not before a shameless advertisement about an upcoming workshop on data visualization and VR I'm involved in:
-
-<a href="https://goo.gl/0GLSb3">![](../assets/posts/aframe-d3js-first-steps/adventures_dataviz.png)</a>
+Thus, here my first steps.
 
 
 
