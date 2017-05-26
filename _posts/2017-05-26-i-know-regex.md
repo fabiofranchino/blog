@@ -39,13 +39,13 @@ It returns an array with all the valid URL found in a given text source. You can
 
 The logic behind that dark piece of string is surprisingly easy to learn and could be outlined as the follows:
 
-- '/' A regular expression starts always with the reserved char **/**
-- 'http' find any word that begins with **http**
-- 's?' optionally includes words with or without the letter **s** after the first pattern rule (resulting with http or https) using the special char **?**
-- ':' continue to find words that have also a semi colon after the previous tokens 
-- '\/\/' continue to find words that include also a **//** (since the / is a reserved char we need to escape them with the back-slash, therefore, \/\/ means double slash) after the previous tokens
-- '\S*' finally, continue to select words that include also any alpha-numeric characters other than spaces (with the specific command **\S**) and continue until the condition won't be met anymore (using ***** char)
-- '/g' close the expression with **recursion**, that means find multiple occurrence.
+- "/" A regular expression starts always with the reserved char **/**
+- "http" find any word that begins with **http**
+- "s?" optionally includes words with or without the letter **s** after the first pattern rule (resulting with http or https) using the special char **?**
+- ":" continue to find words that have also a semi colon after the previous tokens 
+- "\/\/" continue to find words that include also a **//** (since the / is a reserved char we need to escape them with the back-slash, therefore, \/\/ means double slash) after the previous tokens
+- "\S*" finally, continue to select words that include also any alpha-numeric characters other than spaces (with the specific command **\S**) and continue until the condition won't be met anymore
+- "/g" close the expression with **recursion**, that means find multiple occurrence.
 
 ## It's hard
 
