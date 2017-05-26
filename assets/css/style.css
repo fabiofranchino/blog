@@ -93,6 +93,17 @@ article #index a:hover{
     background-color: transparent;
 }
 
+article p.scream{
+    padding:.5rem;
+    background-color: #FFFF99;
+}
+article p.scream span{
+    font-size: .6rem;
+    color: #555;
+    display: block;
+    text-align: center;
+}
+
 article h2{
     text-align: left;
     font-style: italic;
