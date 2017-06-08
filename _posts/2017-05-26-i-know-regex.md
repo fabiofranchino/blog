@@ -19,13 +19,13 @@ No matter your knowledge level on the topic, you've been always fascinated and c
 ## Learn the shit
 
 A year ago I've taken action and started to learn the basics of regular expressions.  
-I've used [RegExOne](https://regexone.com/), a great resource to learn regex with simple and incremental step by step tutorials with interactive exercises to test out what you learned.
+I've used [RegExOne](https://regexone.com/), a great resource to learn regex with simple and incremental step by step tutorials with interactive exercises to test out what you've learned.
 
-I've followed all the lesson alongside all the exercises but, to be fair, I was far to be confident using it in real-world projects.
+I've followed all the lessons alongside all the exercises but, to be fair, I was far to be confident using it in real-world projects.
 
 Despite that, I've started to use it from time to time going to avoid some spaghetti code to solve little problems in projects.
 
-I'm still learning it. I'm not confident using it without some helper tool like [Regexr](http://regexr.com/), which by the way I strongly suggest to try it out.
+I'm still learning it. I'm not confident using it without some helper tool like [Regexr](http://regexr.com/), which, by the way, I strongly suggest to try it out.
 
 Watching a reg-ex still makes me cringe but I can write simple expressions without much troubles.
 
@@ -42,8 +42,8 @@ The logic behind that dark piece of string is surprisingly easy to learn and cou
 - "/" A regular expression starts always with the reserved char **/**
 - "http" find any word that begins with **http**
 - "s?" optionally includes words with or without the letter **s** after the first pattern rule (resulting with http or https) using the special char **?**
-- ":" continue to find words that have also a semi colon after the previous tokens 
-- "\/\/" continue to find words that include also a **//** (since the / is a reserved char we need to escape them with the back-slash, therefore, \/\/ means double slash) after the previous tokens
+- ":" continue to find words that have also a semi-colon after the previous tokens 
+- "\/\/" continue to find words that include also a **//** (since the / is a reserved char, we need to escape them with the back-slash, therefore, \/\/ means double slash) after the previous tokens
 - "\S*" finally, continue to select words that include also any alpha-numeric characters other than spaces (with the specific command **\S**) and continue until the condition won't be met anymore
 - "/g" close the expression with **recursion**, that means find multiple occurrence.
 
