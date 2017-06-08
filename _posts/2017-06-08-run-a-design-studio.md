@@ -35,7 +35,7 @@ That said, if you are willing to open a design studio or you're running a design
 
 You heard right. You are not a visionary entrepreneur; you're a regular little business dude that try to *make ends meet*.
 
-I don't even want to think whether your studio doesn't follow, or worse don't even know, those principles as the foundation for a design studio culture. My condolences for your firm.
+I don't even want to think whether your studio doesn't follow, or worse doesn't even know, those principles as the foundation for a design studio culture. My condolences for your firm.
 
 So, what's the point?  
 If you want to feel innovative as an entrepreneur you have to look for something new, trying different, experimenting with something never seen yet.
