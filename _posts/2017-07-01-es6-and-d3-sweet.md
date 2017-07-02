@@ -29,6 +29,17 @@ d3.selectAll('rect')
 
 Cleaner, uh?
 
+Arrow functions are not meant to be a [full replacement](https://stackoverflow.com/questions/34361379/arrow-function-vs-function-declaration-expressions-are-they-equivalent-exch) of the original one. Due the different nature of them, there are situations where you have to use the old fashioned **function** statement, in particular when you need to use the **this** keyword, such as:
+
+```javascript
+d3.select('circle')
+	.on('clic', function(){
+    	console.log( this )
+	})
+```
+
+The same using the arrow function won't work as expected since the scope of **this** will be different.
+
 Another common operation in D3.js script is the string interpolation, such as:
 
 ```javascript
