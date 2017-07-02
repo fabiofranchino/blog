@@ -57,6 +57,15 @@ Again, with ES6 things get compact and readable:
 
 ```javascript
 d3.selectAll('g')
+	.attr('transform', function(d, i){
+		return `translate(${mapX(i)}, 0)`
+	})
+```
+
+And even better with the arrow function:
+
+```javascript
+d3.selectAll('g')
 	.attr('transform', (d, i) => `translate(${mapX(i)}, 0)`)
 ```
 
