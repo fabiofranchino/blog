@@ -11,6 +11,8 @@ So far, I'm quite confident writing arrow functions and template strings.
 
 In the D3.js world, even those little features bring huge benefits from code readability point of view.
 
+## Arrow function
+
 Let's consider a very common and frequent chunk of code in a D3.js script:
 
 ```javascript
@@ -34,11 +36,13 @@ Arrow functions are not meant to be a [full replacement](https://stackoverflow.c
 ```javascript
 d3.select('circle')
 	.on('clic', function(){
-    	console.log( this )
+		console.log( this )
 	})
 ```
 
 The same using the arrow function won't work as expected since the scope of **this** will be different.
+
+## String interpolation
 
 Another common operation in D3.js script is the string interpolation, such as:
 
@@ -56,6 +60,6 @@ d3.selectAll('g')
 	.attr('transform', (d, i) => `translate(${mapX(i)}, 0)`)
 ```
 
-ES6 is great and it deserves some time to embrace it in the daily work.  
+**ES6 is great** and it deserves some time to embrace it in the daily work.  
 To be honest, I'm still using **var** to declare a variable instead of **let** or **const**, though.  
 I guess I need to commit myself more on it.
