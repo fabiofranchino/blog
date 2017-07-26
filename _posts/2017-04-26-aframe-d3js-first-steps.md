@@ -132,7 +132,7 @@ In the following example, you can hover on each box to show (in a rudimentary wa
 
 I've tried, briefly, adding the a-animation tags at run-time without luck. At first instance, it looks they need to wait for some initialisation callback in order to append animation tags in the scene properly. I'll investigate on it, promise.
 
-In the meantime, I found out an alternative contributed (A-Frame have a lot of contributed add-ons) library, [iframe-animation-component](https://github.com/ngokevin/kframe/tree/master/components/animation/), that overcome this limitation.
+In the meantime, I found out an alternative contributed (A-Frame have a lot of contributed add-ons) library, [aframe-animation-component](https://github.com/ngokevin/kframe/tree/master/components/animation/), that overcome this limitation.
 
 <iframe class="fuildframe" width="3000" data-width-mobile="1000" height="1000" src="https://fabiofranchino.com/aframe-d3js-first-steps/06.html" frameborder="0"></iframe>
 
