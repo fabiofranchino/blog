@@ -65,10 +65,10 @@ groups.append('g')
 
 This is the basic in *small multiple* representation: an array of little charts, one property' variation, same scale and axes.
 
-But, one the nice thing working with D3.js is that you can do also silly stuff breaking some conventions just because you can and for fun.  
+But, one of the nice thing working with D3.js is that you can do also silly stuff breaking some conventions just because you can and for fun.  
 That's why a few days ago I've questioned myself about how to build a *small multiple* representation with different axes per single chart.
 
-I had to figure out a bit the way to go since, looking the above script, the **.call(axis)** method does pretty all the magic. Instead of using the same scale object and axis object, which is easier, my goal was to compute a different scale (and then a different axis) for each little chart using the data points array of each object.
+I had to figure out a bit the way to go because, looking the above script, the **.call(axis)** method does pretty all the magic. Instead of using the same scale object and axis object, which is easier, my goal was to compute a different scale (and then a different axis) for each little chart using the data points array of each object.
 
 Basically, this is what I wanted to achieve (remember, no comparison can be done here):
 
@@ -122,6 +122,6 @@ That's sound silly, uh?
 
 The reward is the learning benefit out of this.  
 I really do not know whether I'll use this little technique in the near future, but I'm happy to be able to handle it.  
-That is the very good part about working with a library like D3.js that gives you the power to break the rules somethimes.
+That is the very good part about working with a library such as D3.js that gives you the power to break the rules somethimes.
 
 Happy coding! 
