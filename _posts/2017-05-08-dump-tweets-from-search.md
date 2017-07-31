@@ -5,7 +5,7 @@ subtitle: 8th May, 2017
 style: blue
 cover: tweet.png
 categories: Tutorials
-tags: [scraping, twitter, nodejs]
+tags: [tutorial, scraping, twitter, nodejs]
 ---
 
 I do like the [#May1Reboot](http://www.may1reboot.com/) initiative:

@@ -5,7 +5,7 @@ subtitle: 7th May, 2017
 style: red
 cover: modularity.jpg
 categories: Opinions
-tags: [jquery, thoughts]
+tags: [opinion, jquery, thoughts]
 ---
 
 

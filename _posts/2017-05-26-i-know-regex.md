@@ -5,7 +5,7 @@ subtitle: 26th May, 2017
 style: blue
 cover: cover_regex.png
 categories: Tutorials
-tags: [regex, tips]
+tags: [tutorial, regex, tips]
 ---
 
 If you consider the [Regular Expression](https://en.wikipedia.org/wiki/Regular_expression), RegEx to my friends, a language for **aliens**, well, nice to include you in my company!

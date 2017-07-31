@@ -4,7 +4,7 @@ date: 2017-03-04 14:00:00 +0100
 subtitle: 4th March, 2017
 style: red
 categories: Opinions
-tags: [general, thoughts, team]
+tags: [opinion, general, thoughts, team]
 ---
 
 ## A personal reminder

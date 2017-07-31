@@ -5,7 +5,7 @@ subtitle: 14th April, 2017
 style: red
 cover: cover.jpg
 categories: Opinions
-tags: [jquery, thoughts]
+tags: [opinion, jquery, thoughts]
 ---
 
 ![](../assets/posts/still-using-jquery/cover.jpg)

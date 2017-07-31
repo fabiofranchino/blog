@@ -5,7 +5,7 @@ subtitle: 22nd April, 2017
 style: blue
 cover: cover.png
 categories: Tutorials
-tags: [css, flex, layout, javascript]
+tags: [tutorial, css, flex, layout, javascript]
 ---
 
 CSS looks easy at first glance but it's not.  

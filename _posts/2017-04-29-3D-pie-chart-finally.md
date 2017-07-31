@@ -5,7 +5,7 @@ subtitle: 29th April, 2017
 style: blue
 cover: cover.png
 categories: Tutorials
-tags: [aframe, d3js, tips, vr]
+tags: [tutorial, aframe, d3js, tips, vr]
 ---
 
 > A promise is a promise.

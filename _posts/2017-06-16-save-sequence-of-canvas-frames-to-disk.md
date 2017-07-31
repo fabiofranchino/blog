@@ -5,7 +5,7 @@ subtitle: 16th June, 2017
 style: blue
 tags: [tutorial, nodejs]
 categories: Tutorials
-tags: [nodejs, canvas, filesystem]
+tags: [tutorial, nodejs, canvas, filesystem]
 ---
 
 So, you've coded a great animation on a HTML5 canvas with javascript and you need to convert to a movie file?

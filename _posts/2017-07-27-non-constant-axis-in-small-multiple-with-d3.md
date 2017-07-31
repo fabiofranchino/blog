@@ -5,7 +5,7 @@ subtitle: 27th July, 2017
 style: blue
 cover: cover.png
 categories: Tutorials
-tags: [d3js, tips, smallmultiple]
+tags: [tutorial, d3js, tips, smallmultiple]
 ---
 
 > I like to break the rules sometimes.

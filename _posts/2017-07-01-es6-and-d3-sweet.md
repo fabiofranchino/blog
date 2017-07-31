@@ -4,7 +4,7 @@ date: 2017-07-01 14:00:00 +0100
 subtitle: 1st July, 2017
 style: blue
 categories: Tutorials
-tags: [es6, d3js, tips]
+tags: [tutorial, es6, d3js, tips]
 ---
 
 I'm learning javascript ES6 in small steps.

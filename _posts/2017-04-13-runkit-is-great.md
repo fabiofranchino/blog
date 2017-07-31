@@ -5,7 +5,7 @@ subtitle: 13th April, 2017
 style: blue
 cover: cover.jpg
 categories: Tutorials
-tags: [runkit, tips]
+tags: [tutorial, runkit, tips]
 ---
 
 ![](../assets/posts/runkit-is-great/cover.jpg)

@@ -5,7 +5,7 @@ subtitle: 7th March, 2017
 style: red
 cover: cover.png
 categories: Tutorials
-tags: [d3js, bigdive, svg, tip]
+tags: [tutorial, d3js, bigdive, svg, tip]
 ---
 
 ![cover](../assets/posts/boost-d3js-learning-kickoff/cover.png)

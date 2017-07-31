@@ -6,7 +6,7 @@ style: blue
 HN: 13781142
 cover: cover.png
 categories: Tutorials
-tags: [tips, electron, browsersync]
+tags: [tutorial, tips, electron, browsersync]
 ---
 
 I'm going to introduce a new post type in this blog.  

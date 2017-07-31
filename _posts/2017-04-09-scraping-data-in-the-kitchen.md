@@ -5,7 +5,7 @@ subtitle: 9th April, 2017
 cover: image_0.jpg
 style: purple
 categories: Projects
-tags: [dataviz, d3js, scraping]
+tags: [project, dataviz, d3js, scraping]
 ---
 
 **TL;DR:** A little journey on scraping nutrition data for visualization purpose.

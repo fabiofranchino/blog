@@ -6,7 +6,7 @@ HN: 13731477
 style: purple
 cover: cover.gif
 categories: Projects
-tags: [silly, selfinitiated, d3js, ui, webtoy]
+tags: [project, silly, selfinitiated, d3js, ui, webtoy]
 ---
 
 **TL;DR:** Go straight to the [toy](/scrub_the_mouse/) to explore my mouse activity.

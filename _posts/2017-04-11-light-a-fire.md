@@ -6,7 +6,7 @@ style: red
 HN:
 cover: cover.jpg
 categories: Opinions
-tags: [culture, thoughts]
+tags: [opinion, culture, thoughts]
 ---
 
 Imagine you in a forest.  

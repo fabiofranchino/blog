@@ -5,7 +5,7 @@ subtitle: 26th April, 2017
 style: blue
 cover: cover.png
 categories: Tutorials
-tags: [aframe, d3js, tips, vr]
+tags: [tutorial, aframe, d3js, tips, vr]
 ---
 
 [A-Frame](https://aframe.io/), the javascript framework for building VR experiences using HTML custom tags, is intriguing, to say the least.  

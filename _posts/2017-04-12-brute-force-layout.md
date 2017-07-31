@@ -5,7 +5,7 @@ subtitle: 12th April, 2017
 cover: cover.jpg
 style: purple
 categories: Projects
-tags: [grid, creative, coding, javascript]
+tags: [project, grid, creative, coding, javascript]
 ---
 
 **TL;DR:** A visual exploration on grid system with creative coding

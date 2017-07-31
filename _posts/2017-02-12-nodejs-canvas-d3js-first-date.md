@@ -5,7 +5,7 @@ subtitle: 12th February, 2017
 HN: 13627495
 style: purple
 categories: Projects
-tags: [nodejs, canvas, d3js]
+tags: [project, nodejs, canvas, d3js]
 ---
 
 

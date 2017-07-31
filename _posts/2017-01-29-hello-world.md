@@ -5,7 +5,7 @@ subtitle: 29th January, 2017
 HN: 13513098
 style: red
 categories: Opinions
-tags: [general, thoughts]
+tags: [opinion, general, thoughts]
 ---
 
 First off, a confession.  
