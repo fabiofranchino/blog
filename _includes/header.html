@@ -22,7 +22,7 @@
 
 		<meta property="og:title" content="{{ page.title }}">
 		<meta property="og:type" content="website">
-		<meta property="og:url" content="//fabiofranchino.com">
+		<meta property="og:url" content="//fabiofranchino.com/blog/{{page.slug}}">
 		{% if page.cover %}
 		<meta property="og:image" content="//fabiofranchino.com/blog/assets/posts/{{ page.slug }}/{{ page.cover }}">
 		{% else %}
@@ -34,7 +34,7 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@fabiofranchino">
 		<meta name="twitter:creator" content="@fabiofranchino">
-		<meta name="twitter:url" content="https://fabiofranchino.com">
+		<meta name="twitter:url" content="https://fabiofranchino.com/blog/{{page.slug}}">
 		<meta name="twitter:title" content="{{ page.title }}">
 		<meta name="twitter:description" content="Computational Design and Data Visualization">
 		{% if page.cover %}
