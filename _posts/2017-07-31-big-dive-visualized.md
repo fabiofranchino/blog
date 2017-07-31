@@ -48,7 +48,7 @@ The last iterations show how many little changes can be done. To be fair, I'd go
 <div class="grid_item padded"><img src="../assets/posts/big-dive-visualized/12.jpg" /></div>
 </div>
 
-This is why is so important to stop at some point and ship it.
+This is why is so important to stop at some point and **ship it!**
 
 ## Conclusion
 
