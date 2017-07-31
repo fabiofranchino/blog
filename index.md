@@ -9,6 +9,10 @@ layout: default
         {% include post_item.html %}
         {% endfor %}
 	</article>
+
+	<article>
+		<p>You might be interested browsing by <a href="categories">categories</a> or by <a href="tags">tags</a></p>
+	</article>
 </section>
 
 <footer>

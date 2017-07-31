@@ -10,10 +10,9 @@ permalink: /categories/
         
             {% for category in site.categories %}
                 {% capture category_name %}{{ category | first }}{% endcapture %}
-                <div id="#{{ category_name | slugize }}"></div>
                 
-                <h2>{{ category_name }}</h2>
-                <a name="{{ category_name | slugize }}"></a>
+                <h2 id="{{ category_name | slugize }}" class="aggr_togg">{{ category_name }} <span class="sign"></span></h2>
+                <div class="aggr_cont">
                 {% for post in site.categories[category_name] %}
                 <p>
                   <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
@@ -21,6 +20,7 @@ permalink: /categories/
 
                 </p>
                 {% endfor %}
+                </div>
             {% endfor %}
 
     </article>

@@ -7,12 +7,14 @@ permalink: /tags/
 
 <section>
     <article class="list">
+
+
         {% for tag in site.tags %}
           {% assign t = tag | first %}
           {% assign posts = tag | last %}
 
-            <h2>{{ t | downcase }}</h2>
-            
+            <h2 id="{{ t | slugize }}" class="aggr_togg">{{ t | downcase }} <span class="sign"></span></h2>
+            <div class="aggr_cont">
             {% for post in posts %}
               {% if post.tags contains t %}
               <p>
@@ -21,6 +23,7 @@ permalink: /tags/
               </p>
               {% endif %}
             {% endfor %}
+            </div>
             
         {% endfor %}
 

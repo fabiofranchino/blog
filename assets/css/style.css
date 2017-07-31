@@ -165,3 +165,16 @@ pre.highlight{
 code{
     font-size: .9rem;
 }
+
+
+
+
+.list .date{
+    font-size: .8rem;
+    color: #999;
+}
+
+.list .aggr_togg{
+    cursor: pointer;
+}
+
