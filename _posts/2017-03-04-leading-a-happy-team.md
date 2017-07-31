@@ -3,7 +3,8 @@ title: Leading a happy team
 date: 2017-03-04 14:00:00 +0100
 subtitle: 4th March, 2017
 style: red
-HN:
+categories: Opinions
+tags: [general, thoughts, team]
 ---
 
 ## A personal reminder

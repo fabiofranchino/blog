@@ -4,6 +4,8 @@ date: 2017-04-13 14:00:00 +0100
 subtitle: 13th April, 2017
 style: blue
 cover: cover.jpg
+categories: Tutorials
+tags: [runkit, tips]
 ---
 
 ![](../assets/posts/runkit-is-great/cover.jpg)

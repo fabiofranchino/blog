@@ -4,6 +4,8 @@ date: 2017-05-06 14:00:00 +0100
 subtitle: 6th May, 2017
 style: red
 cover: logo.png
+categories: Opinions
+tags: [markdown, thoughts]
 ---
 
 I really love [markdown](https://en.wikipedia.org/wiki/Markdown).

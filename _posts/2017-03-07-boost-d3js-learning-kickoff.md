@@ -3,8 +3,9 @@ title: Boost your d3.js learning kickoff
 date: 2017-03-07 14:00:00 +0100
 subtitle: 7th March, 2017
 style: red
-HN:
 cover: cover.png
+categories: Tutorials
+tags: [d3js, bigdive, svg, tip]
 ---
 
 ![cover](../assets/posts/boost-d3js-learning-kickoff/cover.png)

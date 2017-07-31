@@ -4,6 +4,8 @@ date: 2017-04-22 14:00:00 +0100
 subtitle: 22nd April, 2017
 style: blue
 cover: cover.png
+categories: Tutorials
+tags: [css, flex, layout, javascript]
 ---
 
 CSS looks easy at first glance but it's not.  

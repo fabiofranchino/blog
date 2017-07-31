@@ -4,6 +4,8 @@ date: 2017-06-08 14:00:00 +0100
 subtitle: 8th June, 2017
 style: red
 cover: ddd.jpg
+categories: Opinions
+tags: [thoughts, studio, ddd]
 ---
 
 I was lucky enough to attend the [Digital Design Days](http://www.ddd.it/) festival held a few days ago in Milan.  

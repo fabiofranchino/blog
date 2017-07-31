@@ -5,6 +5,8 @@ subtitle: 11th April, 2017
 style: red
 HN:
 cover: cover.jpg
+categories: Opinions
+tags: [culture, thoughts]
 ---
 
 Imagine you in a forest.  

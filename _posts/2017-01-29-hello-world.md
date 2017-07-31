@@ -4,6 +4,8 @@ date:   2017-01-29 09:00:00 +0100
 subtitle: 29th January, 2017
 HN: 13513098
 style: red
+categories: Opinions
+tags: [general, thoughts]
 ---
 
 First off, a confession.  

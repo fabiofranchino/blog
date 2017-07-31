@@ -5,6 +5,8 @@ subtitle: 2nd March, 2017
 style: blue
 HN: 13781142
 cover: cover.png
+categories: Tutorials
+tags: [tips, electron, browsersync]
 ---
 
 I'm going to introduce a new post type in this blog.  

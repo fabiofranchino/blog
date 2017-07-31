@@ -12,13 +12,27 @@
 		{% else %}
 		  {{ words | divided_by:180 }} min. read
 		{% endif %}
+
+		- in {% if post %}
+	  	  {% assign categories = post.categories %}
+	  	{% else %}
+	  	  {% assign categories = page.categories %}
+	  	{% endif %}
+	  	{% for category in categories %}
+	  		<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+	  		{% unless forloop.last %}&nbsp;{% endunless %}
+	  	{% endfor %}
 		</p>
 	</header>
 
 
+	
+
 
 	<section>
 		<article>
+
+			
 
 			<!-- <p class="scream"><a href="https://goo.gl/0GLSb3" target="blank"><img src="../assets/common/adventures_dataviz.png" alt=""></a><span>shameless advertising</span></p> -->
 

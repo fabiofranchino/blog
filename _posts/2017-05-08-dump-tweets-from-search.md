@@ -4,6 +4,8 @@ date: 2017-05-08 14:00:00 +0100
 subtitle: 8th May, 2017
 style: blue
 cover: tweet.png
+categories: Tutorials
+tags: [scraping, twitter, nodejs]
 ---
 
 I do like the [#May1Reboot](http://www.may1reboot.com/) initiative:

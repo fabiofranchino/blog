@@ -33,6 +33,10 @@ header small{
     padding-top: .5rem;
 }
 
+header a{
+    color: #fff;
+}
+
 footer{
     border-top: 1px solid #eee;
     margin-top: 1rem;

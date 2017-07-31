@@ -3,6 +3,9 @@ title: Save sequence of canvas frames to disk
 date: 2017-06-16 14:00:00 +0100
 subtitle: 16th June, 2017
 style: blue
+tags: [tutorial, nodejs]
+categories: Tutorials
+tags: [nodejs, canvas, filesystem]
 ---
 
 So, you've coded a great animation on a HTML5 canvas with javascript and you need to convert to a movie file?

@@ -4,6 +4,8 @@ date: 2017-06-17 14:00:00 +0100
 subtitle: 17th June, 2017
 style: purple
 cover: cover.jpg
+categories: Projects
+tags: [legacy, creative, coding]
 ---
 
 During the periodic hard-drive cleaning, I've stumbled upon a tiny project dated back to 2007. 
