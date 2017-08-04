@@ -38,18 +38,18 @@ Everything starts with an immediately-invoked-function-expression ([IIFE](http:/
 
 ```javascript
 ;(function () {
-  window.myViz = function init () {
+	window.myViz = function init () {
 
-    // the build/update function, where all the magic should happen
-    function build (selection) {
-      selection.each(function (data, index) {
-        var element = d3.select(this)
-        console.log(data)
-      })
-    }
+		// the build/update function, where all the magic should happen
+		function build (selection) {
+			selection.each(function (data, index) {
+				var element = d3.select(this)
+				console.log(data)
+			})
+		}
 
-    return build
-  }
+		return build
+	}
 })()
 ```
 
@@ -73,22 +73,22 @@ When talking about reusable scripts means also having some configs, therefore, h
 
 ```javascript
 ;(function () {
-  window.myViz = function init () {
-    build.width = 300
-    build.height = 200
-    ....
+	window.myViz = function init () {
+		build.width = 300
+ 		build.height = 200
+	....
 ```
 
 and a way to override them from outside:
 
 ```javascript
 build.config = function (options) {
-  for (var k in options) {
-    if (build.hasOwnProperty(k)) {
-    	build[k] = options[k]
-    }
-  }
-  return build
+	for (var k in options) {
+		if (build.hasOwnProperty(k)) {
+			build[k] = options[k]
+		}
+	}
+	return build
 }
 ```
 
@@ -126,11 +126,11 @@ var label = element.selectAll('.myLabel')
 
 // enter selection, only if the element is not present
 var enterLabel = label.enter()
-  .append('text')
-  .attr('y', build.height / 2)
-  .attr('x', build.width / 2)
-  .style('text-anchor', 'middle')
-  .classed('myLabel', true)
+	.append('text')
+	.attr('y', build.height / 2)
+	.attr('x', build.width / 2)
+	.style('text-anchor', 'middle')
+	.classed('myLabel', true)
 
 // update
 label.merge(enterLabel).text('Your chart: ' + build.width + ' ' + data.length)
