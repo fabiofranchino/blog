@@ -34,7 +34,7 @@ Basically, it's how the [d3-axis](https://github.com/d3/d3-axis) object works.
 
 ## Proof Of Concept
 
-Everything starts with an immediately-invoked-function-expression ([IIFE](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)) js function in order to encapsulate the component in a private context alongside with some of the Mike article tips, more precisely, the selection.each statement to preserve the D3.js selection chain:
+Everything starts with an immediately-invoked-function-expression ([IIFE](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)) in order to encapsulate the component in a private context alongside with some of the Mike article tips, more precisely, the selection.each statement to preserve the D3.js selection chain:
 
 ```javascript
 ;(function () {
