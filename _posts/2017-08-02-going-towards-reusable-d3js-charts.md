@@ -5,7 +5,7 @@ subtitle: 2nd August, 2017
 style: blue
 cover: cover.png
 categories: Tutorials
-tags: [tutorial, d3js, tips, reusable, proof, boilerplate]
+tags: [tutorial, d3js, reusable, proof, boilerplate]
 ---
 
 > Reusable code in programming field has been always a chimera.
