@@ -37,13 +37,13 @@ The first attempt was obvious. Given a quick Flexbox layout, I've put a bunch of
 
 They are all consistent between them but the overall page layout doesn't work:
 
-![01](../assets/posts/size-matter/01.gif)
+![01](../assets/posts/size-matters/01.gif)
 
 ## Using width:100%
 
 Using the same markup but assigning to all the SVG tags the *width:100%* via CSS can help a bit but with other issues to solve:
 
-![02](../assets/posts/size-matter/02.gif)
+![02](../assets/posts/size-matters/02.gif)
 
 ## Adding the viewBox
 
@@ -59,13 +59,13 @@ Adding to each SVG tag a proper viewBox attribute:
 
 It does mitigate the above issues, still not perfect in some conditions, though:
 
-![03](../assets/posts/size-matter/03.gif)
+![03](../assets/posts/size-matters/03.gif)
 
 ## Removing the width and height
 
 Removing the width/height attributes from the SVG markup leaving only the viewBox seems to solve most of the issues. Now all the components fit the available space, preserving the aspect-ratio of each one. There's still some issue here: all the component' elements get resized in a different way, thus the overall consistency get lost (look at the size of the axis or the padding of each chart). Another problem is the exaggerated size of some elements in some situation (font-size too big of too small) because the SVG get resized proportionally no matter the window size:
 
-![04](../assets/posts/size-matter/04.gif)
+![04](../assets/posts/size-matters/04.gif)
 
 ## Compute the viewBox according to the window size
 
@@ -107,13 +107,13 @@ function onResize(){
 
 Here you can see the internal elements size are constant (font-size, padding) no matter the size of the SVG tag. The proportions are preserved. Still, it's difficult to have a consistent element size across different components (same font-size and padding between different SVG charts):
 
-![05](../assets/posts/size-matter/05.gif)
+![05](../assets/posts/size-matters/05.gif)
 
 ## Finally, the solution
 
 The working solution has been to use the ratio together with the width of the computed wrapper that contains the SVG tag. This way we are able to calculate a proper viewBox for each SVG tag according to the given ratio without having to do hard math in order to have consistency across different components and, most importantly, it works out of the box:
 
-![06](../assets/posts/size-matter/06.gif)
+![06](../assets/posts/size-matters/06.gif)
 
 The new markup changed a bit:
 
@@ -162,6 +162,6 @@ By setting the attribute height instead the ratio, we can accomplish such functi
 
 This feature can be seen in the last screencast, the first component actually preserves a fixed height.
 
-As usual, the full source code of this exploration can be found on [this repo](https://github.com/fabiofranchino/size-matter).
+As usual, the full source code of this exploration can be found on [this repo](https://github.com/fabiofranchino/size-matters).
 
 Happy coding!
