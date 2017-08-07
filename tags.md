@@ -12,8 +12,16 @@ permalink: /tags/
         {% for tag in site.tags %}
           {% assign t = tag | first %}
           {% assign posts = tag | last %}
+          
+          {% assign count = 0 %}
+          {% for post in posts %}
+            {% if post.tags contains t %}
+              {% assign count = count | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+        
 
-            <h2 id="{{ t | slugize }}" class="aggr_togg">{{ t | downcase }} <span class="sign"></span></h2>
+            <h2 id="{{ t | slugize }}" class="aggr_togg">{{ t | downcase }} ({{count}})<span class="sign"></span></h2>
             <div class="aggr_cont">
             {% for post in posts %}
               {% if post.tags contains t %}
