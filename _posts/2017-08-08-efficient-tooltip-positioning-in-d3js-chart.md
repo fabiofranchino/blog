@@ -65,5 +65,5 @@ Here the interactive version (click to toggle the chart visibility and... deskto
 
 I don't know whether I'm going to use this technique in the future. Nevertheless, it's always good to figure out what's going on behind the curtain, it can't hurt.
 
-**PS: **I've also learned something on SVG 2; the getTotalLength() function  will be [deprecated](https://developer.mozilla.org/en-US/docs/Web/API/SVGPathElement/getTotalLength) on some SVG element (i.e. line, text), this is why my implementation uses *path* instead *line* elements.
+**PS:** I've also learned something on SVG 2; the getTotalLength() function  will be [deprecated](https://developer.mozilla.org/en-US/docs/Web/API/SVGPathElement/getTotalLength) on some SVG element (i.e. line, text), this is why my implementation uses *path* instead *line* elements.
 
