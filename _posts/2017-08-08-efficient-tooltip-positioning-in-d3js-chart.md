@@ -57,10 +57,13 @@ var p = maxL.getPointAtLength(l - 60)
 legend.attr('transform', `translate(${p.x}, ${p.y})`)
 ```
 
-Here the interactive version (click to toggle the chart visibility):
+Here the interactive version (click to toggle the chart visibility and... desktop only):
 
 <iframe class="fuildframe" width="3000" data-width-mobile="1000" height="1000" src="https://fabiofranchino.com/efficient-element-positioning/" frameborder="0" scrolling="no"></iframe>
 
 ## Conclusion
 
 I don't know whether I'm going to use this technique in the future. Nevertheless, it's always good to figure out what's going on behind the curtain, it can't hurt.
+
+**PS: **I've also learned something on SVG 2; the getTotalLength() function  will be [deprecated](https://developer.mozilla.org/en-US/docs/Web/API/SVGPathElement/getTotalLength) on some SVG element (i.e. line, text), this is why my implementation uses *path* instead *line* elements.
+
