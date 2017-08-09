@@ -67,3 +67,4 @@ I don't know whether I'm going to use this technique in the future. Nevertheless
 
 **PS:** I've also learned something on SVG 2; the getTotalLength() function  will be [deprecated](https://developer.mozilla.org/en-US/docs/Web/API/SVGPathElement/getTotalLength) on some SVG element (i.e. line, text), this is why my implementation uses *path* instead *line* elements.
 
+Source code [here](https://github.com/fabiofranchino/efficient-element-positioning).
