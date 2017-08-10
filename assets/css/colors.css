@@ -90,6 +90,9 @@ article.excerpt .purple .header_img{
 article.excerpt .purple a:hover{
     background-color: #842A94;
 }
+.purple p > code{
+    color: #842A94;
+}
 
 /* Red */
 .red header{
@@ -131,7 +134,9 @@ article.excerpt .red .header_img{
 article.excerpt .red a:hover{
     background-color: #fe3509;
 }
-
+.red p > code{
+    color: #fe3509;
+}
 
 
 
@@ -174,4 +179,7 @@ article.excerpt .blue .header_img{
 }
 article.excerpt .blue a:hover{
     background-color: #0977fe;
+}
+.blue p > code{
+    color: #0977fe;
 }
