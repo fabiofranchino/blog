@@ -6,22 +6,13 @@
 		<h1>{{ page.title }}</h1>
 		<p>{{ page.subtitle }}
 
-		- {% assign words = content | number_of_words %}
+		{% assign words = content | number_of_words %}
 		{% if words < 360 %}
 		  1 min. read
 		{% else %}
 		  {{ words | divided_by:180 }} min. read
 		{% endif %}
 
-		- in {% if post %}
-	  	  {% assign categories = post.categories %}
-	  	{% else %}
-	  	  {% assign categories = page.categories %}
-	  	{% endif %}
-	  	{% for category in categories %}
-	  		<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-	  		{% unless forloop.last %}&nbsp;{% endunless %}
-	  	{% endfor %}
 		</p>
 	</header>
 
@@ -32,13 +23,9 @@
 	<section>
 		<article>
 
-			
-
-			<!-- <p class="scream"><a href="https://goo.gl/0GLSb3" target="blank"><img src="../assets/common/adventures_dataviz.png" alt=""></a><span>shameless advertising</span></p> -->
 
 			{{ content }}
 
-			{% include related.html %}
 
 			<hr />
 			<p class="contrib">Spotted a typo or (likely) a grammar error? Send a <a href="https://github.com/fabiofranchino/blog/edit/master/{{page.path}}">pull request</a>.</p>
