@@ -34,5 +34,24 @@
         $(this).find('span').text('+')
       }
     })
+
+    $('lineselect').each(function () {
+      var par = $(this)// .parent()
+      var nxt = par.next()
+      var src = nxt.find('pre code').html()
+      var p = src.split('\n')
+
+      var g = p.map(function (d, i) {
+        var a = ''
+        var b = ''
+        if (i > 1 && i < 4) {
+          a = '<span class="pick">'
+          b = '</span>'
+        }
+        return a + d + b
+      })
+
+      nxt.html('<pre class="highlight lineselect"><code>' + g.join('\n') + '</code></pre>')
+    })
   })
 })(window.jQuery)

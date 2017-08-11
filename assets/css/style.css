@@ -161,14 +161,22 @@ pre.highlight{
     overflow: auto;
     max-height: 400px;
     background-color: lightyellow;
+    line-height: 1.4rem;
 }
 code{
-    font-size: .9rem;
+    font-size: 1rem;
 }
 
-p > code{
+p > code, li > code{
     font-weight: bold;
-    font-size: 1rem;
+}
+
+.highlight.lineselect,
+.highlight.lineselect code > span{
+    color:#999;
+}
+
+.highlight.lineselect .pick span{
 }
 
 
