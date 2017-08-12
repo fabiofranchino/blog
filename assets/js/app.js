@@ -35,8 +35,12 @@
       }
     })
 
+    // <lineselect line-from="2" line-to="4"></lineselect>
+
     $('lineselect').each(function () {
       var par = $(this)// .parent()
+      var from = par.attr('line-from')
+      var to = par.attr('line-to')
       var nxt = par.next()
       var src = nxt.find('pre code').html()
       var p = src.split('\n')
@@ -44,7 +48,7 @@
       var g = p.map(function (d, i) {
         var a = ''
         var b = ''
-        if (i > 1 && i < 4) {
+        if (i >= from && i <= to) {
           a = '<span class="pick">'
           b = '</span>'
         }

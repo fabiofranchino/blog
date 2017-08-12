@@ -171,14 +171,16 @@ p > code, li > code{
     font-weight: bold;
 }
 
-.highlight.lineselect,
-.highlight.lineselect code > span{
-    color:#999;
+.highlight.lineselect code > span:not(.pick){
+    color:#ccc;
 }
 
 .highlight.lineselect .pick span{
 }
 
+.language-diff{
+    color:#999;
+}
 
 .list .date{
     font-size: .8rem;
