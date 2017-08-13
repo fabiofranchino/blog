@@ -13,8 +13,6 @@ In this case you can take a look on my [How to get started with HTML](http://dud
 
 In this tutorial you're are going to write down your first d3 javascript lines of code in order to start to grasp its basic features.
 
-
-
 ## Import the library
 
 The quickest way to include d3.js into an HTML document is to use the remote url, the one you can easily find in the front page of its site:
@@ -47,7 +45,7 @@ Here a minimal HTML document for a d3.js sketch:
 
 Opening the **console** tool in the Chrome **DevTools** you should see the current version of the imported d3.js library:
 
-![](version_console.png)
+
 
 A better project organization would be using an external file for the custom js code, thus a revisit of the starting project file would be:
 
@@ -266,3 +264,4 @@ layer.append('text')
     .attr('text-anchor', 'middle')
     .style('fill', '#fff')     
 ```
+Go to the next lesson: [060-transitions.md](060-transitions.md)

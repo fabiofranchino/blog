@@ -52,7 +52,7 @@ Got it?
 
 We need to put within the `body` otherwise it won't be visible:
 
-<lineselect line-from="4" line-to="4"></lineselect>
+<lineselect lines="4-4" ></lineselect>
 
 ```html
 <!DOCTYPE html>
