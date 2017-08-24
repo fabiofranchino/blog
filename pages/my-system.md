@@ -7,7 +7,17 @@ permalink: pages/my-system
 
 This page is meant to be a personal repository of chunk of information regarding my computer setup. It may be useful in case I need to restore my computer for some reasons as well as it may be useful for other people. It's also meant to be a living document representing the latest snapshot of my current system trying to outline also the reason why of specific choices.
 
-## Node.js
+## Writing
+
+I write in markdown whenever is possible. I use two different editors based on the type of document I'm gonna to make. [Typora](https://typora.io/) is the editor of choice for verbose documents (i.e. blog post or similar writings). When I need to structure content (outline, presentation content, etc) I use [MacDown](https://macdown.uranusjr.com/).
+
+## Presentations
+
+I use [Deckset](https://www.decksetapp.com/) for all my presentation slides. It's simply awesome. You just write structured markdown, focussing on the content and you get beautiful slides in seconds.
+
+## Development
+
+### Node.js
 
 I use Node.js everyday. It's awesome.
 
@@ -19,7 +29,7 @@ Actually I've installed the following versions:
 
 The last one is the default version on my system.
 
-## NVM
+### NVM
 
 NVM is a simple bash script to manage multiple active node.js versions. You can get more information in the official [repository](https://github.com/creationix/nvm).
 
