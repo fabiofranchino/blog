@@ -191,3 +191,31 @@ p > code, li > code{
     cursor: pointer;
 }
 
+
+
+.related{
+    background-color: #eee;
+    padding-bottom: .5rem;
+}
+.related > p{
+    padding: 0 1rem;
+}
+.related > h2{
+   padding: 1rem;
+   padding-bottom: 0; 
+}
+
+
+
+.followme{
+    background-color: #FFFFDF;
+    padding-bottom: .5rem;
+}
+.followme > p{
+    padding: 0 1rem;
+}
+.followme > h2{
+   padding: 1rem;
+   padding-bottom: 0; 
+}
+
