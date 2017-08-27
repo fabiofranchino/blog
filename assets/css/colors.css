@@ -49,6 +49,9 @@ article.excerpt .header_img{
 article.excerpt a:hover{
     background-color: #555;
 }
+article p a{
+    color: #333;
+}
 
 /* PURPLE */
 .purple header{
@@ -93,6 +96,15 @@ article.excerpt .purple a:hover{
 .purple p > code{
     color: #842A94;
 }
+article p.purple a{
+    color: #842A94;
+}
+article p.purple a:hover{
+    color: #fff;
+    background-color: #842A94;
+}
+
+
 
 /* Red */
 .red header{
@@ -137,6 +149,15 @@ article.excerpt .red a:hover{
 .red p > code{
     color: #fe3509;
 }
+article p.red a{
+    color: #fe3509;
+}
+article p.red a:hover{
+    color: #fff;
+    background-color: #fe3509;
+}
+
+
 
 
 
@@ -183,3 +204,11 @@ article.excerpt .blue a:hover{
 .blue p > code{
     color: #0977fe;
 }
+article p.blue a{
+    color: #0977fe;
+}
+article p.blue a:hover{
+    color: #fff;
+    background-color: #0977fe;
+}
+

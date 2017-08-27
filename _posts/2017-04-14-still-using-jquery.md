@@ -2,7 +2,7 @@
 title: So, still using jQuery?
 date: 2017-04-14 14:00:00 +0100
 subtitle: 14th April, 2017
-style: red
+style: blue
 cover: cover.jpg
 categories: Opinions
 tags: [opinion, jquery, thoughts]
