@@ -4,8 +4,8 @@ date: 2017-05-07 14:00:00 +0100
 subtitle: 7th May, 2017
 style: red
 cover: modularity.jpg
-categories: Opinions
-tags: [opinion, jquery, thoughts]
+categories: Tutorials
+tags: [tutorial, jquery, thoughts, plugin]
 ---
 
 
