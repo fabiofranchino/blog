@@ -1,21 +1,26 @@
 ---
 title: My System
 layout: page
-last_modified_at: 2017-08-24
-permalink: pages/my-system
+last_modified_at: 2017-08-25
 ---
 
 This page is meant to be a personal repository of chunk of information regarding my computer setup. It may be useful in case I need to restore my computer for some reasons as well as it may be useful for other people. It's also meant to be a living document representing the latest snapshot of my current system trying to outline also the reason why of specific choices.
 
+## Managing
+
+I used to track my personal and professional tasks with a custom method you can read about [here](http://fabiofranchino.com/blog/the-getting-things-done-issue/). I feel confortable using [Basecamp](https://basecamp.com) to comunicate with my team in projects.
+
 ## Writing
 
-I write in markdown whenever is possible. I use two different editors based on the type of document I'm gonna to make. [Typora](https://typora.io/) is the editor of choice for verbose documents (i.e. blog post or similar writings). When I need to structure content (outline, presentation content, etc) I use [MacDown](https://macdown.uranusjr.com/).
+I [write in markdown](/blog/i-love-markdown/) whenever is possible. I use two different editors based on the type of document I'm gonna to make. [Typora](https://typora.io/) is the editor of choice for verbose documents (i.e. blog post or similar writings). When I need to structure content (outline, presentation content, etc) I use [MacDown](https://macdown.uranusjr.com/).
 
 ## Presentations
 
 I use [Deckset](https://www.decksetapp.com/) for all my presentation slides. It's simply awesome. You just write structured markdown, focussing on the content and you get beautiful slides in seconds.
 
 ## Development
+
+I 
 
 ### Node.js
 
