@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This is both the source files repository and the online compiled version (thanks to Jekyll and GH-Pages) of my personal [Blog](https://fabiofranchino.com/blog) where I throw my opinionated thoughts, tip&tricks and side projects documentations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiofranchino/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiofranchino/blog/issues"
+  },
+  "homepage": "https://github.com/fabiofranchino/blog#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "front-matter": "^2.2.0",
+    "lodash": "^4.17.4",
+    "marked": "^0.3.6",
+    "path": "^0.12.7"
+  }
+}

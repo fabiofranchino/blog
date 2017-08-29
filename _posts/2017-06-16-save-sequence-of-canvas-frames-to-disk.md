@@ -3,7 +3,6 @@ title: Save sequence of canvas frames to disk
 date: 2017-06-16 14:00:00 +0100
 subtitle: 16th June, 2017
 style: blue
-tags: [tutorial, nodejs]
 categories: Tutorials
 tags: [tutorial, nodejs, canvas, filesystem]
 ---

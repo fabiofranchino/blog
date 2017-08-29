@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 _drafts
 template.index.html
+node_modules
