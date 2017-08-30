@@ -279,5 +279,7 @@ Now, editing the array (adding, deleting, updating an object or property) will b
 
 ## Conclusion
 
-Not a true conclusion. I really hope to go deeper with Vue.js. I like it.
+Not a true conclusion.  
+I really hope to go deeper with Vue.js. I like it.
 
+As usual, source file [here](https://github.com/fabiofranchino/vue-basic-first-meeting) for those who are interested.
