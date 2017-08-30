@@ -8,7 +8,7 @@ categories: [adv]
 
 It's all about the web platform. An awesome platform that drive the whole internet.
 
-Speaking of web platform, the first thing we need is a browser.  
+Speaking of which, the first thing we do need is a browser.  
 Chrome has been always my browser of choice because the point has always been learning D3 and dataviz techniques, not how to deal with the browser inconsintency.  
 Furthermore, Chrome provides the best developer tool out there.
 
