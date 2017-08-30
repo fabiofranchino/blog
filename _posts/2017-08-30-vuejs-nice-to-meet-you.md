@@ -31,7 +31,7 @@ I've conducted a *getting started* time with the library, trying to discover som
 Import the library, use this HTML fragment:
 
 ```html
-<h1 id="app">{{ message }}</h1>
+{% raw %}<h1 id="app">{{ message }}</h1>{% endraw %}
 ```
 
 and this js code:
@@ -80,11 +80,11 @@ new Vue({
 Using the directive `v-for`:
 
 ```html
-<div id="app">
+{% raw %}<div id="app">
   <ul>
     <li v-for="item in items">{{ item }}</li>
   </ul>
-</div>
+</div>{% endraw %}
 ```
 
 Vue.js will render it according to the passed array:
@@ -103,10 +103,10 @@ new Vue({
 The `v-model` directive allows for two-way binding:
 
 ```html
-<div id="app">
+{% raw %}<div id="app">
   <textarea v-model="message"></textarea>
   <p>{{ message }}</p>
-</div>
+</div>{% endraw %}
 ```
 
 Now the textarea value will update the `p` tag everytime we type in it:
@@ -125,11 +125,11 @@ new Vue({
 The `v-if` directive allows for simple conditionals:
 
 ```html
-<div id="app">
+{% raw %}<div id="app">
   <ul>
     <li v-for="item in items" v-if="item.show">{{ item.label }}</li>
   </ul>
-</div>
+</div>{% endraw %}
 ```
 
 In this case, a property in data object will be responsible for the list item visibility:
@@ -153,14 +153,14 @@ new Vue({
 The `v-on:click` directive allows to add click event on HTML elements:
 
 ```html
-<div id="app">
+{% raw %}<div id="app">
   <ul>
     <li 
         v-for="item in items" 
         v-if="item.show"
         v-on:click="hide">{{ item.label }}</li>
   </ul>
-</div>
+</div>{% endraw %}
 ```
 
 If you want to pass the data object to the event handler function, you need to specify, explicitly, the arguments as the following:
@@ -168,13 +168,13 @@ If you want to pass the data object to the event handler function, you need to s
 <lineselect lines="4-4" ></lineselect>
 
 ```html
-<div id="app">
+{% raw %}<div id="app">
   <ul>
     <li v-for="item in items" 
         v-if="item.show"
         v-on:click="hide(item, $event)">{{ item.label }}</li>
   </ul>
-</div>
+</div>{% endraw %}
 ```
 
 The javascript part looks like:
