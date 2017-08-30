@@ -48,10 +48,10 @@ new Vue({
 Creating a reusable component:
 
 ```javascript
-Vue.component('my-comp', {
+{% raw %}Vue.component('my-comp', {
     template: '<h1>{{ mydata.message }}</h1>',
     props: ['mydata']
-})
+}){% endraw %}
 ```
 
 use it in your document specifying the data bind:
@@ -203,7 +203,7 @@ var vm = new Vue({
 We can transform the above code as reusable component with:
 
 ```javascript
-Vue.component('bars', {
+{% raw %}Vue.component('bars', {
     template: '<ul><li v-for="item in items" v-if="item.show" v-on:click="hide(item, $event)">{{item.label}}</li></ul>',
     props: ['items'],
     methods:{
@@ -211,7 +211,7 @@ Vue.component('bars', {
             item.show = false
         }
     }
-})
+}){% endraw %}
 ```
 
 and using the new tag in our document:
