@@ -23,4 +23,4 @@ The first option requires only the browser since they are online code editor. Ju
 
 The second option require to download and install a desktop software, then familiarize a bit with it. In more structured course it's the best option because it allows to work with the local filesystem. Furthermore it includes a local web server which is essential when it needs to load local external files.
 
-Go to the next lesson: [Understanding HTML](understanding-html)
+Go to the next lesson: [External Courses](external-courses.html)
