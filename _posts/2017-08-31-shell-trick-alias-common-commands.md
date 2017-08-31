@@ -1,5 +1,5 @@
 ---
-title: Shell Trick: Alias for common commands
+title: "Shell Trick: Alias for common commands"
 date: 2017-08-31 14:00:00 +0100
 subtitle: 31th August, 2017
 style: blue
