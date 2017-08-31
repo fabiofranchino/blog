@@ -20,8 +20,6 @@ I use [Deckset](https://www.decksetapp.com/) for all my presentation slides. It'
 
 ## Development
 
-I 
-
 ### Node.js
 
 I use Node.js everyday. It's awesome.
