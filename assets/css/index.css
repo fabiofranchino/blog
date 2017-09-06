@@ -17,11 +17,15 @@ header.index p
 
 @media (min-width: 460px){
 	header.index{
-		padding: 2rem;
+		padding: 2rem 3rem;
 	}
 }
 
-
+@media (min-width: 1020px) {
+	header.index{
+		padding: 2rem 4rem;
+	}
+}
 
 
 
