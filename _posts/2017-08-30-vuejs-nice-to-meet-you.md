@@ -203,7 +203,7 @@ var vm = new Vue({
 We can transform the above code as reusable component with:
 
 ```javascript
-{% raw %}Vue.component('bars', {
+{% raw %}Vue.component('list', {
     template: '<ul><li v-for="item in items" v-if="item.show" v-on:click="hide(item, $event)">{{item.label}}</li></ul>',
     props: ['items'],
     methods:{
@@ -251,7 +251,7 @@ We can use Vue.js with the SVG tag just like any other HTML tag. Suppose the fol
 and the component definition:
 
 ```javascript
-Vue.component('mysvg', {
+Vue.component('mychart', {
     template: '<svg><rect v-for="(item, index) in dataset" width="20" :x="index*21" :height="item.v" :y="50-item.v"></rect></svg>',
     props: ['dataset']
 })
