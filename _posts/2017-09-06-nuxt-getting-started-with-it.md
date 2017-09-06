@@ -149,4 +149,4 @@ now you can run `npm run generate` in a new Terminal window (keep the `dev` proc
 
 This process will generate for each page a static version of it preserving all the logic and the functionalities of the SPA version. Neat, isn't it? 
 
-More to come.
+Source files [here](https://github.com/fabiofranchino/nuxt-getting-started).
