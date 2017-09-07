@@ -16,3 +16,6 @@ I then started to embrace Macromedia (then Adobe) Flash as multimedia platform f
 
 I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chunks of code on [Github](https://github.com/abusedmedia) and sometimes update professional info on [Linkedin](https://www.linkedin.com/in/abusedmedia/).
 
+## Over the last ten years
+
+I've contributed in the open source community with small [modules](https://www.npmjs.com/~abusedmedia).

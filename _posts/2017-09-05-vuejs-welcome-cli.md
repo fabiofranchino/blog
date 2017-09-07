@@ -10,7 +10,7 @@ tags: [tutorial, vue, cli, basic, nuxt]
 
 In this [article](/blog/vuejs-nice-to-meet-you), I've documented my experience on getting started with [Vue.js](https://vuejs.org/).
 
-This time, I wanted to start using the official *suggested setup*, which supports the *.vue* file format and other very interesting features.
+This time, I wanted to start using the official [suggested setup](https://vuejs.org/v2/guide/single-file-components.html), which supports the *.vue* file format and other very interesting features.
 
 The setup configuration is quite complex, however, with the [vue-cli](https://github.com/vuejs/vue-cli) (the Vue Command Line Interface) it's a no brainer task.
 
