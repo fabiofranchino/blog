@@ -47,7 +47,7 @@ Over the years I tried a lot of them, giving up every single time.
 
 ## Single Point Of Truth
 
-I do believe in the Single Point Of Truth ([SSOP](https://en.wikipedia.org/wiki/Single_source_of_truth) theory).  
+I do believe in the Single Point Of Truth ([SSOT](https://en.wikipedia.org/wiki/Single_source_of_truth) theory).  
 
 At some point, I've started to use Evernote for my annotations. At some point, I've ended up to a single note to manage day-to-day tasks, adding, updating and deleting chunks of texts there.
 
