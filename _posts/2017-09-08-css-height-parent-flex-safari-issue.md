@@ -1,5 +1,5 @@
 ---
-title: The Safari CSS height issue in flex parent
+title: Safari is the new IE
 date: 2017-09-08 14:00:00 +0100
 subtitle: 8th September, 2017
 style: blue
@@ -8,9 +8,7 @@ categories: Tutorials
 tags: [tutorial, css, scroll, safari, issue, tip]
 ---
 
-I've already stated that:
-
-> Safari is the new IE.
+I've already stated that.
 
 Working with CSS these days is way better than few years ago thanks to the new *specs* as well as the commitment towards W3C standards from browser vendors.
 
