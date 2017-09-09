@@ -23,6 +23,10 @@ On **Chrome** and **Firefox** this works like a charm, but not on Safari (becaus
 <p data-height="265" data-theme-id="0" data-slug-hash="gxNzYV" data-default-tab="result" data-user="abusedmedia" data-embed-version="2" data-pen-title="Child height in flex parent" class="codepen">See the Pen <a href="https://codepen.io/abusedmedia/pen/gxNzYV/">Child height in flex parent</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
+Since it will be fixed at some point, here a screenshot taken with Safari 10.1.2 desktop version:
+
+![](../assets/posts/css-height-parent-flex-safari-issue/safari.png)
+
 And here a modified version to make it Safari compatible. You can see I had to add an additional wrapper and change the CSS making it less maintainable:
 
 <p data-height="265" data-theme-id="0" data-slug-hash="dzBePw" data-default-tab="result" data-user="abusedmedia" data-embed-version="2" data-pen-title="Child height in flex parent Safari compatible" class="codepen">See the Pen <a href="https://codepen.io/abusedmedia/pen/dzBePw/">Child height in flex parent Safari compatible</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>) on <a href="https://codepen.io">CodePen</a>.</p>
