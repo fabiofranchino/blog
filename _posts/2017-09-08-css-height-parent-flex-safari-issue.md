@@ -8,8 +8,6 @@ categories: Tutorials
 tags: [tutorial, css, scroll, safari, issue, tip]
 ---
 
-I've already stated that.
-
 Working with CSS these days is way better than few years ago thanks to the new *specs* as well as the commitment towards W3C standards from browser vendors.
 
 Unfortunately, it's not perfect. Indeed, we're far from living in a perfect world.
