@@ -3,7 +3,7 @@ title: CSS Scroll Behavior
 date: 2017-09-11 14:00:00 +0100
 subtitle: 11th September, 2017
 style: blue
-cover: cover.png
+cover: cover.gif
 categories: Tutorials
 tags: [tutorial, css, scroll, behavior, tip]
 ---
