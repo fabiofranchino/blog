@@ -18,9 +18,10 @@ Adding transitions to state changes is not a cosmetic feature. The ability to le
 
 The web is full of this kind of effect thanks to javascript that allows to add any kind of behavior to our interfaces. For that reason, the CSS `scroll-behavior` property is not going to impress anyone.
 
-What is amazing here (that is typically of the CSS in general) is the simplicity as well as the backward compatibility about adding this behavior. We don't have to reinvent the wheel with some library to incorporate a smooth scrolling behavior in our scollable panel, not anymore. And we don't have to worry about backward compatibility. If a browser doesn't support it, it will be ignored, making the page working without transition.
+What is amazing here (that is typically of the CSS in general) is the *simplicity* as well as the *backward compatibility* about adding this behavior.  
+We don't have to reinvent the wheel with some library to incorporate a smooth scrolling behavior in our scollable panel, not anymore. And we don't have to worry about backward compatibility. If a browser doesn't support it, it will be ignored, making the page working without transition.
 
-So far, it's compatible with the latest version of Chrome (61.x) and Firefox (55.x). Here a quick sketch, CSS only and Chrome/Firefox only.
+So far, it's compatible with the latest version of Chrome (61.x) and Firefox (55.x). Here a quick sketch that works on every browsers, with or without animation based on browser compatility.
 
 Feel free to click on the header sections, the next/prev and don't forget to try the last section as well:
 
