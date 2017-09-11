@@ -18,7 +18,7 @@ The problem was that I have to run the Node script by hand and sometimes (read: 
 
 My blog is Jekyll-driven, I'm quite happy with it but I'm not a rubyist and this is why I've writter that script in Node.js. I'm much more confortable with it.
 
-After a bit of research, I found out a way to integrate the two with a Jekyll plugin that call a Node.js script before building my blog for testing.
+After a bit of research, I found out a way to integrate the two with a Jekyll plugin that calls a Node.js script everytime I build my blog for local testing (I usually do it before publishing a new article).
 
 The Jekyll plugin is something like:
 
@@ -44,6 +44,6 @@ system "node build_index.js"
 
 Yuo need to put that file within the folder `_plugins` in your Jekyll root folder in order to call it automatically.
 
-As I said, I'm not a rubyist therefore I've just copy/paste/adapted something I found somewhere. 
+As I said, I'm not a rubyist, therefore, I've just copy/paste/adapted something I found somewhere. 
 
-The important thing is that it just work and I'm sure I won't forget to update my *words.json* file anymore.
+The important thing is that it just work and I'm pretty sure I won't forget to update my *words.json* file anymore.
