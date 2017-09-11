@@ -4,3 +4,4 @@ _site
 _drafts
 template.index.html
 node_modules
+_plugins
