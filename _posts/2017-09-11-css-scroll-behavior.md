@@ -21,11 +21,11 @@ The web is full of this kind of effect thanks to javascript that allows to add a
 What is amazing here (that is typically of the CSS in general) is the *simplicity* as well as the *backward compatibility* about adding this behavior.  
 We don't have to reinvent the wheel with some library to incorporate a smooth scrolling behavior in our scollable panel, not anymore. And we don't have to worry about backward compatibility. If a browser doesn't support it, it will be ignored, making the page working without transition.
 
-So far, it's compatible with the latest version of Chrome (61.x) and Firefox (55.x). Here a quick sketch that works on every browsers, with or without animation based on browser compatility.
+So far, it's compatible with the latest version of Chrome (61.x) and Firefox (55.x). Here a quick sketch that works on every browsers, with or without animation according to browser compatility.
 
 Feel free to click on the header sections, the next/prev and don't forget to try the last section as well:
 
 <p data-height="365" data-theme-id="light" data-slug-hash="qPWdwO" data-default-tab="result" data-user="abusedmedia" data-embed-version="2" data-pen-title="CSS Scroll Behavior" class="codepen">See the Pen <a href="https://codepen.io/abusedmedia/pen/qPWdwO/">CSS Scroll Behavior</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
 
-**Tip:** if you set the scrollable wrapper both with `overflow:hidden;` and `scroll-behavior: smooth;` you get and interesting effect. The user scroll is disabled (and so the scrollbar are hidden) but the behavior is still working as expected using the anchor links, even in browsers that don't support `scroll-behavior` property.
+**Tip:** if you set the scrollable wrapper both with `overflow:hidden;` and `scroll-behavior:smooth;` you'll get and interesting effect. The user scroll is disabled (and so the scrollbars are hidden) but the behavior is still working as expected using the anchor links, even in browsers that don't support `scroll-behavior` property.
