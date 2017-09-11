@@ -125,6 +125,9 @@ article .contrib{
     font-size: .9rem;
 }
 
+article p.perma{
+    font-size: .9rem;
+}
 
 footer a, article a{
 }
