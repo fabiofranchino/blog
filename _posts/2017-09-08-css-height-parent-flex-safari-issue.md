@@ -33,3 +33,5 @@ And here a modified version to make it Safari compatible. You can see I had to a
 As it happened in the old days, testing against the less compliant browser is key to avoid big headaches during CSS development. You've been warned.
 
 **Update:** actually, using *100vh* instead *100%* as height value makes it to work as expected. Good to know, however, this doesn't change my feeling on Safari.
+
+**Update 2:** apparently, the upcoming Safari 11 fixed the mentioned issue.
