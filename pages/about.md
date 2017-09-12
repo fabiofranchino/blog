@@ -16,6 +16,7 @@ I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chun
 
 - head of technology
 - problem solving with design thinking approach
+- team leader
 - interaction design
 - creative coding
 - front-end developer
@@ -23,14 +24,17 @@ I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chun
 - UI+UX designer
 - micro-interactions prototyper
 - data visualization specialist
-- tech lead and strategist
-- team leader
+- tech and strategist lead
 
 ## Technology stack
 
-I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, Node.js, Processing, Arduino, REST API, PHP, AS3.
+I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, Node.js, Processing, Arduino, REST API, PHP, AS3. 
+
 I currently use these frameworks: D3.js, Vue.js, Three.js, AFrame.js, Electron, Angular.js, Socket.io, Jekyll, Grunt, TweenMax, jQuery.
+
 My work routine includes these tools: Github, Basecamp, Firebase, Netlify, Wordpress, Contentful, Heroku.
+
+You can read more about my computer setup for my daily work routine [here](../my-system/).
 
 ## Open Source
 
