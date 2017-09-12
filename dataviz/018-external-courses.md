@@ -1,7 +1,7 @@
 ---
 title: External Courses
 layout: dataviz
-last_modified_at: 2017-08-31
+last_modified_at: 2017-09-12
 permalink: dataviz/external-courses
 categories: [adv]
 ---
@@ -22,3 +22,7 @@ An online tool to learn the basics on HTML, CSS and Javascript through step by s
 - Javascript basic online course [here](https://www.codecademy.com/learn/learn-javascript)
 
 Go to the next lesson: [Understanding HTML](understanding-html.html)
+
+## Others
+
+- [jqfundamentals.com](http://jqfundamentals.com/)

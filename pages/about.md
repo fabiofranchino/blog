@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 layout: page
 last_modified_at: 2017-09-12
 ---
