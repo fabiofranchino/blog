@@ -1,21 +1,50 @@
 ---
 title: About
 layout: page
-last_modified_at: 2017-08-25
+last_modified_at: 2017-09-12
 ---
 
-I was born forty-and-something years ago. I'm italian and I currently live in my country. I'm a father of a way-more-smarter-then-me **girl**.
+I was born forty-and-something years ago. I'm italian and I currently live in my country. I'm a father of a way-more-smarter-then-me little girl.
 
-I have more than fifteen years of **computational design** experience and extensive IT knowledge. I'm actually serving as **CTO** at [TODO](https://todo.to.it/), the design consultancy I've co-founded back in 2007. I'm used to leading the design and development team from a vantage point at the crossroads of design and coding. I love playing with technologies and passionate about Agile principles.
+I have more than fifteen years of **computational design** experience and extensive IT knowledge. I'm actually serving as **CTO** at [TODO](https://todo.to.it/), the design consultancy I've co-founded back in 2007. I'm happy enough to lead the design and development team from a vantage point at the crossroads of design and coding. I love exploring technologies and I'm passionate about internal processes optimization by means of Agile principles.
 
 My approach stems from a deep-rooted interest in creative disciplines, ranging from music to design, from performing to generative arts. In 2008 I conceived CSTEM, the first event devoted to computational design practices in art and design in Italy. I'm also a keen educator always been involved in teaching and lecturing at several institutions and workshops. I currently hold teaching positions at SUPSI, Lugano (interaction design at [MAIND Master Program](https://www.maind.supsi.ch/)), [Big Dive](http://www.bigdive.eu/) training program, Turin (data visualization), and [European Institute of Design](http://www.ied.it/), Turin (interface design and prototyping).
+
+I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chunks of code on [Github](https://github.com/abusedmedia) and sometimes update professional info on [Linkedin](https://www.linkedin.com/in/abusedmedia/).
+
+## Skills I'm confident with
+
+- head of technology
+- problem solving with design thinking approach
+- interaction design
+- creative coding
+- front-end developer
+- hybrid designer+developer
+- UI+UX designer
+- micro-interactions prototyper
+- data visualization specialist
+- tech lead and strategist
+- team leader
+
+## Technology stack
+
+I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, Node.js, Processing, Arduino, REST API, PHP, AS3.
+I currently use these frameworks: D3.js, Vue.js, Three.js, AFrame.js, Electron, Angular.js, Socket.io, Jekyll, Grunt, TweenMax, jQuery.
+My work routine includes these tools: Github, Basecamp, Firebase, Netlify, Wordpress, Contentful, Heroku.
+
+## Open Source
+
+I've contributed to the open source community with small [modules](https://www.npmjs.com/~abusedmedia). Most notabily are:
+
+- [static-player](https://github.com/abusedmedia/static-player) and [grunt-static-player](https://github.com/abusedmedia/grunt-static-player) to ease frontend development
+- [jllustrator](https://github.com/abusedmedia/jllustrator) a jQuery extension to add functionalities for creative coding purposes
+- [Mr-Builder](https://github.com/todotoit/Mr-Builder) a collection of Grunt tasks to ease website and webapp development
+
+## A brief history
 
 I started to be attracted by code and software way back in 1996 with Macrimedia Director. Lingo was the language.
 
 I then started to embrace Macromedia (then Adobe) Flash as multimedia platform for my experiments and then for commercial projects.
 
-I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chunks of code on [Github](https://github.com/abusedmedia) and sometimes update professional info on [Linkedin](https://www.linkedin.com/in/abusedmedia/).
+[… unfinished]
 
-## Over the last ten years
-
-I've contributed in the open source community with small [modules](https://www.npmjs.com/~abusedmedia).
