@@ -10,9 +10,9 @@ tags: [tutorial, d3js, custom, event, dispatch, tip]
 
 This post just to remember me how something apparently easy might be turned out so damn time consumer.
 
-> My goas: dispatch a custom event from a selection with custom parameter.
+> My goal: dispatch a custom event from a selection with custom parameter.
 
-Assume you have a selection:
+Let's assume you have a selection:
 
 ```javascript
 var circles = d3.selectAll('circle')
