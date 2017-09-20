@@ -107,7 +107,7 @@ generate: {
 
 In this case, the `id` will be used for the filename but you are free to implement different logic.
 
-You can [check the source](https://github.com/fabiofranchino/simple-blog-with-vuex) on Github and [navigate the prototype](https://fabiofranchino.com/simple-blog-with-vuex/) as well.
+You can [check the source](https://github.com/fabiofranchino/simple-blog-with-vuex) on Github and [navigate the prototype](https://fabiofranchino.com/simple-blog-with-nuxt/) as well.
 
 ## Conclusion
 
