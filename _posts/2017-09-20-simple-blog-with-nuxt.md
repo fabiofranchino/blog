@@ -53,7 +53,7 @@ You can see the template will iterate over the `article` array to build the titl
 
 ## Dynamic page
 
-So far, every page we want to publish need to be created as `.vue` component, manually, in `pages` folder. In our case, we need to deal with an array of objects where each object should become an article. Nuxt provides a way to setup a `.vue` component that acts as a `master` to generate multiple pages out of it.
+So far, every page we want to publish needs to be created as `.vue` component, manually, in `pages` folder. In our case, we need to deal with an array of objects where each object should become an article. Nuxt provides a way to setup a `.vue` component that acts as a `master` to generate multiple pages out of it.
 
 Inside the `pages` folder, let's create another folder named `article` (or choose your own) and within it put a `.vue` component named `_id.vue` with the following source:
 
