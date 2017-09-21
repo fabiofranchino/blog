@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: page
-last_modified_at: 2017-09-12
+last_modified_at: 2017-09-20
 ---
 
 I was born forty-and-something years ago. I'm italian and I currently live in my country. I'm a father of a way-more-smarter-then-me little girl.
@@ -30,7 +30,7 @@ I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chun
 
 I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, Node.js, Processing, Arduino, REST API, PHP, AS3. 
 
-I currently use these frameworks: D3.js, Vue.js, Three.js, AFrame.js, Electron, Angular.js, Socket.io, Jekyll, Grunt, TweenMax, jQuery.
+I currently use these frameworks: D3.js, Vue.js, Three.js, AFrame.js, Electron, Angular.js, Socket.io, Jekyll, Hexo, Grunt, TweenMax, jQuery.
 
 My work routine includes these tools: Github, Basecamp, Firebase, Netlify, Wordpress, Contentful, Heroku.
 
@@ -43,6 +43,8 @@ I've contributed to the open source community with small [modules](https://www.n
 - [static-player](https://github.com/abusedmedia/static-player) and [grunt-static-player](https://github.com/abusedmedia/grunt-static-player) to ease frontend development
 - [jllustrator](https://github.com/abusedmedia/jllustrator) a jQuery extension to add functionalities for creative coding purposes
 - [Mr-Builder](https://github.com/todotoit/Mr-Builder) a collection of Grunt tasks to ease website and webapp development
+- [Codepen](https://codepen.io/abusedmedia/) is a good repository of most of my experiments
+- On this [Github organization](https://github.com/fabiofranchino/) I put most of my (sometimes weird) side projects
 
 ## A brief history
 

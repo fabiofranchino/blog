@@ -1,12 +1,18 @@
 ---
-title: Creative Coding course
+title: Creative Coding
 layout: page
-last_modified_at: 2017-08-29
+last_modified_at: 2017-09-20
 ---
 
 I've been interested in creative coding discipline since I've discovered the potential of the code as creative medium. I've taught several courses and workshop always trying to refine my skills both as educator and course designer.
 
-In this page I collect some resources about courses and workshops I find out there for future reference.
+In this page I collect some resources about papers, tools, courses and workshops I find out there for future reference.
+
+### Creative computing curriculum and Scratch
+
+It's a thoroughly guide about teaching computational means for creative purposes. [Check it out](http://scratched.gse.harvard.edu/guide/)!
+
+Scratch is an online software to allow people program in an accessible environment. It's a MIT Media Lab project. Learn more [here](https://scratch.mit.edu) and [here](http://scratched.gse.harvard.edu/).
 
 ### Programming Design Systems
 

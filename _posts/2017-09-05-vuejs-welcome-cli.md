@@ -47,7 +47,7 @@ With this setup, the `src` folder is the place for the source files. A minimal V
 
 Each `.vue` file is a component that means:
 
-```
+```html
 <template></template>
 
 <script></script>
@@ -63,7 +63,7 @@ I've always struggled with the `css` and `js` folders full of files of the same 
 
 Create and save a new `.vue` file (let's say `MyComponent.vue`) within the `src` folder. Add the three parts belonging to a component (at least the *template*, optionally with *script* and *style*):
 
-```
+```html
 <template>
   <div>
     <h1>Thi is a component title</h1>
@@ -73,7 +73,7 @@ Create and save a new `.vue` file (let's say `MyComponent.vue`) within the `src`
 
 and use it from within any other `.vue` file with this code:
 
-```
+```html
 <template>
   <div>
     <mycom />
