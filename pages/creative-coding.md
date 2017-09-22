@@ -16,12 +16,13 @@ It's a thoroughly guide about teaching computational means for creative purposes
 
 Scratch is an online software to allow people program in an accessible environment. It's a MIT Media Lab project. Learn more [here](https://scratch.mit.edu) and [here](http://scratched.gse.harvard.edu/).
 
-## Creative Coders
+## Creative Coders / Technologists
 
 - [Nicholas Rougeux](https://www.c82.net/)
 - [Taylor Baldwin](https://tbaldw.in/)
 - [Nicolas Barradeau](http://www.barradeau.com/)
 - [Max Cooper](https://maxcooper.net/)
+- [Matthew Epler](http://mepler.com/)
 
 ## Courses
 
@@ -40,3 +41,7 @@ It's an [online course](https://www.futurelearn.com/courses/creative-coding) abo
 ### An introductory p5.js curriculum
 
 [An introductory p5.js curriculum](https://github.com/nikfm/p5jsCurriculum)
+
+### Designing Generative Systems w/ P5.js
+
+[Video course on Youtube by Matthew Epler](https://www.youtube.com/watch?v=rTqvf0BkTNE&list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
