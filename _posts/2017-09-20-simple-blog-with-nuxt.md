@@ -21,7 +21,7 @@ The notable differences from the previous tutorial are essentially two.
 The `index` page is a template that will be populated by means of an array of objects that comes from an ajax request, and this is the Nuxt way to do that:
 
 ```html
-<template>
+{% raw %}<template>
   <article>
     <h1>Index</h1>
     <div class="grid">
@@ -46,7 +46,7 @@ export default {
   }
 }
 
-</script>
+</script>{% endraw %}
 ```
 
 You can see the template will iterate over the `article` array to build the titles list.
@@ -58,7 +58,7 @@ So far, every page we want to publish needs to be created as `.vue` component, m
 Inside the `pages` folder, let's create another folder named `article` (or choose your own) and within it put a `.vue` component named `_id.vue` with the following source:
 
 ```html
-<template>
+{% raw %}<template>
   <article>
     <h1>{{title}}</h1>
     <p>{{body}}</p>
@@ -79,7 +79,7 @@ export default {
   }
 }
 
-</script>
+</script>{% endraw %}
 ```
 
 ## Test the shit
