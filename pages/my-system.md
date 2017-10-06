@@ -1,7 +1,7 @@
 ---
 title: My System
 layout: page
-last_modified_at: 2017-08-25
+last_modified_at: 2017-09-29
 ---
 
 This page is meant to be a personal repository of chunk of information regarding my computer setup. It may be useful in case I need to restore my computer for some reasons as well as it may be useful for other people. It's also meant to be a living document representing the latest snapshot of my current system trying to outline also the reason why of specific choices.
@@ -49,3 +49,10 @@ The most important command in NVM are:
 - nvm install *which-version-number*
 
 Currently I'm using the 0.33.2.
+
+To change the default version of Node.js with NVM, use this command (thanks this [article](https://eric.blog/2016/08/23/set-default-node-version-with-nvm/)):
+
+```shell
+nvm alias default 8.0.0
+```
+

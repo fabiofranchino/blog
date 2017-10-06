@@ -1,7 +1,7 @@
 ---
 title: Data Visualization
 layout: page
-last_modified_at: 2017-09-21
+last_modified_at: 2017-09-25
 ---
 
 ## Dataviz Designers
@@ -11,3 +11,8 @@ last_modified_at: 2017-09-21
 - [Sebastian Sadowski](https://datadesign.studio/)
 - [Jan Willem Tulp](http://tulpinteractive.com/)
 
+
+## Visualization Models
+
+- http://datavizproject.com/
+- http://www.datavizcatalogue.com/
