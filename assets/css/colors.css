@@ -7,6 +7,9 @@ header.index .blue{
 header.index .purple{
     color: #842A94;
 }
+header.index .orange{
+    color: #FFBD0B; /* #F89E41 */
+}
 
 
 /* default: GREY */
@@ -212,3 +215,57 @@ article p.blue a:hover{
     background-color: #0977fe;
 }
 
+
+
+
+
+/* Orange */
+.orange header{
+    background-color: #F89E41; 
+    background: linear-gradient(125deg, #FFBD0B, #F89E41);
+    border-bottom: 5px solid #FFBD0B;   
+}
+.orange article h2{
+    color: #FFBD0B;
+    border-top: 1px dashed rgba(0,0,0, .4);
+}
+.orange article blockquote{
+    border-color: #FFBD0B;
+    background-color: rgba(0,0,0, .08);
+    color: #F89E41;
+}
+.orange footer a, .orange article a{
+    color: #FFBD0B;
+}
+.orange footer a:hover, .orange article a:hover{
+    color: white;
+    background-color: #FFBD0B;
+}
+article #index li.orange:hover{
+    background-color: #FFBD0B;
+}
+#index .orange a{
+    color: #FFBD0B;
+}
+.orange .grid_item.padded > img{
+    border-color:#FFBD0B;
+}
+article.excerpt .orange .header_wrap:before{
+    border-right-color: #FFBD0B;
+}
+article.excerpt .orange .header_img{
+    border-color: #FFBD0B;
+}
+article.excerpt .orange a:hover{
+    background-color: #FFBD0B;
+}
+.orange p > code{
+    color: #FFBD0B;
+}
+article p.orange a{
+    color: #FFBD0B;
+}
+article p.orange a:hover{
+    color: #fff;
+    background-color: #FFBD0B;
+}

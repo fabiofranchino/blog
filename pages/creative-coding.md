@@ -27,6 +27,7 @@ Scratch is an online software to allow people program in an accessible environme
 - [Nicolas Barradeau](http://www.barradeau.com/)
 - [Max Cooper](https://maxcooper.net/)
 - [Matthew Epler](http://mepler.com/)
+- [Varun Vachhar](http://varun.ca/)
 
 ## Courses
 
