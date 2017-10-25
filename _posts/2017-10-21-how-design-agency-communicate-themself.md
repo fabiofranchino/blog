@@ -1,7 +1,7 @@
 ---
 title: How design agencies communicate themselves?
 date: 2017-10-21 14:00:00 +0100
-subtitle: 21th October, 2017
+subtitle: 21st October, 2017
 style: orange
 cover: cover.jpg
 categories: Review

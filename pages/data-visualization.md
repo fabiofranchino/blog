@@ -12,6 +12,10 @@ last_modified_at: 2017-09-25
 - [Jan Willem Tulp](http://tulpinteractive.com/)
 
 
+## Dataviz Studios
+
+- [WebKid](https://webkid.io)
+
 ## Visualization Models
 
 - http://datavizproject.com/
