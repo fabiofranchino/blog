@@ -34,8 +34,8 @@ I'm quite happy with the outcomes. They were skeptical at first but during the s
 
 I've noticed a couple of things observing them during the workshop:
 
-- They started to draw in silence but then they began to talk and interact in order to suggest possible directions (where to draw the next square, how to draw it, etc)
-- They followed the rules strictly at first, then some asked for variations and some were nice variations, which I will include in future editions.
-- They began even to want to break some rules. Some were interesting starting points for further explorations.
+- They started to draw in silence but then they began to **talk** and **interact** in order to suggest possible directions (where to draw the next square, how to draw it, etc)
+- They followed the rules strictly at first, then some **asked for variations** and some were nice, which I will include in future editions.
+- They began even to want to **break** some rules. Some were interesting starting points for further explorations.
 
-Eventually, they loved their creation as it happens for a creative team after a well designed project.
+Eventually, they **loved** their creation as it happens for a creative team after a well designed project.
