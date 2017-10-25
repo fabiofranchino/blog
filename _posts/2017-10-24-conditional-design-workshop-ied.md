@@ -1,5 +1,5 @@
 ---
-title: Conditinal Design Workshop at IED
+title: Conditional Design Workshop at IED
 date: 2017-10-25 14:00:00 +0100
 subtitle: 25th October, 2017
 style: orange
