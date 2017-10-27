@@ -9,3 +9,5 @@ last_modified_at: 2017-10-18
 [RNDR](https://rndr.studio/) (NL)
 
 [LUST](https://lust.nl) (NL)
+
+[DIA](http://dia.tv/) (USA)
