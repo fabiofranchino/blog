@@ -38,7 +38,14 @@
 
 			<!-- <p class="scream"><a href="https://goo.gl/0GLSb3" target="blank"><img src="../assets/common/adventures_dataviz.png" alt=""></a><span>shameless advertising</span></p> -->
 
-			{{ content }}
+			{% if content contains "<!-- main_ad -->" %}
+			{{ content | split:"<!-- main_ad -->" | first % }}
+			    {% include main_ad.html %}
+			{{ content | split:"<!-- main_ad -->" | last % }}
+			{% else %}
+			    {{ content }}
+			{% endif %}
+
 
 			{% include related.html %}
 

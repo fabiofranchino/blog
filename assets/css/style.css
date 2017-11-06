@@ -222,3 +222,24 @@ p > code, li > code{
    padding-bottom: 0; 
 }
 
+
+.newsletter-box{
+    background-color: #FFFFDF;
+    padding: 1rem;
+    border: 1px dashed #555;
+}
+.newsletter-box p{
+    margin-top: 0;
+}
+.newsletter-box .email-group{
+    display: flex;
+}
+.newsletter-box .email-group input{
+    flex:2;
+    padding: .4rem;
+}
+.newsletter-box .email-group button{
+    flex:1;
+    padding: .4rem;
+}
+

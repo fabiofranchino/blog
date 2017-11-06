@@ -12,6 +12,8 @@ tags: [tutorial, aframe, d3js, tips, vr]
 It's actively supported by [Mozilla](https://www.mozilla.org/en-US/) and it promises to be easy to use and accessible even for non-experienced programmers.  
 It's built on top of [Three.js](https://threejs.org/) and other cool web technologies.
 
+<!-- main_ad -->
+
 VR is actually **a big thing** and it's something I wanted to put my hands on in quite some time. I'm also interested in exploring the potential integration with [D3.js](https://d3js.org/) for data visualization purposes in VR experiences.  
 
 Thus, here my first steps.

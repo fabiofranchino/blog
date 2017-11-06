@@ -12,6 +12,8 @@ I was just scribbling on paper without a specific goal. Suddenly, a little **ah-
 
 ![screen](../assets/posts/efficient-tooltip-positioning-in-d3js-chart/sketch.jpg)
 
+<!-- main_ad -->
+
 ## The proof-of-concept
 
 Apparently, I'm all about [Proof](http://fabiofranchino.com/blog/going-towards-reusable-d3js-charts/)-[Of](http://fabiofranchino.com/blog/towards-a-better-chart-template/)-[Concept](http://fabiofranchino.com/blog/size-matters/) these days. 

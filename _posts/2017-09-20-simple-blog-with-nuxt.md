@@ -14,6 +14,8 @@ In this post, I'm going to outline the additional steps to build a bare bones bl
 
 This is a very basic blog with an `index` template, a sidebar and a `post` template using a json array as the data source.
 
+<!-- main_ad -->
+
 The notable differences from the previous tutorial are essentially two.
 
 ## Using external data

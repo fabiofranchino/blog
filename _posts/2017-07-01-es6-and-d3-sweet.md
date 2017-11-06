@@ -13,6 +13,8 @@ So far, I'm quite confident writing arrow functions and template strings.
 
 In the D3.js world, even those little features bring huge benefits from code readability point of view.
 
+<!-- main_ad -->
+
 ## Arrow function
 
 Let's consider a very common and frequent chunk of code in a D3.js script:
