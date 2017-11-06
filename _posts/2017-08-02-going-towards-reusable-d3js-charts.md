@@ -19,6 +19,8 @@ In the D3.js context, that would mean to reach to some yet-another-library built
 I don't want to build a library. My premises are a little bit different.  
 What I'm thinking is something that is easy to use, easy to extend, easy to combine and all that shit without putting too much complexity in it, simple ah? 
 
+<!-- main_ad -->
+
 I did some research and studies on some existing thirty part libraries without ending up to any brilliant idea.  
 Then, I've stumbled upon (again, since I've read it a few years ago) [this](https://bost.ocks.org/mike/chart/) evergreen article from the maintainer of D3.js, Mike Bostock.
 

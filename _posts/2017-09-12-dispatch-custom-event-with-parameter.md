@@ -26,6 +26,8 @@ circles.on('myevt', function(d, i){
 })
 ```
 
+<!-- main_ad -->
+
 Now you want to dispatch that *custom event*, therefore, all the elements listening for it will be notified:
 
 ```javascript

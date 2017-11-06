@@ -13,6 +13,8 @@ I can't help but try it as soon as possible, so here I am.
 
 This time, instead of using some magic command to start with a scaffolding, I went to a different route, starting from scratch setting up and working on a project with an empty folder as the starting point. 
 
+<!-- main_ad -->
+
 Surprisingly, everything went smooth and clear to me.
 
 So, let's have this journey together to create a universal Vue app with Nuxt. 

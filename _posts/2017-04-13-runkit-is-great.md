@@ -14,6 +14,8 @@ Some friends and followers already know I'm a keen advocate of scraping online i
 
 To me, the default openness of the information, which is at the heart of the web, is the most important feature that allowed the internet to grow in an organic and unpredictable way.
 
+<!-- main_ad -->
+
 Scraping information can be achieved with a lot of technologies across different difficult levels.  
 I've already shown one of these ways in this [article](/blog/scraping-data-in-the-kitchen) where the DevTool of the browser was the main tool.
 

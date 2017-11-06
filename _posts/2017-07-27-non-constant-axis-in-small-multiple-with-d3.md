@@ -14,6 +14,8 @@ tags: [tutorial, d3js, tips, smallmultiple]
 
 [Small multiple](https://en.wikipedia.org/wiki/Small_multiple) in data visualization is a way to represent and compare variations of a property in several categories at once by means of an array of small and pretty similar charts that use the same scale and axes.
 
+<!-- main_ad -->
+
 The *"same scale and axes"* is mandatory in this context otherwise the comparison cannot be done.
 
 In D3.js context, creating multiple charts out of a single dataset is a matter of using the popular data-join mechanism that is at the heart of the library concept.

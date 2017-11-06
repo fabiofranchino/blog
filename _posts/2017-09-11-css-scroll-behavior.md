@@ -12,6 +12,8 @@ Last day I've been notified by Google Chrome about its version update (61.x). I'
 
 I've got interested and I've conducted a quick search about it.
 
+<!-- main_ad -->
+
 It's a [neat property](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior) that allows to smoothly animate the scroll position in a scollable box, instead of a straight jump, when using anchor links to target different position of the viewport.
 
 Adding transitions to state changes is not a cosmetic feature. The ability to let the user know what's going on in front of her after an action is **key** in usability realm.

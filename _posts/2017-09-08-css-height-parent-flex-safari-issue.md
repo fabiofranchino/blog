@@ -14,6 +14,8 @@ Unfortunately, it's not perfect. Indeed, we're far from living in a perfect worl
 
 I can feel a pattern everytime I work with CSS and layout: **Safari** is the last step, the "give me a break, eventually, I'll fix Safari issues".
 
+<!-- main_ad -->
+
 Here an example of what I'm talking about. A simple layout with a scrollable container and a bunch of children that expand their height 100% the container size.
 
 On **Chrome** and **Firefox** this works like a charm, but not on Safari (because it fails to calculate the height of the children elements according to the container size):

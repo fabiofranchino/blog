@@ -15,6 +15,8 @@ It might also be useful for others, though.
 
 **TL;RL:** To use Browser-sync with Electron use the recent **localOnly** option. It works like a charm.
 
+<!-- main_ad -->
+
 ![](../assets/posts/browser-sync-with-electron/cover.png)
 
 ## Browser-sync

@@ -14,6 +14,8 @@ I've always been confident and happy about it because it has always been the pro
 
 I was wrong. It's not going to be a thing.
 
+<!-- main_ad -->
+
 The browser support speaks by itself. Only Google Chrome natively support it. The other main vendors need a polyfill to work with.
 
 ![](../assets/posts/html-import-is-dead/browser-compatibility.png)
