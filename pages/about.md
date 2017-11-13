@@ -2,11 +2,14 @@
 title: About Me
 layout: page
 last_modified_at: 2017-09-20
+permalink: /pages/about.html
 ---
 
-I was born forty-and-something years ago. I'm italian and I currently live in my country. I'm a father of a way-more-smarter-then-me little girl.
+I was born forty-and-something years ago. I'm italian and I currently live in my (still) beautiful country. I'm a father of a *way-more-smarter-then-me* little girl.
 
-I have more than fifteen years of **computational design** experience and extensive IT knowledge. I'm actually serving as **CTO** at [TODO](https://todo.to.it/), the design consultancy I've co-founded back in 2007. I'm happy enough to lead the design and development team from a vantage point at the crossroads of design and coding. I love exploring technologies and I'm passionate about internal processes optimization by means of Agile principles.
+I have more than fifteen years of **computational design** experience and extensive IT knowledge. I'm actually serving as **CTO** at [TODO](https://todo.to.it/), the design consultancy I've co-founded back in 2007. I'm happy enough to lead the design and development team from a vantage point at the crossroads of **design** and **coding**. I love exploring technologies and I'm passionate about internal processes optimization by means of Agile and innovative principles. I'm not satisfied by my actual knowledge, therefore, I constantly study something. I'm an ever learner person.
+
+![](images/me.jpg)
 
 My approach stems from a deep-rooted interest in creative disciplines, ranging from music to design, from performing to generative arts. In 2008 I conceived CSTEM, the first event devoted to computational design practices in art and design in Italy. I'm also a keen educator always been involved in teaching and lecturing at several institutions and workshops. I currently hold teaching positions at SUPSI, Lugano (interaction design at [MAIND Master Program](https://www.maind.supsi.ch/)), [Big Dive](http://www.bigdive.eu/) training program, Turin (data visualization), and [European Institute of Design](http://www.ied.it/), Turin (interface design and prototyping).
 
@@ -25,6 +28,9 @@ I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chun
 - micro-interactions prototyper
 - data visualization specialist
 - tech and strategist lead
+- team leader
+- devOps
+- IoT passionate
 
 ## Technology stack
 
@@ -33,6 +39,8 @@ I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, 
 I currently use these frameworks: D3.js, Vue.js, Three.js, AFrame.js, Electron, Angular.js, Socket.io, Jekyll, Hexo, Grunt, TweenMax, jQuery.
 
 My work routine includes these tools: Github, Basecamp, Firebase, Netlify, Wordpress, Contentful, Heroku.
+
+My development principles: mobile-first responsive web development, smooth cross-device experience, usability principles, progressive enhancement.
 
 You can read more about my computer setup for my daily work routine [here](../my-system/).
 

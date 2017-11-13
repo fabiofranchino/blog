@@ -232,7 +232,7 @@ p > code, li > code{
     margin-top: 0;
 }
 .newsletter-box .email-group{
-    display: flex;
+    display: block;
 }
 .newsletter-box .email-group input{
     flex:2;
@@ -241,5 +241,13 @@ p > code, li > code{
 .newsletter-box .email-group button{
     flex:1;
     padding: .4rem;
+    background-color: #eee;
+    border:none;
+    width: 100%;
 }
 
+@media (min-width: 460px) {
+    .newsletter-box .email-group{
+        display: flex;
+    }
+}
