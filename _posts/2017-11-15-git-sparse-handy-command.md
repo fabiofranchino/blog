@@ -7,7 +7,7 @@ categories: Tutorials
 tags: [tutorial, git, sparse, tip]
 ---
 
-Here at [TODO](https://todo.to.it/) we design and develop a big variety of projects. 
+At [TODO](https://todo.to.it/) we design and develop a big variety of projects. 
 
 Sometimes those projects rely on interactive software for exhibits. This means developing several software belonging to the same project and each software needs share/use some common parts. For that reason we usually put all the source code on a single git repository for convenience.
 

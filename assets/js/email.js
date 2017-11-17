@@ -1,7 +1,5 @@
 ;(function ($) {
-  console.log('one')
   $(document).ready(function () {
-    console.log('two')
     $('#sendEmail').on('click', function () {
       var val = $('#theEmail').val()
       console.log('click', val)
@@ -16,6 +14,12 @@
         },
         complete: function (data) {
           console.log(data)
+          $('#thanksEmail').show()
+          $('#theEmail').val('')
+          if (data.statusText === 'error') {
+            console.log('err')
+            $('#thanksEmail').text("Sorry. There's some error.")
+          }
         },
         error: function (err) {
           console.log(err)

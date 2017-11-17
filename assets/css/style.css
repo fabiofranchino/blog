@@ -246,6 +246,12 @@ p > code, li > code{
     width: 100%;
 }
 
+#thanksEmail{
+    display: none;
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+
 @media (min-width: 460px) {
     .newsletter-box .email-group{
         display: flex;
