@@ -217,6 +217,10 @@ article .img_separator{
     padding: .5rem 0;
 }
 
+.grid.four.cond > .grid_item{
+    padding: 0;
+}
+
 .grid_item.padded{
 }
 .grid_item.padded > img{
