@@ -25,7 +25,7 @@ var margin = {top: 10, bottom: 30, left: 40, right: 10}
 
 ## Custom accessor
 
-Based on the idea to follow d3.js paradigm as much as possible, I've added the possibility to change some accessors in the same way d3.js does with its objects. This means that I can write something like:
+Based on the idea to follow the d3.js paradigm as much as possible, I've added the possibility to change some accessors in the same way d3.js does with its objects. This means that I can write something like:
 
 ```js
 var colorScale = d3.scaleOrdinal(d3.schemeCategory10)
@@ -35,7 +35,7 @@ var vis = myViz()
   .y(d => d.val)
 ```
 
-or something like:
+as well as this:
 
 ```js
 var vis = myViz()
@@ -43,7 +43,7 @@ var vis = myViz()
   .y('country')
 ```
 
-This gives the developer great flexibility without compromising the usability with too many configuration options.
+to give the developer great flexibility without compromising the usability with too many configuration options.
 
 The magic happens thanks to this piece of code:
 
