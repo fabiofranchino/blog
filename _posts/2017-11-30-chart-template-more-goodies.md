@@ -71,3 +71,5 @@ d3.line()
 ## Where it's going?
 
 It's a long journey with a lot of thoughts and second thoughts. I like to continue to stick with the d3.js paradigms that allow great flexibility. We'll see next.
+
+Source code [here](https://github.com/fabiofranchino/chart-template-more-goodies).
