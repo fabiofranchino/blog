@@ -257,3 +257,43 @@ p > code, li > code{
         display: flex;
     }
 }
+
+
+
+.comments{
+    background-color: #FFFFDF;
+    padding-bottom: .5rem;
+}
+.comments > p{
+    padding: 0 1rem;
+}
+.comments > h2{
+   padding: 1rem;
+   padding-bottom: 0; 
+}
+
+.comments .comment-group{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.comments .comment-group > *{
+    margin-bottom: 1rem;
+    padding: .5rem;
+    font-size: .9rem;
+}
+
+.comments #thanksComment{
+    display: none;
+}
+
+.comments .comment-group button{
+    flex:1;
+    background-color: #eee;
+    border:none;
+    width: 100%;
+}
+
+.comments #commentBoard{
+    list-style-type: none;
+}

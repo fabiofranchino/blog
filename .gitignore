@@ -5,3 +5,4 @@ _drafts
 template.index.html
 node_modules
 _plugins
+post.template.html
