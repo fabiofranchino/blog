@@ -12,4 +12,6 @@ last_modified_at: 2017-10-18
 
 [DIA](http://dia.tv/) (USA)
 
-[Pilotfish](http://www.pilotfish.eu/) (The Nederland, Germany)
+[Pilotfish](http://www.pilotfish.eu/) (The Netherland)
+
+[Random Studio](http://random.studio/) (The Netherland)
