@@ -20,7 +20,7 @@ Scratch is an online software to allow people program in an accessible environme
 
 - <http://thedotisblack.tumblr.com/>
 
-## Creative Coders / Technologists
+## Creative Coders / Technologists / Artists
 
 - [Nicholas Rougeux](https://www.c82.net/)
 - [Taylor Baldwin](https://tbaldw.in/)
@@ -29,6 +29,7 @@ Scratch is an online software to allow people program in an accessible environme
 - [Matthew Epler](http://mepler.com/)
 - [Varun Vachhar](http://varun.ca/)
 - [Kyle McDonald](http://kylemcdonald.net/)
+- http://inconvergent.net/
 
 ## Courses
 
