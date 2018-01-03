@@ -8,7 +8,7 @@ categories: Projects
 tags: [project, legacy, cstem, creative, coding, generative]
 ---
 
-Over the first decade of this millennium, I've been involved in a practice that definitely shaped my creative view as well as my professional life, a practice thoroughly defined by *Philip Galanter* as:
+Over the first decade of this millennium I've been involved in a practice that definitely shaped my creative view as well as my professional life, a practice thoroughly defined by *Philip Galanter* as:
 
 > «[…] an art practice where the artist uses a system, such as a set of natural language rules, a computer program, a machine, or other procedural invention, which is set into motion with some degree of autonomy contributing to or resulting in a completed work of art.»
 
