@@ -7,6 +7,7 @@ var cheerio = require('cheerio')
 var front = require('front-matter')
 
 var tot = 0
+var totChar = 0
 var db = {posts: []}
 var folder = path.join('_posts')
 var tags = []
@@ -23,6 +24,7 @@ _.each(dir, function (f) {
     post.body = txt
     var num = txt.trim().split(/\s+/).length
     tot += num
+    totChar += txt.length
 
     tags = tags.concat(post.attributes.tags)
     tags = _.uniqBy(tags)
@@ -31,14 +33,14 @@ _.each(dir, function (f) {
   }
 })
 
-fs.writeFile('assets/index/count.json', JSON.stringify({words: tot}))
-fs.writeFile('assets/index/db.json', JSON.stringify(db))
-fs.writeFile('assets/index/tags.json', JSON.stringify(tags))
+fs.writeFileSync('assets/index/count.json', JSON.stringify({words: tot, chars: totChar}))
+fs.writeFileSync('assets/index/db.json', JSON.stringify(db))
+fs.writeFileSync('assets/index/tags.json', JSON.stringify(tags))
 
 var tmpl = fs.readFileSync('tag/_tag.tmpl')
 
 _.each(tags, function (t) {
   var tmplpage = _.template(tmpl)
   var srcpage = tmplpage({name: t})
-  fs.writeFile(`tag/${t}.md`, srcpage)
+  fs.writeFileSync(`tag/${t}.md`, srcpage)
 })
