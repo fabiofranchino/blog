@@ -30,6 +30,7 @@ Scratch is an online software to allow people program in an accessible environme
 - [Varun Vachhar](http://varun.ca/)
 - [Kyle McDonald](http://kylemcdonald.net/)
 - http://inconvergent.net/
+- http://manoloide.com/
 
 ## Courses
 
