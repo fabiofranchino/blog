@@ -28,7 +28,7 @@ var chart = rivela.barchart()
 	.height(200)
 ```
 
-The module has some defaults and provide some configs, then, D3.js is explicitly required to complete the initialization:
+The module has some defaults and provides some configs, then, D3.js is explicitly required to complete the initialization:
 
 <p data-height="270" data-theme-id="light" data-slug-hash="MrOQvG" data-default-tab="js,result" data-user="abusedmedia" data-embed-version="2" data-pen-title="MrOQvG" class="codepen">See the Pen <a href="https://codepen.io/abusedmedia/pen/MrOQvG/">MrOQvG</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
@@ -37,7 +37,7 @@ The module has some defaults and provide some configs, then, D3.js is explicitly
 
 Chart libraries usually require specific data structure in order to build something visible. This is perfectly reasonable in order to avoid too much complexity into the lib just to rearrange datasets. On the other hand, it might result annoying restructuring a loaded dataset for a simple chart . 
 
-While some structure is required, the user should be able to specify some structure via configuration. 
+While some structure is required, the user should be able to specify some options about how to use the dataset. 
 
 I do really love how D3.js allows this kind of configuration by means of custom accessors. This module borrows the same strategy for custom configurations, such as:
 
