@@ -20,6 +20,7 @@ last_modified_at: 2017-09-25
 ## Dataviz Studios
 
 - [WebKid](https://webkid.io)
+- [Kiln](https://www.kiln.digital)
 
 ## Visualization Models
 
@@ -29,3 +30,8 @@ last_modified_at: 2017-09-25
 
 ## Dataviz Libraries
 
+## Dataviz Tools
+
+- https://flourish.studio/
+- http://rawgraphs.io/
+- http://www.svift.xyz/

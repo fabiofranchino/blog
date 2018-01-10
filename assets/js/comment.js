@@ -24,7 +24,7 @@
             $('#thanksComment').text("Sorry. There's some error.")
           } else {
             var c = $('<div><p><strong>' + name + '</strong>: ' + comm + '</p></div>')
-            $('#commentBoard').append(c)
+            // $('#commentBoard').append(c)
           }
         },
         error: function (err) {
