@@ -22,7 +22,12 @@
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
+      <div class="related_item">
+        {% if post.cover %}
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="../assets/posts/{{ post.slug }}/{{ post.cover }}" /></a>
+        {% endif %}
+        <a href="{{ site.baseurl }}{{ post.url }}"><span>{{ post.title }}</span></a>
+      </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}

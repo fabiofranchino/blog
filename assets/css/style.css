@@ -196,17 +196,7 @@ p > code, li > code{
 
 
 
-.related{
-    background-color: #eee;
-    padding-bottom: .5rem;
-}
-.related > p{
-    padding: 0 1rem;
-}
-.related > h2{
-   padding: 1rem;
-   padding-bottom: 0; 
-}
+
 
 
 
@@ -296,4 +286,52 @@ p > code, li > code{
 
 .comments #commentBoard{
     list-style-type: none;
+}
+
+
+
+
+
+
+.related{
+    background-color: #eee;
+    padding-bottom: .5rem;
+}
+.related > p{
+    padding: 0 1rem;
+}
+.related > h2{
+   padding: 1rem;
+   padding-bottom: 1rem; 
+}
+
+
+.related_item{
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.related_item img{
+    width: 100%;
+    display: inherit;
+}
+.related_item a{
+    padding: .15rem;
+    text-align: center;
+}
+
+@media(min-width: 460px){
+    .related_item{
+        flex-direction: row;
+        justify-content: start;
+    }
+    .related_item img{
+        width: 150px;
+    }
+    .related_item a{
+        text-align: left;
+    }
 }
