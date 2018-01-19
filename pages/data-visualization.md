@@ -15,12 +15,20 @@ last_modified_at: 2017-09-25
 - [Matteo Moretti](http://portfolio.matteomoretti.com/)
 - [Miriam Quick](http://www.miriamquick.com/)
 - [Sebastian Meier](http://www.sebastianmeier.eu/)
+- [Datamake](http://www.datamake.io/)
 
 
 ## Dataviz Studios
 
 - [WebKid](https://webkid.io)
 - [Kiln](https://www.kiln.digital)
+- [SmallMultiples](https://smallmultiples.com.au/)
+
+#### Italy
+
+- [Accurat](https://www.accurat.it/)
+- [Calibro](http://calib.ro/)
+- [TheVisualAgency](https://thevisualagency.com)
 
 ## Visualization Models
 
