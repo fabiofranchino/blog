@@ -1,5 +1,7 @@
 ;(function ($) {
   $(document).ready(function () {
+    var myLazyLoad = new LazyLoad()
+
     console.log('ready')
     var allFrames = $('iframe.fuildframe')
 
