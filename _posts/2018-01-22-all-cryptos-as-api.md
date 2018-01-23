@@ -8,6 +8,8 @@ categories: Tutorials
 tags: [tutorial, scaping, jquery, crypto, runkit]
 ---
 
+> **Update:** it turns out there is a public [API](https://coinmarketcap.com/api/) on Coinmarketcap.com I didn't find out before. Thanks to let me know.
+
 Following the previous article about getting the whole list of the cryptocurrencies from Coinmarketcap.com, here the same scraping code packed in a nice end-point call thanks to [Runkit](https://runkit.com/), of course.
 
 I've resurrected a previous and working example that uses Cheerio to transform the HTML source in a JSON array.
