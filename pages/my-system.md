@@ -2,6 +2,7 @@
 title: My System
 layout: page
 last_modified_at: 2017-09-29
+permalink: /pages/my-system.html
 ---
 
 This page is meant to be a personal repository of chunk of information regarding my computer setup. It may be useful in case I need to restore my computer for some reasons as well as it may be useful for other people. It's also meant to be a living document representing the latest snapshot of my current system trying to outline also the reason why of specific choices.

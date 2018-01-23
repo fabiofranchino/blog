@@ -2,6 +2,7 @@
 title: Data Visualization
 layout: page
 last_modified_at: 2017-09-25
+permalink: /pages/data-visualization.html
 ---
 
 ## Dataviz Designers

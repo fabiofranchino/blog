@@ -2,6 +2,7 @@
 title: Creative Coding
 layout: page
 last_modified_at: 2017-09-27
+permalink: /pages/creative-coding.html
 ---
 
 I've been interested in creative coding discipline since I've discovered the potential of the code as creative medium. I've taught several courses and workshop always trying to refine my skills both as educator and course designer.

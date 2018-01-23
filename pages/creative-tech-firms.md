@@ -2,6 +2,7 @@
 title: Creative Technologist Firms
 layout: page
 last_modified_at: 2017-10-18
+permalink: /pages/creative-tech-firms.html
 ---
 
 [NoComputer](http://nocomputer.be/) (BE)
