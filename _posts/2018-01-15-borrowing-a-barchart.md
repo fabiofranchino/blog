@@ -50,9 +50,3 @@ The first purpose of this exploration has always been to create an interactive v
 The trick here has been to use two barcharts stacked on each other using the same svg, setting a special CSS class to make invisible some duplicated elements such as axis, title and background. This is not the most efficient and elegant solution from the implementation point of view, but I like to achieve the desired result without polluting the library with further unnecesary options.
 
 This exercise allowed me also to fix a couple of other constraints to let more freedom for the experienced user.
-
-
-
-
-
-<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>

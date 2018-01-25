@@ -17,3 +17,20 @@ permalink: /pages/useful-online-tools-and-services.html
 ## Storage
 
 If you want to store any type of data and retrieve them without any server implication: [Json RESTFull Storage](https://jsonbin.org/)
+
+Communication service: http://dweet.io/
+
+## Hosted CMS as a service
+
+- [Contentful](https://www.contentful.com/)
+- [DatoCMS](https://www.datocms.com/)
+- [Wordpress.com](https://wordpress.com/)
+- Github
+- https://www.siteleaf.com/
+- http://cloudcannon.com/
+- http://osmek.com/
+- https://prismic.io/
+- http://www.takeshape.io/
+- https://kenticocloud.com/
+- https://www.netlifycms.org/
+
