@@ -38,7 +38,7 @@ If you add this CSS rule you'll have a much more smooth animation. I do prefer t
 transition: width .25s ease-in-out;
 ```
 
-The next requirement is the logic part (i'm shameless using jQuery to write less code here):
+The next requirement is the logic part (I'm shamelessly using jQuery to write less code here):
 
 ```javascript
 $(window).on('scroll', function () {
