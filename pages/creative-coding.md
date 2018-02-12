@@ -32,6 +32,7 @@ Scratch is an online software to allow people program in an accessible environme
 - [Kyle McDonald](http://kylemcdonald.net/)
 - http://inconvergent.net/
 - http://manoloide.com/
+- http://atomicfarmer.com/
 
 ## Courses
 

@@ -1,6 +1,6 @@
 ---
 title: Play with  a custom progress scroll indicator code
-date: 2018-01-25 144:00:00 +0100
+date: 2018-01-25 14:00:00 +0100
 subtitle: 25th January, 2018
 style: blue
 cover: cover.png
