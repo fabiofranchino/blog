@@ -12,15 +12,15 @@ Developing a CMS is hard.
 
 This is why [Contentful](https://www.contentful.com/), or any other equivalent white-label and generic CMS, is a very interesting option when a project requires a way to manage contents maintaining a clear separation with the possible end-points (website, mobile-app, installation, etc).
 
-It doesn't come for free, nevertheless, it's affordable enough for most small/mid size project in our field.
+It doesn't come for free (but there's a free tier, though), nevertheless, it's affordable enough for most small/mid size project in our field.
 
 Recently, I had the necessity to import a consistent set of information into Contentful.
 
 While it comes with a layer of API in order to both read and write information, there's a quicker way to handle this specific task with ease.
 
-Using a specific module for Node.js, it's a matter of few lines of javascript to read a file and put it into the database of the service.
+Using a specific module for Node.js, it's a matter of few lines of javascript to read a file in order to put it into the database of the service.
 
-First thing, let's include the required modules:
+First thing, let's include the required modules (remember to install them first with `npm`):
 
 ```javascript
 const contentful = require('contentful-management')
