@@ -14,6 +14,6 @@ It refers to the evolution of the Medieval helmets over the centuries:
 
 ![](../assets/posts/the-non-linear-evolution/elmi-medioevali-evoluzione.jpg)
 
-It's a **beautiful** as well as very **informative** infographic that depicts, in a clear way, how the evolution (in this case of an object) follows an organic growth suggesting the non-linearity of its journey making its evolution unpredictable by design.
+It's a **beautiful** as well as very **informative** infographic that depicts, in a clear way, how the evolution (in this case of an object) follows an organic process suggesting the non-linearity of its journey making its evolution unpredictable by design.
 
 The drawing is by the zoologist [Bashford Dean](https://en.wikipedia.org/wiki/Bashford_Dean) and it has been published around 1920, just to make it in the right perspective.
