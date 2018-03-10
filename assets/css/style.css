@@ -212,6 +212,9 @@ p > code, li > code{
    padding-bottom: 0; 
 }
 
+.adme{
+    background-color: #eee;
+}
 
 .newsletter-box{
     background-color: #FFFFDF;
