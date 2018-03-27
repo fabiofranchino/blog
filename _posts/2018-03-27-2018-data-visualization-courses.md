@@ -22,7 +22,7 @@ If you are more a techy-guy, interested in data science field then [Big Dive 7 f
 
 By following the experimental tone of the last edition, this year the usual summer workshop dedicated to the data visualization will open its doors to the cryptocurrency world. Can't wait to see the final results.
 
-The workshop will take place in Lugano, Switzerland from **18th to 22nd July 2018**.
+The workshop will take place in Lugano, Switzerland from **15th to 19th July 2018**.
 
 You can get full information from [here](https://www.maind.supsi.ch/workshops/2018/2018-03-02-adventures-in-data-visualization-2018.html).
 
