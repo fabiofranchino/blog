@@ -16,11 +16,11 @@ This year, alongside the regular program to become a data scientist, there will 
 
 [Big Dive into Dataviz](https://www.bigdive.eu/becomedatascientist/data-viz-intensive/) is the intensive hands-on educational course that will take place, from **11th to 15th June 2018**, in Turin, Italy.
 
-If you are more techy-guy, interested in data science field then [Big Dive 7 full program](https://www.bigdive.eu/becomedatascientist/big-dive-7/) is a better option. You're going to still learn the fundamental of the data visualization alongside other disciplines.
+If you are more a techy-guy, interested in data science field then [Big Dive 7 full program](https://www.bigdive.eu/becomedatascientist/big-dive-7/) is a better option. You're going to still learn the fundamental of the data visualization alongside other disciplines.
 
 ## Adventures in Data Visualization
 
-By following the experimental tone of the last edition, this year the usual summer workshop dedicated to the data visualization will open 
+By following the experimental tone of the last edition, this year the usual summer workshop dedicated to the data visualization will open its doors to the cryptocurrency world. Can't wait to see the final results.
 
 The workshop will take place in Lugano, Switzerland from **18th to 22nd July 2018**.
 
