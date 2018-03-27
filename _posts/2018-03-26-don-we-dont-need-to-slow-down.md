@@ -15,7 +15,7 @@ So, Don: why that caution? You begin even with the obvious question:
 
 > Imperfect automation, continually getting better? Or distracted drivers, continually getting worse? Choose.
 
-If this means 1 vs 40 deaths, the latter choice of course.
+If this means 1 vs 40 deaths, the former choice, of course.
 
 If you had a magic wand to swap the system overnight, wouldn't you do it? I would.
 
