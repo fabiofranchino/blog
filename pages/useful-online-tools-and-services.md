@@ -13,6 +13,7 @@ permalink: /pages/useful-online-tools-and-services.html
 
 - [Codepen](https://codepen.io/)
 - [JsBin](http://jsbin.com/?html,js,output)
+- Glitch
 
 ## Storage
 
@@ -34,3 +35,17 @@ Communication service: http://dweet.io/
 - https://kenticocloud.com/
 - https://www.netlifycms.org/
 
+
+## Hosting
+
+https://www.netlify.com/
+github pages
+https://surge.sh/
+firebase
+getforge
+
+netlify
+
+now.sh
+
+https://zeit.co/
