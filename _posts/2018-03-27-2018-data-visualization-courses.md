@@ -5,6 +5,7 @@ subtitle: 27th March, 2018
 style: red
 cover: cover.png
 categories: Opinions
+inc: nothing.html
 tags: [opinion, announcement, thoughts]
 ---
 
