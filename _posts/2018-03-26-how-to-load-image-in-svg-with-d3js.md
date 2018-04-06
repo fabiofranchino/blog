@@ -1,7 +1,7 @@
 ---
 title: How to load an external image in SVG with D3.js
-date: 2018-03-27 14:00:00 +0100
-subtitle: 27th March, 2018
+date: 2018-03-26 14:00:00 +0100
+subtitle: 26th March, 2018
 style: blue
 categories: Tutorials
 tags: [tutorial, d3js, svg, image, load]
