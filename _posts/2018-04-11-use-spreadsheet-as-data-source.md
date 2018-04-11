@@ -10,7 +10,7 @@ tags: [tutorial, csv, spreadsheet, import, data]
 
 Do you know you [can publish](https://support.google.com/docs/answer/183965?hl=en) any **Google Spreadsheet** in a **CSV** format for convenient usage in other environments, let's say, in a **D3.js** script?
 
-I know, it's not the year revelation. Blame to me since I've discovered it only recently.
+I know, it's not the revelation of the year. Blame to me since I've discovered it only recently.
 
 Google Spreadsheet can be an effective and accessible tool for initial data cleaning, exploration and visualization. Indeed, it can be used also for powerful data wrangling thanks to its set of formulas and computation ability.
 
