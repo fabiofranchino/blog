@@ -24,6 +24,7 @@ permalink: /pages/data-visualization.html
 - [WebKid](https://webkid.io)
 - [Kiln](https://www.kiln.digital)
 - [SmallMultiples](https://smallmultiples.com.au/)
+- [FFunction](https://ffctn.com/)
 
 #### Italy
 
