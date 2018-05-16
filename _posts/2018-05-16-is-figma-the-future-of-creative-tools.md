@@ -1,6 +1,6 @@
 ---
 title: Is Figma the future of creative tools?
-date: 2018-04-30 14:00:00 +0100
+date: 2018-05-16 14:00:00 +0100
 subtitle: 16th May, 2018
 style: blue
 cover: cover.gif
