@@ -21,12 +21,20 @@ exclude:
 
 permalink: /:title/
 
+collections:
+  log:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "log"
+    values:
+      layout: "page"
 
