@@ -8,6 +8,7 @@ permalink: /archive/
 <section>
     <article class="list">
 
+
      {% for post in site.posts %}
 	    {% unless post.next %}
 	      <h2>{{ post.date | date: '%Y %b' }}</h2>

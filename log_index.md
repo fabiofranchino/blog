@@ -7,7 +7,9 @@ permalink: /log/index.html
 
 <section>
   <article class="list">
-    {% for post in site.log %}
+
+          
+    {% for post in site.log reversed %}
         
         {% unless post.next %}
           <h2>{{ post.date | date: '%Y %b' }}</h2>

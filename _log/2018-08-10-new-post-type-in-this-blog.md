@@ -1,6 +1,6 @@
 ---
 title: New post type in this blog
-date: 2018-08-10 12:26:00 +0100
+date: 2018-08-10 08:26:00 +0100
 subtitle: 10th August, 2018
 categories: Logs
 tags: [log]

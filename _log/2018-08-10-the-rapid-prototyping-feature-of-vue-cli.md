@@ -1,6 +1,6 @@
 ---
 title: The rapid prototyping feature of Vue Cli
-date: 2018-08-10 07:30:00 +0100
+date: 2018-08-10 11:30:00 +0100
 subtitle: 10th August, 2018
 categories: Logs
 tags: [log]
