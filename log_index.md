@@ -19,10 +19,10 @@ permalink: /log/index.html
           {% endif %}
         {% endunless %}
 
-          <p class="{{ post.style }}">
-            <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-            <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-          </p>
+        <p class="{{ post.style }}">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+          <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+        </p>
 
     {% endfor %}
   </article>
