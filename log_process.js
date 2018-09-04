@@ -48,5 +48,5 @@ tags: [log]
   var dest = frontmatter + src
   var finalname = `${today.format('YYYY-MM-DD')}-${filename}.md`
   fs.writeFileSync(`./_log/${finalname}`, dest)
-  fs.unlink(`./_log/${f}`)
+  fs.unlinkSync(`./_log/${f}`)
 })
