@@ -1,7 +1,7 @@
 ---
 title: Creative Technologist Firms
 layout: page
-last_modified_at: 2017-10-18
+last_modified_at: 2018-09-05
 permalink: /pages/creative-tech-firms.html
 ---
 
@@ -18,3 +18,7 @@ permalink: /pages/creative-tech-firms.html
 [Random Studio](http://random.studio/) (The Netherland)
 
 [Hush](https://heyhush.com/) (USA)
+
+[Studio.Build](https://studio.build/) (UK)
+
+[SOSO Limited](https://www.sosolimited.com/) (USA)

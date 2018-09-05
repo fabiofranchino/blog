@@ -1,7 +1,7 @@
 ---
 title: Creative Coding
 layout: page
-last_modified_at: 2017-09-27
+last_modified_at: 2018-09-05
 permalink: /pages/creative-coding.html
 ---
 
@@ -30,11 +30,12 @@ Scratch is an online software to allow people program in an accessible environme
 - [Matthew Epler](http://mepler.com/)
 - [Varun Vachhar](http://varun.ca/)
 - [Kyle McDonald](http://kylemcdonald.net/)
+- [Tim Holman](http://tholman.com/)
 - http://inconvergent.net/
 - http://manoloide.com/
 - http://atomicfarmer.com/
 
-## Courses
+## Courses / Structured tutorials
 
 ### Programming Design Systems
 
@@ -55,3 +56,7 @@ It's an [online course](https://www.futurelearn.com/courses/creative-coding) abo
 ### Designing Generative Systems w/ P5.js
 
 [Video course on Youtube by Matthew Epler](https://www.youtube.com/watch?v=rTqvf0BkTNE&list=PLyRZnpOSgMj3K8AV2I6UldnvTj6d_Zrf0)
+
+### Generative Artistry
+
+[Collection of tutorials to create generative art through javascript code](https://generativeartistry.com/)
