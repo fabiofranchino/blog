@@ -11,7 +11,7 @@ layout: default
 	</article>
 
 	<article>
-		<p>You might be interested browsing by <a href="categories">categories</a>, <a href="tags">tags</a> or <a href="archive">dates</a>.</p>
+		<p>You might be interested browsing by <a href="categories">categories</a>, <a href="tags">tags</a>, <a href="archive">dates</a> or <a href="log">my quick logs</a>.</p>
 	</article>
 </section>
 
