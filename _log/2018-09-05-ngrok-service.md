@@ -6,7 +6,7 @@ categories: Logs
 tags: [log]
 ---
 
-Today I've discovered [Ngrok](https://ngrok.com/), a neat service to expose local services to remote accesses. I've followed the installation, then, I had to set up the daemon provided by the service.
+Today I've discovered [Ngrok](https://ngrok.com/), a neat service to expose local services to remote clients. Just sign-up and download its driver in order to use it by following the provided instructions.
 
 I'm on MacOsX and I put the `ngrok` binary into `Application` folder. Then, I've created a softlink of it in order to run from the shell with ease.
 
@@ -22,9 +22,10 @@ Now I can run any `ngrok` command from anywhere. To test it just write:
 ngrok help
 ```
 
-or to expose a local web-server such as a browser-sync instance:
+or to expose a local web-server such as a running `browser-sync` instance, type:
 
 ```shell
 ngrok http 3000
 ```
 
+Then, follow the printed info within the shell to grab the public remote url and enjoy.
