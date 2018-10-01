@@ -12,7 +12,7 @@ I'm working on a side project that needs to be deployed online. I made some rese
 
 In this POC I wanted to deploy a **minimal modern webapp** (*backend* and *frontend*) on two different platforms, in order to get the most out of them.
 
-Nowdays we like to make webapp as **SPA** (Single Page Application) that consumes data by means of **API** (Application Program Interface). This is a good way to split the complexity and responsibility in different codebases.
+Nowadays we like to make webapp as **SPA** (Single Page Application) that consumes data by means of **API** (Application Program Interface). This is a good way to split the complexity and responsibility in different codebases.
 
 While [Heroku](https://heroku.com) is a very good option to deploy an api-based backend app in seconds, [Netlify](https://www.netlify.com/) is a much better solution for frontend app (build system, CDN and more).
 
