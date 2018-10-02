@@ -22,3 +22,5 @@ permalink: /pages/creative-tech-firms.html
 [Studio.Build](https://studio.build/) (UK)
 
 [SOSO Limited](https://www.sosolimited.com/) (USA)
+
+[Strukt](http://strukt.com) (AU)
