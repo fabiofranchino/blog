@@ -2,7 +2,7 @@
 title: Understanding HTML
 layout: dataviz
 last_modified_at: 2017-08-12
-permalink: dataviz/understanding-html
+permalink: d3-viz-course/understanding-html
 categories: [adv]
 ---
 

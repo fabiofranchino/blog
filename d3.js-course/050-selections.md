@@ -2,7 +2,7 @@
 title: Include the library
 layout: dataviz
 last_modified_at: 2017-08-12
-permalink: dataviz/include-the-library
+permalink: d3-viz-course/include-the-library
 categories: [adv]
 ---
 

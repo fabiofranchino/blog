@@ -2,7 +2,7 @@
 title: External Courses
 layout: dataviz
 last_modified_at: 2017-09-12
-permalink: dataviz/external-courses
+permalink: d3-viz-course/external-courses
 categories: [adv]
 ---
 

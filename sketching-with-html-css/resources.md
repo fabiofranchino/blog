@@ -1,7 +1,7 @@
 ---
 title: CSS resources
 layout: page
-last_modified_at: 2017-09-22
+last_modified_at: 2018-11-05
 ---
 
 ## HTML
@@ -19,6 +19,10 @@ last_modified_at: 2017-09-22
 [CSSReference](http://cssreference.io/)
 
 [Internet is Hard](https://internetingishard.com/html-and-css/)
+
+[CSS-Tricks CSS Properties Almanac](https://css-tricks.com/almanac/properties/)
+
+[A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ### Learn CSS Layout - the pedantic way
 

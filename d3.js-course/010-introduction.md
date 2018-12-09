@@ -2,7 +2,7 @@
 title: Introduction
 layout: dataviz
 last_modified_at: 2017-08-29
-permalink: dataviz/introduction
+permalink: d3-viz-course/introduction
 categories: [adv]
 ---
 

@@ -2,7 +2,7 @@
 title: Online Resources
 layout: dataviz
 last_modified_at: 2017-08-12
-permalink: dataviz/online-resources
+permalink: d3-viz-course/online-resources
 categories: [adv]
 ---
 

@@ -2,7 +2,7 @@
 title: Data
 layout: dataviz
 last_modified_at: 2017-08-13
-permalink: dataviz/data
+permalink: d3-viz-course/data
 categories: [adv]
 ---
 

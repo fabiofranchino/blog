@@ -2,7 +2,7 @@
 title: Transitions, the basic
 layout: dataviz
 last_modified_at: 2017-08-12
-permalink: dataviz/transition-basic
+permalink: d3-viz-course/transition-basic
 categories: [adv]
 ---
 

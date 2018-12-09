@@ -25,7 +25,6 @@ Figma can become that **solid process**. The students can either draw on Figma a
 Here a quick proof-of-concept. The following Codepen loads a Figma document as SVG and inject it to the body, so I can be manipulated with Javascript:
 
 <p data-height="265" data-theme-id="light" data-slug-hash="pVvVBz" data-default-tab="js,result" data-user="abusedmedia" data-embed-version="2" data-pen-title="FirstTestWithFigma4APIWithWebTask" class="codepen">See the Pen <a href="https://codepen.io/abusedmedia/pen/pVvVBz/">FirstTestWithFigma4APIWithWebTask</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 As you can see, the url is not a Figma endpoint but a [WebTask](https://webtask.io/) service, thus, the X-Figma-Token can be hidden, also simplifying the script in Codepen for newbies.
 

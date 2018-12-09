@@ -2,7 +2,7 @@
 title: The tools
 layout: dataviz
 last_modified_at: 2017-08-12
-permalink: dataviz/the-tools
+permalink: d3-viz-course/the-tools
 categories: [adv]
 ---
 

@@ -23,6 +23,7 @@ Before to dive into the tools pletora we need to distinguis the type of prototyp
 
 - Adobe Photoshop
 - Adobe Illustrator
+- Sketch
 
 ## Animated comps
 
