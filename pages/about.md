@@ -15,6 +15,21 @@ My approach stems from a deep-rooted interest in creative disciplines, ranging f
 
 I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chunks of code on [Github](https://github.com/abusedmedia) and sometimes update professional info on [Linkedin](https://www.linkedin.com/in/abusedmedia/).
 
+## DesignToday [aka teaching]
+
+DesignToday is a little term I like to use to describe my way of thinking in creativity.
+
+DesignToday courses is a way of thinking after 20 years of experience in the digital field both as pratictioner and mentor/teacher as well.
+
+The following course have been crafted and refined over time and they are still in work in progress. I try to keep up-to-date their outline and syllabus whenever I introduce variation in my classes.
+
+Here the current encoded courses you might want to look into:
+
+- Creative coding with JS
+- Sketching with HTML&CSS
+- Data driven with d3.js
+- Adventures in Data Visualization
+
 ## Skills I'm confident with
 
 - head of technology

@@ -5,7 +5,7 @@ var path = require('path')
 
 var logs = fs.readdirSync('./_log')
 var newfiles = logs.filter(f => {
-    // no start with date and no start with .
+  // no start with date and no start with .
   return !f.match(/\d\d\d\d-\d\d-\d\d/) && !f.match(/^[\.]/)
 })
 
@@ -31,6 +31,24 @@ newfiles.forEach(f => {
 
       var newtag = `![](.${newpath})`
       src = src.replace(rex[0], newtag)
+    })
+  }
+
+  re = /<video src="(.*)"><\/video>/gim
+  mtc = src.match(re)
+  if (mtc) {
+    mtc.forEach(d => {
+      var rex = re.exec(d)
+
+      var r = parseInt(Math.random() * 1000)
+      var absPath = path.resolve('_log', rex[1])
+
+      var assetName = slugify(`n${r}_` + path.basename(absPath)).toLowerCase()
+
+      var newpath = `./assets/log/${assetName}`
+      fs.renameSync(absPath, newpath)
+
+      src = src.replace(rex[0], `<video autoplay muted loop src=".${newpath}"></video>`)
     })
   }
 
