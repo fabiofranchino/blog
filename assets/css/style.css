@@ -217,6 +217,7 @@ p > code, li > code{
 }
 
 .newsletter-box{
+    margin-top: 1rem;
     background-color: #FFFFDF;
     padding: 1rem;
     border: 1px dashed #555;

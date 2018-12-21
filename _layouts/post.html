@@ -60,8 +60,11 @@
 				{% include comments.html %}
 			-->
 
-			{% include dropaline.html %}
+			{% include newsletter.html %}
 
+			<!--
+			{% include dropaline.html %}
+			-->
 			
 
 			<hr />
@@ -74,10 +77,7 @@
 	<footer>
 		<a href="/blog/index.html">Index</a>
 		<a href="/index.html">About</a>
-	{% if page.HN != null %}
-		<a href="https://news.ycombinator.com/item?id={{ page.HN }}">On HN</a>
-	{% endif %}
-		<a href="https://twitter.com/fabiofranchino">On TW</a>
+		<a href="https://twitter.com/fabiofranchino">Twitter</a>
 		<a href="https://fabiofranchino.com/blog/feed.xml">RSS</a>
 	</footer>
 	

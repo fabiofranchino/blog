@@ -24,10 +24,12 @@ last_modified_at: 2018-11-05
 
 [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-### Learn CSS Layout - the pedantic way
+### Learn CSS Layout
 
 http://book.mixu.net/css/
 
-### MaintainableCSS
+https://www.smashingmagazine.com/2018/05/guide-css-layout/
+
+### Principles and best practices
 
 Write CSS without worrying that overzealous, pre-existing styles will cause problems. [MaintainableCSS](https://maintainablecss.com) is an approach to writing modular, scalable and of course, maintainable CSS.
