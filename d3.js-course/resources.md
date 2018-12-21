@@ -36,3 +36,9 @@ http://vivify.mkcreative.cz/
 - Scott Murray: Interactive Data Visualization
 - O'Reilly: Beautiful Visualization
 - Stephen Few: Show Me the Numbers
+
+
+
+## Repositories
+
+- https://d3-discovery.net/

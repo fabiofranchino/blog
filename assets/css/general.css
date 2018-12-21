@@ -17,7 +17,7 @@ body{
 	flex-direction:column;*/
 }
 
-img{
+img, video{
 	width: 100%;
     display: block;
 }
@@ -300,7 +300,8 @@ article .img_separator{
         padding: 3rem 6rem;
     }
     article p img,
-    article p video{
+    article p video,
+    article video{
         margin: 0;
         width: 100%;
     }
