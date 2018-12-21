@@ -1,5 +1,5 @@
 ---
-title: Very nice graphic compositions by Anthony Gribben that might be a source of ispiration for some dynamic and generated gr
+title: Very nice graphic compositions by Anthony Gribben
 date: 2018-12-20 13:44:00 +0100
 subtitle: 20th December, 2018
 categories: Logs
