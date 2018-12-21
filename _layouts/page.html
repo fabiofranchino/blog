@@ -26,6 +26,8 @@
 
 			{{ content }}
 
+			{% include newsletter.html %}
+
 
 			<hr />
 			<p class="contrib">Spotted a typo or (likely) a grammar error? Send a <a href="https://github.com/fabiofranchino/blog/edit/master/{{page.path}}">pull request</a>.</p>
@@ -37,10 +39,8 @@
 	<footer>
 		<a href="/blog/index.html">Index</a>
 		<a href="/index.html">About</a>
-	{% if page.HN != null %}
-		<a href="https://news.ycombinator.com/item?id={{ page.HN }}">On HN</a>
-	{% endif %}
-		<a href="https://twitter.com/fabiofranchino">On TW</a>
+	
+		<a href="https://twitter.com/fabiofranchino">Twitter</a>
 		<a href="https://fabiofranchino.com/blog/feed.xml">RSS</a>
 	</footer>
 	
