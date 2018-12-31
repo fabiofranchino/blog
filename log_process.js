@@ -11,7 +11,9 @@ var newfiles = logs.filter(f => {
 
 newfiles.forEach(f => {
   var src = fs.readFileSync(`./_log/${f}`, 'utf8')
-  var title = f.split('.')[0]
+  var rawtitle = f.split('.')[0]
+  var partstitle = rawtitle.split('|')
+  var title = partstitle[0]
   var filename = slugify(title).toLowerCase()
 
   var re = /!\[(.*)\]\((.*)\)/gim
@@ -54,12 +56,17 @@ newfiles.forEach(f => {
 
   var today = moment().subtract(4, 'hours')
 
+  var tags = 'log'
+  if (partstitle.length > 1) {
+    tags = partstitle[1]
+  }
+
   var frontmatter = `---
 title: ${title}
 date: ${today.format('YYYY-MM-DD HH:mm:00 +0100')}
 subtitle: ${today.format('Do MMMM, YYYY')}
 categories: Logs
-tags: [log]
+tags: [${tags}]
 ---
 
 `
