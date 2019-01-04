@@ -12,7 +12,7 @@ I was poking with this little idea about using [Electron](https://electronjs.org
 
 I've cloned the popular [Electron Quick Start](https://github.com/electron/electron-quick-start) to have an Electron app without hassles, then run `npm install` and `npm start` to test whether my Electron instance worked properly.  
 
-I've decided to use `node_static` module as a local webserver which is dead-simple and good enough for this test. I've installed it with `npm i node_static`.
+I've decided to use `node-static` module as a local webserver which is dead-simple and good enough for this test. I've installed it with `npm i node-static`.
 
 Then, I've created a new `server.js` file in the root folder with the following code:
 
@@ -27,7 +27,7 @@ require('http').createServer(function (request, response) {
 }).listen(9990)
 ```
 
-This is a very minimal local webserver the serves files in a folder. We also need a folder where to put the files that will be served by `node_static`, the project content should looks like this one: 
+This is a very minimal local webserver the serves files in a folder. We also need a folder where to put the files that will be served by `node-static`, the project content should looks like this one: 
 
 ![](../assets/posts/use-electron-as-local-webserver/filesys.png)
 
