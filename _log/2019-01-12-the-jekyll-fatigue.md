@@ -15,7 +15,9 @@ I've spent a good whole hour to do a simple array print in my Jekyll and Liquid 
 The solution is obviously simple like that:
 
 ```html
+{% raw  %}
 {{ page.tags | join: ", " }}
+{% endraw %}
 ```
 
 This to remember that even a simple task for someone can be dauting for someone else.
