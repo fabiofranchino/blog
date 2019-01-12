@@ -11,9 +11,16 @@ permalink: /pages/useful-online-tools-and-services.html
 
 ## Online Editors
 
+- [Repl.it](https://repl.it/)
 - [Codepen](https://codepen.io/)
 - [JsBin](http://jsbin.com/?html,js,output)
-- Glitch
+- [Glitch](https://glitch.com/)
+- [Observable](https://beta.observablehq.com)
+- [CodeSandbox](https://codesandbox.io/)
+
+## Integration
+
+- https://zapier.com/
 
 ## Storage
 

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
     	<title>{{ page.title }} - Fabio Franchino</title>
-
+		<meta charset="utf-8">
     	
 
     	<meta name="viewport" content='width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0' />
@@ -10,15 +10,19 @@
 		<meta charset="utf-8">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-		<meta name="description" content="Computational Design and Data Visualization">
-		<meta name="keywords" content="Design, Generative, Art, Data, Visualization">
-		<meta name="author" content="fabiofranchino.com">
-		<meta name="google" content="notranslate" />
+
+		
+
+		<meta name="description" content="{{ page.excerpt | strip_html }}">
+		<meta name="keywords" content="{{ page.tags | join: ", " }}">
+		<meta name="author" content="Fabio Franchino">
 
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<meta name="mobile-web-app-capable" content="yes" /> 
 		<meta name="apple-mobile-web-app-title" content="FF.com">
+
+		<link rel="canonical" href="https://fabiofranchino.com/blog/{{page.slug}}" />
 
 		<meta property="og:title" content="{{ page.title }}">
 		<meta property="og:type" content="website">
@@ -29,14 +33,14 @@
 		<meta property="og:image" content="//fabiofranchino.com/blog/assets/colors/{{ page.style }}.png">
 		{% endif %}
 		<meta property="og:site_name" content="fabiofranchino.com">
-		<meta property="og:description" content="Computational Design and Data Visualization">
+		<meta property="og:description" content="{{ page.excerpt | strip_html }}">
 
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@fabiofranchino">
 		<meta name="twitter:creator" content="@fabiofranchino">
 		<meta name="twitter:url" content="https://fabiofranchino.com/blog/{{page.slug}}">
 		<meta name="twitter:title" content="{{ page.title }}">
-		<meta name="twitter:description" content="Computational Design and Data Visualization">
+		<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 		{% if page.cover %}
 		<meta name="twitter:image:src" content="https://fabiofranchino.com/blog/assets/posts/{{ page.slug }}/{{ page.cover }}">
 		{% else %}
