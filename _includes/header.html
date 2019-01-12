@@ -11,8 +11,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-		
-
 		<meta name="description" content="{{ page.excerpt | strip_html }}">
 		<meta name="keywords" content="{{ page.tags | join: ", " }}">
 		<meta name="author" content="Fabio Franchino">
@@ -22,11 +20,11 @@
 		<meta name="mobile-web-app-capable" content="yes" /> 
 		<meta name="apple-mobile-web-app-title" content="FF.com">
 
-		<link rel="canonical" href="https://fabiofranchino.com/blog/{{page.slug}}" />
+		<link rel="canonical" href="https://fabiofranchino.com{{ site.baseurl }}{{ page.url }}" />
 
 		<meta property="og:title" content="{{ page.title }}">
 		<meta property="og:type" content="website">
-		<meta property="og:url" content="//fabiofranchino.com/blog/{{page.slug}}">
+		<meta property="og:url" content="https://fabiofranchino.com{{ site.baseurl }}{{ page.url }}">
 		{% if page.cover %}
 		<meta property="og:image" content="//fabiofranchino.com/blog/assets/posts/{{ page.slug }}/{{ page.cover }}">
 		{% else %}
@@ -38,7 +36,7 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@fabiofranchino">
 		<meta name="twitter:creator" content="@fabiofranchino">
-		<meta name="twitter:url" content="https://fabiofranchino.com/blog/{{page.slug}}">
+		<meta name="twitter:url" content="https://fabiofranchino.com{{ site.baseurl }}{{ page.url }}">
 		<meta name="twitter:title" content="{{ page.title }}">
 		<meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
 		{% if page.cover %}
