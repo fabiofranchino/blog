@@ -28,6 +28,8 @@ If you want to store any type of data and retrieve them without any server impli
 
 Communication service: http://dweet.io/
 
+https://blog.codepen.io/2018/06/07/need-to-store-some-data/
+
 ## Hosted CMS as a service
 
 - [Contentful](https://www.contentful.com/)
