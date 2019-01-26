@@ -8,9 +8,9 @@ categories: Opinions
 tags: [opinion, announcement, presenta]
 ---
 
-I've been in the communication and tech fields enough to maturate some ideas about how to present and visualize data and information effectively.
+I've been in the communication and tech fields enough to maturate some ideas about how to present and visualize data and information **effectively**.
 
-I teach this stuff in several classes and institutions and I use a lot of visual materials during my lessons. It means that I need to prepare a lot of presentations, which is time-consuming.
+I teach this stuff in several classes and institutions and I use a lot of visual materials during my lessons. It means that I need to prepare a lot of presentations, which is *time-consuming*.
 
 I'm allergic to the time-consuming notion unless it gives enjoyment or learning opportunities.
 
