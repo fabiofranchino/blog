@@ -30,6 +30,8 @@ Communication service: http://dweet.io/
 
 https://blog.codepen.io/2018/06/07/need-to-store-some-data/
 
+https://www.jsonstore.io/
+
 ## Hosted CMS as a service
 
 - [Contentful](https://www.contentful.com/)
