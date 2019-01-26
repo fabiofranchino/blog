@@ -8,7 +8,7 @@ categories: Review
 tags: [review, workshop, dataviz, sketching, dataviz]
 ---
 
-I've assigned a 75/37 exercise a bunch of time to my DataViz classes/lectures, some of them documented [here](/blog/7537-again-at-supsi/) and [here](/blog/sketching-7537-at-domus/).
+I've assigned a 75/37 exercise a bunch of times to my DataViz classes/lectures, some of them documented [here](/blog/7537-again-at-supsi/) and [here](/blog/sketching-7537-at-domus/).
 
 It's a very interesting and effective way to introduce and teach one of the most important principles in data visualization: the relation between the abstract information and the visual element defined by an agreed rule.
 
