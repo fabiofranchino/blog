@@ -41,7 +41,6 @@ Vue.component('mysearchbtn', {
     <input type="text" placeholder="type to search"
       v-model="search"
       @input="$emit('update:search', $event.target.value)" />
-    <button>Search</button>
 </div>`,
   props:['search']
 })
