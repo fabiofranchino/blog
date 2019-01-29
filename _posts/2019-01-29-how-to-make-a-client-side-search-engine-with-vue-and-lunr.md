@@ -10,7 +10,7 @@ tags: [tutorial, vue, lunr, search]
 
 This is a little tutorial about making a search/filter [Vue.js](https://www.vuejs.org/) component using the powerful [Lunr.js](https://lunrjs.com/) library.
 
-**A little disclaimer:** I've purposely avoided any CSS styles also keeping minimal the HTML markup, using Vue without the CLI, to focus only on the logic and integration part for simplicity.
+**A little disclaimer:** I've purposely avoided any CSS styles also keeping minimal the HTML markup, using Vue without the CLI, to focus only on the logic and integration part for simplicity. I thought Vue.js learners may find this way useful.
 
 ## A little Vue.js app
 
