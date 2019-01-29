@@ -54,6 +54,10 @@ article.excerpt .header_img{
 article.excerpt a:hover{
     background-color: #555;
 }
+p > code, li > code{
+    color: #fff;
+    background-color: #333;
+}
 article p a{
     color: #333;
 }
@@ -98,8 +102,9 @@ article.excerpt .purple .header_img{
 article.excerpt .purple a:hover{
     background-color: #842A94;
 }
-.purple p > code{
-    color: #842A94;
+.purple p > code, .purple li > code{
+    color: #fff;
+    background-color: #842A94;
 }
 article p.purple a{
     color: #842A94;
@@ -151,8 +156,9 @@ article.excerpt .red .header_img{
 article.excerpt .red a:hover{
     background-color: #fe3509;
 }
-.red p > code{
-    color: #fe3509;
+.red p > code, .red li > code{
+    color: #fff;
+    background-color: #a90112;
 }
 article p.red a{
     color: #fe3509;
@@ -206,8 +212,9 @@ article.excerpt .blue .header_img{
 article.excerpt .blue a:hover{
     background-color: #0977fe;
 }
-.blue p > code{
-    color: #0977fe;
+.blue p > code, .blue li > code{
+    color: #fff;
+    background-color: #0115a9;
 }
 article p.blue a{
     color: #0977fe;
@@ -261,8 +268,9 @@ article.excerpt .orange .header_img{
 article.excerpt .orange a:hover{
     background-color: #FFBD0B;
 }
-.orange p > code{
-    color: #FFBD0B;
+.orange p > code, .orange li > code{
+    color: #fff;
+    background-color: #F89E41;
 }
 article p.orange a{
     color: #FFBD0B;
