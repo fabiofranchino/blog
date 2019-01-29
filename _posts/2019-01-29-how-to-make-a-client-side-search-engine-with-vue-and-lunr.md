@@ -108,6 +108,6 @@ Now, the final examples looks like this:
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-Hope this might be helpful to someone. I made this to integrate this functionality on a little tool I'm working on, [Presenta](https://www.presenta.cc/).
+Hope this might be helpful to someone. I made it to integrate the functionality on a little tool I'm working on, [Presenta](https://www.presenta.cc/).
 
 Have a nice day!
