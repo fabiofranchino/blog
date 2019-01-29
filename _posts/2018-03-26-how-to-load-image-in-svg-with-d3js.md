@@ -38,4 +38,10 @@ or even using the `transform` attribute to `translate`, `scale` and `rotate` our
 myimage.attr('transform', 'rotate(90)')
 ```
 
-Here a live [Codepen](https://codepen.io/abusedmedia/pen/oqaMaz) of this example.
+Here the working Codepen:
+
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="js,result" data-user="abusedmedia" data-slug-hash="oqaMaz" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Load an image in SVG with D3.js">
+  <span>See the Pen <a href="https://codepen.io/abusedmedia/pen/oqaMaz/">
+  Load an image in SVG with D3.js</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
