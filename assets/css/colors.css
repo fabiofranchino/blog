@@ -57,6 +57,7 @@ article.excerpt a:hover{
 p > code, li > code{
     color: #fff;
     background-color: #333;
+    padding: .1rem .75rem;
 }
 article p a{
     color: #333;

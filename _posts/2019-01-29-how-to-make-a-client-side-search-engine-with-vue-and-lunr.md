@@ -58,7 +58,7 @@ Now we need to make both the components working together, let's say, when I type
 
 ## Welcome Lunr.js
 
-Instead of reinventing the wheel by implementing a search algorithm, I'm going to exploit [Lunr](https://lunrjs.com/), a very powerful and configurable library that make complex search pretty `neat`.
+Instead of reinventing the wheel by implementing a search algorithm, I'm going to exploit [Lunr](https://lunrjs.com/), a very powerful and configurable library that make complex search pretty **neat!**
 
 Just to give a taste, you can search using some well-known patterns such as:
 
