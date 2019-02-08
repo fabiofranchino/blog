@@ -30,13 +30,15 @@ It's jus a matter of modifing the `scrollTop` property of the HTML element to ma
 document.querySelector('.mydiv').scrollTop = 100
 ```
 
+If you have Chrome or Firefox you should see the animation here:
+
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="js,result" data-user="abusedmedia" data-slug-hash="vbdBPQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Scroll-position-basic">
   <span>See the Pen <a href="https://codepen.io/abusedmedia/pen/vbdBPQ/">
   Scroll-position-basic</a> by Fabio Franchino (<a href="https://codepen.io/abusedmedia">@abusedmedia</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
-Here a little Vue.js app (you know that [I'm a fan](https://fabiofranchino.com/blog/tag/vue) of Vue.js?) that shows the meat:
+Here a little Vue.js app (you know that [I'm a fan](https://fabiofranchino.com/blog/tag/vue) of Vue.js?) that shows the meat (click the red thumbs **1**):
 
 <p class="codepen" data-height="365" data-theme-id="0" data-default-tab="result" data-user="abusedmedia" data-slug-hash="KJZPMp" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="smooth scrolling to position">
   <span>See the Pen <a href="https://codepen.io/abusedmedia/pen/KJZPMp/">
