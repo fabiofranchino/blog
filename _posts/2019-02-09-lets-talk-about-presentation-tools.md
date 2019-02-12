@@ -37,7 +37,7 @@ It's still in progress, a lot of things are supposed to change, but there's one 
 
 Not an easy task, though, but [Presenta](https://www.presenta.cc) is in good company. And that's awesome!
 
-[Pasteapp](https://pasteapp.com), [Pitch](https://pitch.com), [Swipe](https://swipe.to), [Slidebean](https://slidebean.com), [Beautiful](https://www.beautiful.ai), [DeckSet](https://www.deckset.com/) (please tell me if I missed some others). 
+[Pasteapp](https://pasteapp.com), [Pitch](https://pitch.com), [Swipe](https://swipe.to), [Slidebean](https://slidebean.com), [Beautiful](https://www.beautiful.ai), [DeckSet](https://www.deckset.com/) (please tell me if I missed some others). [**edited**: Wow, there's also a big fish that for some reason I missed: [Sway](https://sway.office.com) from Microsoft]
 
 They are all different, each following a precise concept and paradigm. 
 
