@@ -18,4 +18,5 @@ categories: [creativecode]
 - [Strukt](http://strukt.com) (AU)
 - [TwoTwentyTwo](http://twotwentytwo.se/)
 - [Design-IO](http://design-io.com/)
+- [Kuva](https://www.kuva.io)
 
