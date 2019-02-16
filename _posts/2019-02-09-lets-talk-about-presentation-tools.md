@@ -15,7 +15,7 @@ You bet? Try to ask **"I need to build a presentation"** and you'll get these hi
 - Powerpoint
 - Apple Keynote
 - Google Presentation
-- maybe the new kid Slides.com
+- maybe the new kid Slides.com or Canva
 
 That's understandable. Powerpoint came out 30 years ago. Keynote and GPresentation just improved the Powerpoint legacy, by adding features, integration possibilities and better user interfaces. 
 
