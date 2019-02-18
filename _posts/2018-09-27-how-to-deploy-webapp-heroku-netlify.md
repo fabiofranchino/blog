@@ -156,7 +156,7 @@ I know, not very optimal process, blame my lazyness, but this is just to test th
 
 If everything has been done properly, your webapp made by an API-based backend running on Heroku with a Vue-based SPA running on Netlify should work nicely.
 
-Here my working [URL](https://poc-vue-client-netlify.netlify.com/) to test it out and here the repositories:
+Here the repositories:
 
 - [Backend](https://github.com/abusedmedia/poc-express-api-heroku)
 - [Frontend](https://github.com/abusedmedia/poc-vue-client-netlify)
