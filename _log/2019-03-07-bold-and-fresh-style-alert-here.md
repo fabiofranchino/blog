@@ -9,3 +9,6 @@ tags: [log]
 [Marco Oggian](https://mrcggn.com/), creative director and illustrator has an impressive portfolio and a powerful visual style.
 
 I can't stop scrolling and admiring his portfolio pieces!
+
+Related: very nice communication agency, [Pocko](http://www.pocko.com/), and roster management that represent Oggian as well.
+
