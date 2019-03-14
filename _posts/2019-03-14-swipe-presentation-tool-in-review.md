@@ -10,7 +10,7 @@ tags: [review, presenta, competitors, ux]
 
 This is the first post of a series related to the [good part](/blog/competitors-are-good/) of having **competitors**. [Presenta](https://www.presenta.cc) is not [alone](/blog/lets-talk-about-presentation-tools/) as you may guess. This post talks about [Swipe](https://www.swipe.to/home). 
 
-**Swipe** is an online presentation tool. It's mostly markdown based with a focus on simple presentations that can be built very quickly. It has limited composition capabilities but it has a rational interface that make it a good option in the field.
+**Swipe** is an online presentation tool. It's mostly markdown based with a focus on simple presentations that can be built very quickly. It has limited composition capabilities but it has a rational interface that makes it a good option in the field.
 
 ## The index view is done right
 
