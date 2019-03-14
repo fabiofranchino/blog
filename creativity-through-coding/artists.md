@@ -21,4 +21,5 @@ categories: [creativecode]
 - [Bruno Schillinger](https://www.brunoschillinger.com/) 
 - [DearComputer](https://dearcomputer.nl/)
 - [Nicoptere](http://www.barradeau.com/)
+- [Daniel Browns](http://danielbrowns.com/)
 
