@@ -19,4 +19,5 @@ categories: [creativecode]
 - [TwoTwentyTwo](http://twotwentytwo.se/)
 - [Design-IO](http://design-io.com/)
 - [Kuva](https://www.kuva.io)
+- [Small Design Firm](http://smalldesignfirm.com/)
 
