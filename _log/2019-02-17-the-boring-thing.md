@@ -10,4 +10,6 @@ Here some interesting points about designing and developing user interfaces thes
 
 [Make it boring](https://jeremy.codes/blog/make-it-boring/), [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) and [Navigation should be boring](https://jeremy.codes/blog/make-it-boring/).
 
+Updated: Here another [one](https://adactio.com/journal/15011) that worth the mention.
+
 Have a good read.
