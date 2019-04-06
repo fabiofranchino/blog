@@ -40,6 +40,8 @@
 				
 			{% endif %}
 
+			{% include advertise.html %}
+
 			{% if content contains "<!-- main_ad -->" %}
 			{{ content | split:"<!-- main_ad -->" | first }}
 			    {% include main_ad.html %}
