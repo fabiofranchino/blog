@@ -4,7 +4,7 @@ date: 2019-04-12 10:00:00 +0100
 subtitle: 12th April, 2019
 style: blue
 categories: Tutorials
-tags: [review, js, es6, library]
+tags: [tutorial, js, es6, library]
 ---
 
 I made several attempts in the past trying to develop javascript libraries. Recently, I wanted to include in my [current side-project](https://www.presenta.cc) a [lib](/blog/might-become-a-lib/) I built a while ago.
