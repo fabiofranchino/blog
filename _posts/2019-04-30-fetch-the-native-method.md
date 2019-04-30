@@ -45,7 +45,7 @@ fetch('https://www.example.com')
 
 ## Fetch options
 
-For exapmple, to perform a POST request with `fetch`, here the way:
+For instance, to perform a POST request with `fetch`, here the way:
 
 ```javascript
 fetch(`/save`, {
@@ -54,13 +54,10 @@ fetch(`/save`, {
       headers: {
         'Content-Type': 'application/json'
       }
-    }).then(data => {
-      return data.json()
-    }).then(data => {
-      console.log(data)
-    }).catch(err => {
-      console.log(err)
     })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(err => console.log(err))
 ```
 
 You have to add on optional configuration object where you can specify the method and other options as well.
