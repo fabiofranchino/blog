@@ -12,6 +12,8 @@ In my [recent toy](https://www.svgmator.com/), I had the need to load external f
 
 It's a nice little UX add-on to avoid the user downloading a particular file and then to upload it on [SVGmator](https://www.svgmator.com/). Providing the URL, the software would be able to download and upload behind the scene on behalf of the user.
 
+![](../assets/posts/using-netlify-lambda-function-to-load-externals/img.gif)
+
 It's a simple task, but the security model of the browser prevents to fetch, via javascript, external text files that belong to different domains, thus, this simple script is not going to work out of the box:
 
 ```javascript
