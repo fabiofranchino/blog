@@ -22,4 +22,6 @@ categories: [creativecode]
 - [DearComputer](https://dearcomputer.nl/)
 - [Nicoptere](http://www.barradeau.com/)
 - [Daniel Browns](http://danielbrowns.com/)
+- [Chris Mullany](http://chrismullany.com)
+- [https://www.kielm.com](https://www.kielm.com/)
 

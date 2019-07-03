@@ -1,12 +1,12 @@
 ---
-title: Some advices from the UI desiger of Slides
+title: Some advices from the UI designer of Slides
 date: 2019-06-28 04:03:00 +0100
 subtitle: 28th June, 2019
 categories: Logs
 tags: [log]
 ---
 
-Some advices from the UI desiger of Slides.com
+Some advices from the UI designer of Slides.com
 
 Great [presentation](https://www.youtube.com/watch?v=o0NtjY17v5w) from Hakim El Hattab, founder and designer of Slides.com.
 

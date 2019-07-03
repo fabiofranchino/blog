@@ -11,3 +11,4 @@ A [tiny editor](http://jxnblk.com/paths) to understand how the infamous `d` attr
 A [collection](https://css-tricks.com/tools-visualize-edit-svg-paths-kinda/) of online tools to visualize and edit SVG elements.
 
 How to [hand-code SVG](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368) tutorial.
+
