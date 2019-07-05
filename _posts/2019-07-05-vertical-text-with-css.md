@@ -1,7 +1,7 @@
 ---
 title: Vertical Text with CSS
 date: 2019-07-05 5:00:00 +0100
-subtitle: 5th June, 2019
+subtitle: 5th July, 2019
 style: blue
 cover: cover.gif
 categories: Tutorials
