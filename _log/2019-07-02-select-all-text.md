@@ -8,8 +8,6 @@ tags: [log]
 
 Some times you need to help the user by selecting a chunk of text for her.
 
-Some times you need to help the user by selecting a chunk of text for her.
-
 There are two main technical possibilities, depending of the HTML element you want to use.
 
 If the text you want to select automatically on user click is wrapped in any regular HTML element, such as a `p` tag, you can simply use CSS:
