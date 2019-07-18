@@ -18,6 +18,9 @@ There are some options out there. I've usually prefer two, depending of the situ
 
 - [CodePen](https://codepen.io/) or [JsBin](http://jsbin.com/)
 - [Brackets](http://brackets.io/)
+- https://stackblitz.com/
+- CodeSandbox
+- Repl.it
 
 The first option requires only the browser since they are online code editor. Just go there and start coding. It's very quick for short sessions since it doesn't require installation.
 
