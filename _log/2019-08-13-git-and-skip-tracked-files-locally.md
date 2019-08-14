@@ -6,7 +6,7 @@ categories: Logs
 tags: [log]
 ---
 
-Today I've learned somthing on Git, which is BTW a huge tool there's no end to learning.
+Today I've learned something new on Git, which is BTW a huge tool there's no end to learning.
 
 There's a file (Adobe Illustrator file) I need to edit in order to use it in my workflow.
 
@@ -24,6 +24,6 @@ and if I want to check the ignored files, there is this way, found [here](https:
 git ls-files -v . | grep ^S
 ```
 
-where `git ls-files` list all the git files, `-v` make it verbose, `grep ^S` filter out the lines without `S` which means 'skip-worktree'.
+where `git ls-files` list all the git files, `-v` makes it verbose, `grep ^S` filter out the lines without `S` which means 'skip-worktree'.
 
 Easy-peasy.

@@ -24,6 +24,8 @@ last_modified_at: 2018-11-05
 
 [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+https://tympanus.net/codrops/css_reference/
+
 ### Learn CSS Layout
 
 http://book.mixu.net/css/
