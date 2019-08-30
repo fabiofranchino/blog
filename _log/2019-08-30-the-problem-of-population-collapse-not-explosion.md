@@ -6,7 +6,7 @@ categories: Logs
 tags: [log]
 ---
 
-The problem of population collapse, not explosion
+This is a very interesting quote which is against the common flow.
 
 This is a very interesting quote which is against the common flow.
 
@@ -14,7 +14,7 @@ This is a very interesting quote which is against the common flow.
 
 Everybody agree that population grown and we'll have problems for that.
 
-Everybody agree that population grown and we'll have problems for that.
+From two very well-known entrepreneurs like them, the very problem of the markets has always been the population stagnation.
 
 From two very well-known entrepreneurs like them, the very problem of the markets has always been the population stagnation.
 
