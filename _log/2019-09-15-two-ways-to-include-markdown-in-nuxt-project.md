@@ -6,7 +6,7 @@ categories: Logs
 tags: [log]
 ---
 
-Two ways to include markdown in Nuxt project
+Today I've learned how to include quickly markdown content in a Nuxt project. There are mainly two ways.
 
 Today I've learned how to include quickly markdown content in a Nuxt project. There are mainly two ways.
 
