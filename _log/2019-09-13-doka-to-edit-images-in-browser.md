@@ -6,7 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Doka is an interesting web component that allows image editing and annotation in browser.
 
 [Doka](https://pqina.nl/doka/) is an interesting web component that allows image editing and annotation in browser.
 

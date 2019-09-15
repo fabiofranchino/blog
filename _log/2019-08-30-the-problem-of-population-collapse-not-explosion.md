@@ -6,7 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-This is a very interesting quote which is against the common flow.
 
 This is a very interesting quote which is against the common flow.
 

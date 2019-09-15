@@ -6,7 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-A very nice course about creativity and computing here.
 
 A very nice course about creativity and computing [here](https://www.arts.ac.uk/creative-computing-institute).
 
