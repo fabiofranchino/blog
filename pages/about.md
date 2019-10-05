@@ -15,7 +15,7 @@ My approach stems from a deep-rooted interest in creative disciplines, ranging f
 
 I post updates on [Twitter](https://twitter.com/fabiofranchino), committing chunks of code on [Github](https://github.com/abusedmedia) and sometimes update professional info on [Linkedin](https://www.linkedin.com/in/abusedmedia/).
 
-## DesignToday [aka teaching]
+## Teaching
 
 DesignToday is a little term I like to use to describe my way of thinking in creativity.
 
@@ -30,7 +30,7 @@ Here the current encoded courses you might want to look into:
 - Data driven with d3.js
 - Adventures in Data Visualization
 
-## Skills I'm confident with
+## 
 
 - head of technology
 - problem solving with design thinking approach
@@ -47,7 +47,7 @@ Here the current encoded courses you might want to look into:
 - devOps
 - IoT passionate
 
-## Technology stack
+##
 
 I'm confident with the following languages: Javascript ES5/ES6, HTML, CSS, SVG, Node.js, Processing, Arduino, REST API, PHP, AS3. 
 
