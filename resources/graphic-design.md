@@ -13,6 +13,14 @@ I'm passionate about Graphic Design since always.
 - Bruno Munari
 - Josef Muller-Brockmann
 
+Check:
+
+- Herb Lubalin
+- Massimo Vignelli
+- Jan Tschichild
+- Saul Bass
+- Milton Glaser
+
 ### Movements
 
 - Bauhaus
