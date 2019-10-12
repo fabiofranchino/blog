@@ -6,6 +6,10 @@ permalink: creativity-through-coding/machine-learning.html
 categories: [creativecode]
 ---
 
+Artificial Intelligence creative projects: https://algorithms.design/
+
+
+
 Random resources to use machine-learning in creative field:
 
 - <http://www.wekinator.org/>

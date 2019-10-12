@@ -12,6 +12,7 @@ I'm passionate about Graphic Design since always.
 - Paul Rand
 - Bruno Munari
 - Josef Muller-Brockmann
+- Marcello Morandini
 
 Check:
 
@@ -24,3 +25,7 @@ Check:
 ### Movements
 
 - Bauhaus
+
+### Graphic Design + Computation
+
+- [Computation for Graphic Designers](https://medium.com/@qshim/computation-for-graphic-designers-23629ec63dc0#.wtu8r4afx)
