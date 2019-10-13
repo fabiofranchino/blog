@@ -54,7 +54,7 @@ There are some other similar libs around (of course) but I wanted something more
 
 So far, images and videos are not supported because it's meant to support primarly generated elements such as SVG, Canvas elements and Text source. Said that, it's something that can be added quite easily in the future.
 
-Go to [its repository](https://github.com/abusedmedia/dl-rsc-as-file) to learn more about the library.
+Go to [its repository](https://github.com/abusedmedia/dl-rsc-as-file) to learn more about the library or check this live example on [Codepen](https://codepen.io/abusedmedia/pen/VwweXBJ).
 
 
 
