@@ -6,6 +6,8 @@ categories: Logs
 tags: [log]
 ---
 
-Another SpreadSheet++
+I've already written about these new breeds of spreadsheets belonging to the low-code movement. [Retool](https://retool.com/) looks very promising. It's meant to be a development environment for internal tools. 
 
-I've already written about these new breeds of spreadsheets belonging to the low-code movement. [Retool](https://retool.com/) looks very promising. It's meant to be a development environment for internal tools. There's undoubtfully an increasing need of custom tools for companies because the complexity requires tools to be understood and managed. At the same time, making custom tools is costly, therefore, a solution such Retool can find its niche.
+There's undoubtfully an increasing need of custom tools for companies because the complexity requires tools to be understood and managed. 
+
+At the same time, making custom tools is costly, therefore, a solution such Retool can find its niche.
