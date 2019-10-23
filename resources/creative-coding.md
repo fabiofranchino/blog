@@ -49,6 +49,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Daniel Browns](http://danielbrowns.com/)
 - [Chris Mullany](http://chrismullany.com)
 - [https://www.kielm.com](https://www.kielm.com/)
+- [Tim Rodenbroker](https://timrodenbroeker.de)
 
 ### Courses
 
