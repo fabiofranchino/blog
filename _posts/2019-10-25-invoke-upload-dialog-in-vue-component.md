@@ -8,21 +8,30 @@ categories: Tutorials
 tags: [tutorial, vue,  input, upload, component]
 ---
 
-In my [previous tutorial](/blog/build-drag-drop-image-component-vue) I've shown how to build a Vue.js component to allow users drag&drop files over the browser window.
+In my [previous tutorial](/blog/build-drag-drop-image-component-vue) I've outlined how to build a Vue.js component to allow users to drag&drop files on the browser window.
 
-I want to add a little feature to those component, the possibility to invoke the upload OS dialog by clicking or tapping some link.
+Now, I want to add a little feature more to those components, the possibility to invoke the upload dialog box by clicking or tapping some link.
 
 ## The input selector
 
-There is only one way to trigger the upload dialog in the browser. We need an `<input type="file" />` tag which produces a default form button, not really sexy.
+There is only one way to show the upload dialog in the browser. We need an `<input type="file" />` tag which produces a default form button, not really sexy from UI point of view.
 
-But we can hide it and using a placeholder instead, that can be styled as we prefer:
+But we can hide it and use a placeholder instead, that can be styled as we prefer with CSS:
 
 ```html
 <label for="uploadmyfile">
   <p>Open the Upload dialog</p>
 </label>
 <input type="file" id="uploadmyfile" />
+
+<style>
+  #uploadmyfile{
+    display:none;
+  }
+  p{
+    color:red;
+  }
+</style>
 ```
 
 ## The JS add-on
