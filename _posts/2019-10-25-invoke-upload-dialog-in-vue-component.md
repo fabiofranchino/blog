@@ -71,4 +71,4 @@ Here the result combining both the drag&drop feature with the upload dialog box 
 
 <iframe src="https://vue-drop-image-and-preview-2--abusedmedia.repl.co" height="400"></iframe>
 
-You can review the complete source code from its repository.
+You can review the complete source code from its [repository](https://github.com/fabiofranchino/vue-drop-image-and-preview).

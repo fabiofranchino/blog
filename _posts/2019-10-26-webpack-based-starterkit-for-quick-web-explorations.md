@@ -189,10 +189,10 @@ The above code works with the following file format:
 - gif
 - svg
 
-## Conclusion
+## Interested?
 
-This is meant to be a quick guide to use fast a common webpack configuration. It might be updated eventually.
+Go to this [repository](https://github.com/fabiofranchino/webpack-starterapp) to learn more about this configuration. You can clone it to start exploring quickly.
 
-## What's next: 
+This is meant to be a quick guide to use fast a common webpack configuration. It might be updated eventually the moment I'll need further features.
 
-I'd like to explore more about using HTML templates and post-processor, mainly for CSS. Stay tuned.
+**Like what?** I'd like to explore more about using HTML templates and post-processor, mainly for CSS. So stay tuned!
