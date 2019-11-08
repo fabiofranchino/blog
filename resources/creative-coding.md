@@ -1,5 +1,7 @@
 ---
 title: Creative Coding
+layout: page
+last_modified_at: 2019-11-01
 ---
 
 ## Creative Coding
@@ -23,7 +25,6 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Hush](https://heyhush.com/) (USA)
 - [Studio.Build](https://studio.build/) (UK)
 - [SOSO Limited](https://www.sosolimited.com/) (USA)
-- [Strukt](http://strukt.com) (AU)
 - [TwoTwentyTwo](http://twotwentytwo.se/)
 - [Design-IO](http://design-io.com/)
 - [Kuva](https://www.kuva.io)
@@ -50,6 +51,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Chris Mullany](http://chrismullany.com)
 - [https://www.kielm.com](https://www.kielm.com/)
 - [Tim Rodenbroker](https://timrodenbroeker.de)
+- [Tyler Hobbs](https://tylerxhobbs.com/)
 
 ### Courses
 
@@ -67,4 +69,3 @@ In this page I collect some resources about papers, tools, courses and workshops
 ### Projects
 
 - http://thedotisblack.tumblr.com/
-- http://dev.abe.sh/block-chords/

@@ -1,5 +1,7 @@
 ---
 title: Graphic Design
+layout: page
+last_modified_at: 2019-11-01
 ---
 
 I'm passionate about Graphic Design since always. 

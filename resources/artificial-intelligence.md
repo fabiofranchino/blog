@@ -2,8 +2,6 @@
 title: Machine learning for creatives
 layout: page
 last_modified_at: 2019-01-02
-permalink: creativity-through-coding/machine-learning.html
-categories: [creativecode]
 ---
 
 Artificial Intelligence creative projects: https://algorithms.design/

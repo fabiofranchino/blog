@@ -1,5 +1,7 @@
 ---
 title: Storage and Hosting
+layout: page
+last_modified_at: 2019-11-01
 ---
 
 ## Storage
@@ -14,17 +16,11 @@ https://www.jsonstore.io/
 
 ## Hosting
 
-https://www.netlify.com/
-github pages
-
-aws s3
-
-https://surge.sh/
-firebase
-getforge
-
-netlify
-
-now.sh
-
-https://zeit.co/
+- [Netlify](https://www.netlify.com/)
+- [Github Pages](https://pages.github.com/)
+- [AWS S3](https://aws.amazon.com/s3/)
+- [Render](https://render.com/)
+- [Surge](https://surge.sh/)
+- [Now](https://zeit.co/home)
+- [Firebase](https://firebase.google.com/)
+- [Forge](https://getforge.com/)

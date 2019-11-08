@@ -1,5 +1,7 @@
 ---
 title: Conten Management Systems
+layout: page
+last_modified_at: 2019-11-01
 ---
 
 ## Hosted CMS as a service

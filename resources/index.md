@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: page
-last_modified_at: 2019-10-04
+last_modified_at: 2019-11-08
 ---
 
 ## Resources
