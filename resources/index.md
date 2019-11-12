@@ -13,7 +13,9 @@ This is the index page where you can find the main topics you can learn further.
 ### Tools
 
 - [Code editors](code-editors/)
-- Content Management Systems
+- [Content Management Systems](cms)
+- [Novel Productivity Tools](novel-productivity-tools)
+- [Presentation Software](presentation-software)
 
 ### Services
 
