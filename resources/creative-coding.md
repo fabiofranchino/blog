@@ -40,7 +40,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Varun Vachhar](http://varun.ca/)
 - [Kyle McDonald](http://kylemcdonald.net/)
 - [Tim Holman](http://tholman.com/)
-- http://inconvergent.net/
+- [Anders Hoff (inconvergent)](https://inconvergent.net/)
 - http://manoloide.com/
 - http://atomicfarmer.com/
 - https://www.mokafolio.de
