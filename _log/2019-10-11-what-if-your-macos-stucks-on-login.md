@@ -17,3 +17,21 @@ It's all related to some custom `kext` OS extension that was not compatible anym
 Removing them I was able to log-in again.
 
 Not, get back to work!
+
+## Update
+
+Since I've got the same issue after a minor system update, I'm going to outline the procedure in case other external sources disappeared for some reasons.
+
+Here the step by step to recover my MacOsX after an update with a stuck situation during log-in:
+
+- Boot in recovery mode (with CMD+R and run the power button)
+- Open the Terminal from menu
+- Run `diskutil list` to list all the drives
+- Identify your encrypted drive and copy the UUID (the long string next to the drive line)
+- Run `diskutil cs unlockVolume UUID` where UUID is the string in the clipboard
+- Hit return and write your password
+- Run `cd /Volumes/<YOUR DRIVE NAME>/Library/Extensions` and run `ls`
+- You should see some .kext files that might be the reason of the issue
+- Move the extension you think are the problem (you can move them all) using `mv EXTENSIONNAME other/location`
+- You can create in Library another folder such as `ExtensionsDisabled` and put all of them there.
+- Run `reboot` and now it should login.
