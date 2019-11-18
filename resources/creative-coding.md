@@ -69,3 +69,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 ### Projects
 
 - http://thedotisblack.tumblr.com/
+
+### History
+
+- https://piratefsh.github.io/2019/01/07/computer-art-history-part-1.html

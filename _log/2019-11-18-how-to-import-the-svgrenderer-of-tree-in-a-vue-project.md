@@ -1,5 +1,5 @@
 ---
-title: How to import the SVGRenderer of Tree
+title: How to import the SVGRenderer of Tree in a Vue project
 date: 2019-11-18 08:21:00 +0100
 subtitle: 18th November, 2019
 categories: Logs
