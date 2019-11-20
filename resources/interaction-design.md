@@ -12,3 +12,6 @@ https://uxplanet.org/micro-nudge-a-micro-animation-for-behavioral-change-dd15ecd
 
 - Some [docs and experiments](http://iamralpht.github.io/) about using physics rules in interaction design by Ralph Thomas
 
+## Failures/Fun
+
+- https://www.interaction-design.org/literature/article/design-failures?utm_source=facebook&utm_medium=sm
