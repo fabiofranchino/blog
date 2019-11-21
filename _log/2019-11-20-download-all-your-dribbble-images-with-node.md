@@ -8,11 +8,11 @@ tags: [log]
 
 If you want to donwload all your images from Dribbble, you can do this way:
 
-First think, download all your data from your account. You'll get a json file.
+First off, download your data archive from your account. You'll get a json file.
 
-Then, create a folder putting that json in it and install the `axios` dependency with `npn install axios`. 
+Then, create a folder and put that json in, then install the `axios` dependency with `npm install axios`. 
 
-Finally, use this script (put it in a `index.js` file) and run it with `node index.js`:
+Finally, use the following script (put it in an `index.js` file) and run it with `node index.js` command:
 
 ```js
 const axios = require('axios')
@@ -32,6 +32,6 @@ arr.forEach(async d => {
 })
 ```
 
-The above script will download all the highest resolution for each shot.
+The above script will download the hight-res image for each shot.
 
 Enjoy!

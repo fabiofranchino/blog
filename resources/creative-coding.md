@@ -52,6 +52,8 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [https://www.kielm.com](https://www.kielm.com/)
 - [Tim Rodenbroker](https://timrodenbroeker.de)
 - [Tyler Hobbs](https://tylerxhobbs.com/)
+- [Martin O'Leary](http://mewo2.com/)
+- [Saskia Freeke](http://www.sasj.nl/) (daily sketcher)
 
 ### Courses
 
