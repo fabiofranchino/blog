@@ -214,13 +214,13 @@ p > code, li > code{
 }
 
 .adme{
-    float: right;
+    /* float: right; */
     width:100%;
     overflow: hidden;
-    padding: 10px;
+    padding: 14px;
     border:1px dashed black;
-    margin-left:2rem;
-    margin-bottom:2rem;
+    /* margin-left:2rem;
+    margin-bottom:2rem; */
 }
 .adme img{
     width: 100%;
@@ -236,7 +236,8 @@ p > code, li > code{
 .adme p{
     font-size: .8rem;
     padding: 0;
-    line-height: .85rem;
+    margin: 0;
+    line-height: 1.2rem;
     color:black;
 }
 
@@ -275,10 +276,7 @@ p > code, li > code{
     .newsletter-box .email-group{
         display: flex;
     }
-    .adme{
-        width: 160px;
-        
-    }
+    
 }
 
 

@@ -25,6 +25,7 @@ https://www.jsonstore.io/
 - [Firebase](https://firebase.google.com/)
 - [Forge](https://getforge.com/)
 
-## Bridges
+## Bridges/Integrators
 
 - [Dweet](http://dweet.io/)
+- [PipeDream](https://pipedream.com/)
