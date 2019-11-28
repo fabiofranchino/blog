@@ -54,6 +54,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Tyler Hobbs](https://tylerxhobbs.com/)
 - [Martin O'Leary](http://mewo2.com/)
 - [Saskia Freeke](http://www.sasj.nl/) (daily sketcher)
+- [Kjetil Golid](https://generated.space/) (generated.space)
 
 ### Courses
 
