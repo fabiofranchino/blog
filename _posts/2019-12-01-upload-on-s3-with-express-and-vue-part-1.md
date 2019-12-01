@@ -108,7 +108,7 @@ app.get('/s3', (req, res) => {
 
 This little server can be run with `node index.js` and it will listen at `http://localhost:3131/s3` with the `filename` and the `filetype` parameters correctly set.
 
-This is a bare-bone example without many error handling, just to demonstrate this particular functionality.
+This is a bare-bone example without many error handling, just to demonstrate this particular functionality. Full source code [here](https://github.com/fabiofranchino/express-vue-s3-upload-back).
 
 In part 2 I'll dive in the frontend part, of course.
 
