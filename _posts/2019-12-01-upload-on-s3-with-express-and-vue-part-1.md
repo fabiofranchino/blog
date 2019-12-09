@@ -1,7 +1,7 @@
 ---
 title: Upload on AWS S3 with Express.js and Vue.js - Part 1
 date: 2019-12-01 07:00:00 +0100
-subtitle: 01st December, 2019
+subtitle: 1st December, 2019
 style: blue
 cover: cover.png
 categories: Tutorials

@@ -43,3 +43,6 @@ The box-sizing property allows to change how the browser calculates the box size
 
 [Ceaser](https://matthewlein.com/tools/ceaser) is an online tool to calculate the `cubic-bezier` curve for the transition CSS property.
 
+[Clippy](https://bennettfeely.com/clippy/) is an online tool to create clipping mask that can be applied to any DOM elements
+
+[Shadows](https://brumm.af/shadows) allows to play and configure a proper CSS shadow parameters

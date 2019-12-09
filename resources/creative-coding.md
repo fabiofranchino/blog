@@ -16,6 +16,8 @@ In this page I collect some resources about papers, tools, courses and workshops
 
 ### Firms / Studios / Agencies
 
+In this list the notion of creative coding is more broad. You may find companies that use creative conding principles in their projects.
+
 - [NoComputer](http://nocomputer.be/) (BE)
 - [RNDR](https://rndr.studio/) (NL)
 - [LUST](https://lust.nl) (NL)
@@ -29,6 +31,7 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Design-IO](http://design-io.com/)
 - [Kuva](https://www.kuva.io)
 - [Small Design Firm](http://smalldesignfirm.com/)
+- [Cactus](https://www.cactus.is/)
 
 ### Artists / Practictioners
 
@@ -69,9 +72,10 @@ In this page I collect some resources about papers, tools, courses and workshops
 - [Make+Think+Code](https://mtc.pnca.edu/)
 - [Coding for Visual Learners](http://www.codingforvisuallearners.com/)
 
-### Projects
+### Projects/Sketches
 
 - http://thedotisblack.tumblr.com/
+- https://madebycraig.tumblr.com/
 
 ### History
 
