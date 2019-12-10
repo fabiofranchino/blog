@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-The viral factors
-
 Why something get viral on internet? If I try to encode some pattern on items that got viral, I can see three common features: 
 
 - Accessibility

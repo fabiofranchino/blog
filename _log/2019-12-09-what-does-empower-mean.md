@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-What does empower mean?
-
 From the dictionary, give **official authority** or **self-actualization**, on other words, **give responsibility** to someone.
 
 How to empower someone?

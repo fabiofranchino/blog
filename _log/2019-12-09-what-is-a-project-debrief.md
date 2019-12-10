@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-What is a project debrief?
-
 It's a **process** where all the actors involved in a project want genuinely **get better**, both personally and as a team.
 
 It's a humble admission of mistakes. 

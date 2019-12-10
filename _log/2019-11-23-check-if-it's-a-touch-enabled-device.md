@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Check if it's a touch enabled device
-
 A little reminder to myself to detect on a web app it the device is touch enabled or not, no matter the veiwport dimension:
 
 ```js
