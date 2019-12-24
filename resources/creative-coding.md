@@ -58,6 +58,7 @@ In this list the notion of creative coding is more broad. You may find companies
 - [Martin O'Leary](http://mewo2.com/)
 - [Saskia Freeke](http://www.sasj.nl/) (daily sketcher)
 - [Kjetil Golid](https://generated.space/) (generated.space)
+- [Mike Brondbjerg](http://www.kultur.design/) (Kultur Design)
 
 ### Courses
 
