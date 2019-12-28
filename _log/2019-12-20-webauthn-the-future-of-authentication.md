@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-WebAuthn, the future of authentication
-
 Protecting access to services is an hot topic and it's going to be more hot in the near future.
 
 That's why I consider great the [WebAuthn](https://webauthn.guide/) proposal as a standard mechanism to authenticate a client with a server in a secure way.

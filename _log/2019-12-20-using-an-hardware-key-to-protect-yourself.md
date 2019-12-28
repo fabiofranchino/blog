@@ -6,7 +6,5 @@ categories: Logs
 tags: [log]
 ---
 
-Using an hardware key to protect yourself
-
 As a follow up of the [previous](/blog/log/webauthn-the-future-of-authentication) note, here a link about hardware keys as a way to secure login without using a user-generated password, which I remind you, is the 80% cause of access breach.
 

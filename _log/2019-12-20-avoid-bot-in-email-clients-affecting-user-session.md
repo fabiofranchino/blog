@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Avoid BOT in email clients affecting user session
-
 I've never thought about this possibility. [Recent email clients](https://blog.healthchecks.io/2019/12/preventing-office-365-atp-from-clicking-unsubscribe-links/) perform some activities using the link within the email body to protect the user of possible bad links.
 
 The side effect of this activity is that the email client bot can performe unwanted actions such as unsubscribing to a newsletter of confirming an email link.
