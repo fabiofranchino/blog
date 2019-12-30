@@ -6,7 +6,7 @@ baseurl: "/blog"
 url: "https://fabiofranchino.com"
 twitter_username: fabiofranchino
 github_username:  abusedmedia
-google_analytics: UA-181587-8
+# google_analytics: UA-181587-8
 
 # Build settings
 markdown: kramdown
