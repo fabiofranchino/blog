@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-The only scarcity is human attention
-
 Reading "The Inevitable" from Kevin Kelly, here a very interesting citation and passage:
 
 > In an information-rich world, the wealth of information means a dearth of something else: a scarcity of whatever it is that information consumes. 
