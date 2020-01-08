@@ -79,7 +79,9 @@ More [info](https://medium.com/@namwookkim/data-driven-guide-designing-expressiv
 
 https://charted.co/
 
+## Lyra
 
+http://idl.cs.washington.edu/projects/lyra/
 
 
 
