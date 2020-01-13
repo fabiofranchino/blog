@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-"vue-cli-service serve" and CPU usage on Mac OSX
-
 Dealing with this issue for a while, here the solution right from [Stackoverflow](https://stackoverflow.com/questions/56768388/high-cpu-usage-from-node-js-when-running-vue-cli-service-serve):
 
 ```shell

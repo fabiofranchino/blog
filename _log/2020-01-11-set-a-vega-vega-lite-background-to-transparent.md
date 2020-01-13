@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Set a Vega / Vega-Lite background to transparent
-
 Here the tip answering the title:
 
 ```json
