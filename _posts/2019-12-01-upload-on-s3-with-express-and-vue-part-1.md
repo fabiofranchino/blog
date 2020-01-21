@@ -14,8 +14,8 @@ Part of this relies on how the file-upload works both on the backend and fronten
 
 In [PRESENTA](https://www.presenta.cc/) the external files are uploaded using AWS S3 service. The real upload happens straight from the front-end app to the AWS servers. The backend is in charge only to request the one-time token from AWS. Here the flow:
 
-- The frontend ask to the backend a valid token (this way the backend can make some additional validation about auth and other stuff)
-- The backend ask to AWS the same and routes it to the frontend
+- The frontend asks to the backend a valid token (this way the backend can make some additional validation about auth and other stuff)
+- The backend asks to AWS the same and routes it to the frontend
 - The frontend begins a PUT request to AWS server to upload the files
 - The dialogue during the upload happens only between the frontend and the S3 service
 

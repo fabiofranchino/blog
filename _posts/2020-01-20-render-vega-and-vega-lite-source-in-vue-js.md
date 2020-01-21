@@ -90,18 +90,20 @@ async draw(){
 
 ## Issues
 
-When copy/paste a Vega source that contains the data url (the dataset is external) and that url is relative, the chart break because it can't find it. 
+When copy/paste a Vega source that contains the data url (the dataset is external) and that url is relative, the chart breaks because it can't find the file. 
 
-This is very common if you copy/paste an example from the official website. Almost all the examples use a relative URL for the dataset, such as:
+This is very common if you copy/paste an example from the official website. Almost all the examples use a relative URL for the dataset definition, such as:
 
 ```javascript
 "data": { "url": "data/population.json"}
 ```
 
-In order to make it working again, you need to change it with the full absolute URL:
+In order to make it work again, you need to change it with the full absolute URL:
 
 ```javascript
 "data": { "url": "https://vega.github.io/vega-lite/data/population.json"}
 ```
+
+## Next
 
 If you want to be notified when [PRESENTA](https://www.presenta.cc) will incorporate this function, get an account from there!
