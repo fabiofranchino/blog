@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Extract the URL from CSS, a better way
-
 I've put a simple way to extract from a CSS code an asset URL [here](/blog/log/how-to-extract-the-url-from-the-css-background-image-property-with-regex).
 
 I want to update that reference with something better that is able to handle more edge cases.
