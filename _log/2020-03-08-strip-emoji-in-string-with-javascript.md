@@ -6,7 +6,7 @@ categories: Logs
 tags: [log]
 ---
 
-I have to clean up user-provided html source for the embed plugin in PRESENTA.
+I have to clean up user-provided html source for the embed plugin in [PRESENTA](https://www.presenta.cc/).
 
 I've used this [npm module](https://github.com/nizaroni/emoji-strip) that works very well.
 
