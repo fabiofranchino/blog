@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-A better way in this updated post.
-
 A snippet of code I found on my hard-drive that might be useful, thus, I want to document here.
 
 It's a simple Reg-exp to extract the full URL from a CSS `background-image` url property:
@@ -23,3 +21,5 @@ if(cleanPath) console.log(cleanPath[1])
 ```
 
 Have fun!
+
+**Update:** A better reg-ex in this [post](/blog/log/extract-the-url-from-css-a-better-way).
