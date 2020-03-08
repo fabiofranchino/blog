@@ -20,15 +20,8 @@ This is the index page where you can find the main topics you can learn further.
 ### Services
 
 - Hosted/Headless Content Management Systems
-- [Forms](forms)
 - [Storage and Hosting](storage-hosting)
 - [Automation](automation)
-
-### Technologies
-
-- [HTML](html/)
-- [CSS](css)
-- Javascript
 
 ### Topics
 
