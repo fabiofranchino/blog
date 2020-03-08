@@ -10,4 +10,5 @@ I have to clean up user-provided html source for the embed plugin in [PRESENTA](
 
 I've used this [npm module](https://github.com/nizaroni/emoji-strip) that works very well.
 
-Here the [notebook](https://observablehq.com/d/f3f98c574c7f6fc0) with a little demo of the test.
+Here the [notebook](https://observablehq.com/@abusedmedia/strip-emoji-in-string-test) with a little demo of the test.
+
