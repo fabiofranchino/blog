@@ -41,8 +41,6 @@ last_modified_at: 2019-11-01
 
 ### 
 
-- https://macwright.org/2018/04/09/the-other-kind-of-privacy.html
-
 ## Online Chart Tools
 
 ### FastChart

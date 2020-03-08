@@ -1,29 +1,33 @@
 ---
 title: Code Editors
 layout: page
-last_modified_at: 2019-10-03
+last_modified_at: 2020-03-08
 ---
 
-If you, like me, write code for your creative and productive purposes, here an updated list of the possibility...
+I write code daily and I teach people (mostly designers) how to write code for creative purposes often.
 
-I'm currently prefer relying to online tools as much as I can, expecially for teaching purposes because they ease a lot the set up phase.
+To write code, you need a code editor.
+
+I currently write code on serious projects using Visual Studio Code but I costantly test and use alternatives, usually online tools, both for quick sketches and for teaching activity. 
 
 Here my preferred list of editors divided in online and offline tools. 
 
 ### Online Editors
 
-[Codepen.io](https://codepen.io/) is one option I use when teaching. It's free and hides some complexity helping primer students. There are some drawback such as the possibility to host external files (usually images and text files, even though the premium account can do that). To solve this issue, refer to this section where I've outlined some  third-party services
+I currently use online editor both for quick explorations and for teaching purposes. During a class, the zero-setup is invaluable. Here a from time to time updated list of my preferred tools out there:
 
-- [P5 WebEditor](https://editor.p5js.org/)
-- [Codepen](https://codepen.io/)
-- [Repl.it](https://repl.it/)
-- [JsBin](http://jsbin.com/?html,js,output)
-- [Glitch](https://glitch.com/)
-- [Observable](https://beta.observablehq.com)
-- [CodeSandbox](https://codesandbox.io/)
-- [StackBlitz](https://stackblitz.com/)
+- [P5 WebEditor](https://editor.p5js.org/) perfect when teaching creative coding with p5.js
+- [Codepen](https://codepen.io/) for quick exploration in HTML/CSS/JS
+- [Repl.it](https://repl.it/) is a good option for more structured projects with deploy capability
+- [Glitch](https://glitch.com/) very good for quick app (both frontend and backend) similar to Repl.it
+- [Runkit](https://runkit.com/) for node-based sketches, now I'm much more on Observable for such explorations
+- [Observable](https://beta.observablehq.com) I recently started using it for quick explorations and it's great
+- [CodeSandbox](https://codesandbox.io/) looks interesting but I didn't use it yet
+- [StackBlitz](https://stackblitz.com/) looks interesting but I didn't use it yet
+- [JsBin](http://jsbin.com/?html,js,output) I used to write quick sketches in HTML/CSS/JS, then replaced with Codepen
 
 ### Standalone Editors
 
-- Visual Studio Code
-- Brackets
+- [Visual Studio Code](https://code.visualstudio.com/) (currently my preferred choice for serious projects)
+- [Brackets](http://brackets.io/) (I used for teaching purposes, not used anymore)
+- [Sublime Text](https://www.sublimetext.com/) (it was my editor of choice, not used anymore)

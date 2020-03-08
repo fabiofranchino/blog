@@ -1,7 +1,7 @@
 ---
 title: CSS
 layout: page
-last_modified_at: 2019-11-01
+last_modified_at: 2020-03-08
 ---
 
 ## CSS
@@ -26,18 +26,6 @@ last_modified_at: 2019-11-01
 
 - https://www.smashingmagazine.com/2018/05/guide-css-layout/
 - [MaintainableCSS](https://maintainablecss.com)
-
-### Snippets
-
-#### The Box Model
-
-The box-sizing property allows to change how the browser calculates the box size:
-
-```css
-*, *:after, *:before{
-	box-sizing: border-box;
-}
-```
 
 ### Tools
 

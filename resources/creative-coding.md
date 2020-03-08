@@ -63,6 +63,7 @@ In this list the notion of creative coding is more broad. You may find companies
 ### Courses
 
 - [Scratch curriculum](http://scratched.gse.harvard.edu/guide/)
+- [Computational Graphic Design Manual](https://dpmanual.bitbucket.io/)
 - [Programming Design Systems](http://printingcode.runemadsen.com/)
 - [Joshua Davis online lessons](https://gumroad.com/joshuadavis)
 - [Future Learn course with Processing](https://www.futurelearn.com/courses/creative-coding)
