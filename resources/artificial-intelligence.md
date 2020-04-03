@@ -6,7 +6,7 @@ last_modified_at: 2019-01-02
 
 Artificial Intelligence creative projects: https://algorithms.design/
 
-
+http://aprt.us/
 
 Random resources to use machine-learning in creative field:
 

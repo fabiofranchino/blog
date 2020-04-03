@@ -60,6 +60,14 @@ In this list the notion of creative coding is more broad. You may find companies
 - [Kjetil Golid](https://generated.space/) (generated.space)
 - [Mike Brondbjerg](http://www.kultur.design/) (Kultur Design)
 
+### Tools/Libraries
+
+- Processing
+- Nodebox
+- Drawbot
+- P5.js
+- [pts.js](https://ptsjs.org/)
+
 ### Courses
 
 - [Scratch curriculum](http://scratched.gse.harvard.edu/guide/)
@@ -73,6 +81,7 @@ In this list the notion of creative coding is more broad. You may find companies
 - [SuperHi](https://www.superhi.com)
 - [Make+Think+Code](https://mtc.pnca.edu/)
 - [Coding for Visual Learners](http://www.codingforvisuallearners.com/)
+- [Python For Designers](http://pythonfordesigners.com/)
 
 ### Projects/Sketches
 
