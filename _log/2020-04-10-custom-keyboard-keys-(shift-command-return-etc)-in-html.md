@@ -8,5 +8,5 @@ tags: [log]
 
 Custom keyboard keys (shift, command, return, etc) in HTML
 
-For future reference: ⇧⌘⏎❖
+For future reference: ⇧⌘⏎❖⌥⌃↩︎►
 
