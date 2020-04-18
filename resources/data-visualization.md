@@ -118,4 +118,5 @@ http://idl.cs.washington.edu/projects/lyra/
 - http://ft-interactive.github.io/visual-vocabulary/
 - https://www.data-to-viz.com/
 - https://gramener.github.io/visual-vocabulary-vega/
+- https://www.d3-graph-gallery.com/index.html
 
