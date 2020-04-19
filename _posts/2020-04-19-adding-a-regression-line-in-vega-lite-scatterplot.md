@@ -15,12 +15,10 @@ First, we need to exploits the `layer` capability of Vega-Lite. This is the way 
 Suppose we have this dataset:
 
 ```json
-"data": {
-  "values": [
-    {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
-    {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
-    {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}]
-}
+"values": [
+  {"a": 23, "b": 28}, {"a": 12, "b": 55}, {"a": 3, "b": 43},
+  {"a": 56, "b": 91}, {"a": 11, "b": 81}, {"a": 34, "b": 53},
+  {"a": 32, "b": 19}, {"a": 41, "b": 87}, {"a": 53, "b": 52}]
 ```
 
 And we plot its values with:
@@ -30,7 +28,7 @@ And we plot its values with:
   "mark": "point",
   "encoding": {
     "x":{
-      "type":"nominal", 
+      "type":"quantitative", 
       "field": "a"
     },
     "y":{
@@ -48,7 +46,7 @@ Now we want to add a line element, thus, we use `layer` to include both the scat
   "mark": "point",
   "encoding": {
     "x":{
-      "type":"nominal", 
+      "type":"quantitative", 
       "field": "a"
     },
     "y":{
@@ -76,7 +74,7 @@ Now we need to calculate the coordinates (using the `regression` transform) and 
   },
   "transform":[{
     "regression": "b",
-    "on": "b"
+    "on": "a"
   }],
   "encoding": {
     "y":{
@@ -84,7 +82,7 @@ Now we need to calculate the coordinates (using the `regression` transform) and 
       "type":"quantitative"
     },
     "x":{
-      "field":"b",
+      "field":"a",
       "type":"quantitative"
     }
   }
@@ -95,4 +93,5 @@ Here the result:
 
 ![](/blog/assets/posts/adding-a-regression-line-in-vega-lite-scatterplot/cover.svg)
 
-And the [full source code](https://vega.github.io/editor/#/url/vega-lite/N4KABGBEDuCWAmAXAFpAXGAbABmwGnCngENFj0xQIJIA3YgGwFcBTAZwoG1DrLJyMkAIKQ8UAEYUATAA4AvmOD8KkAEKiJFAKxaFfAVADCGyJIwAWAMwKe1JQcgARE2bABOAIx77KgKIuKGS9FZUEAMQCMLWsCXggfQQBxSLAPN29QqAAJFJkAdgyHAEkUrSk5AF1CGxoGYgBPFgAndE4qOMgAW2ImgGsVAAcAe1gAO0RRWxoWUYBjIfgxgHMKdrioAA90NfWoRHqBlnRIUaHOscYNKY6AM1gWBngVcmuIGt3Ieu3X6kh9w5UAEcmMRxrAyIhYLQjrFdjQ7g8nmhTJAfnJrujeO94tcuj1+mgdrw-gcjsiGGMYT9IPMGEMWsiBkwmgMGEcMbDiYgmqC2Dd6Z1WkTfk0WEtRWw2LAhqMVJJOR0ZXLUetKgrpnMFstVtSvoSfvD7o9jvKDXtScdgaDIRCoey4diOlt9XDDYiTZNXeaAcirWDbdCVbtMXEQ29CFU5EA).
+And the [full source code](https://vega.github.io/editor/#/url/vega-lite/N4KABGBEDuCWAmAXAFpAXGAbABmwGnCngENFj0xQIJIA3YgGwFcBTAZwoG1DrLJyMAJgDMeKACMKggBwBfMcH4UAjILGRJGAKxb5fAWFESKAFmHye1RQa2Z1msAE5le6yuX2K0lwqUZhJp7a5gS8EG7+asYYyo6ufmAmHtFg0gDs8TZGGhRagrIAuoQWNAzEAJ4sAE7onFRhkAC2xFUA1hSQAA4A9rAAdoiQoQ0sfQDG3fD9AOYU9WFQAB7o8wtQiOWdLOiQAI5MxAOwZIiwtNtilguQAGawLAzwHeRX1CVrkOUrr7yQG1sdfaHU4nM4XH7UW73R47SQQ2SvBG8d7hV5NFrtNCrX7-bZoSAMfrgtZQCYMbo1fGdJhVToMbaI4Y4qqHNg3CmNWrYyFVFjTXlsNiwbp9DqSJkNEXPSCIgoSmijCZTPqzDDcmhfLEQmh3B5PfHi7XrTZ4vYHI6g84ykkohrLLUknXQ-VKeUNXE7IEW0hg61rJFhAMQANFWRAA).
+
