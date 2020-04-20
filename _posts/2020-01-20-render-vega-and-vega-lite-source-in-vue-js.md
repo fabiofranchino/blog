@@ -104,6 +104,8 @@ In order to make it work again, you need to change it with the full absolute URL
 "data": { "url": "https://vega.github.io/vega-lite/data/population.json"}
 ```
 
+[Here the full source code](https://github.com/fabiofranchino/integrating-vega-with-vue).
+
 ## Next
 
 If you want to be notified when [PRESENTA](https://www.presenta.cc) will incorporate this function, get an account from there!
