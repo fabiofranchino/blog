@@ -6,6 +6,4 @@ categories: Logs
 tags: [log]
 ---
 
-SuperTinyIcons: Vector Popular Icons in SVG
-
-Here the repository: [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)!
+> Here the repository: [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)!
