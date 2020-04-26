@@ -38,6 +38,8 @@ defaults:
   - scope:
       path: ""
       type: "log"
+    values:
+      layout: "page"
   - scope:
       path: ""
       type: "tips"
