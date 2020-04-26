@@ -5,7 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script: Create a Part using code
 
 Creating elements in Roblox is quite straightforward. You need to instance the element you want and you can set its properties:
 
