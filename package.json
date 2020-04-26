@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "log": "node log_process.js && git add _log && git add assets/log && git commit -m \"push logs\" && git push"
+    "log": "node log_process.js && git add _log && git add assets/log && git commit -m \"push logs\" && git push",
+    "tip": "node tip_process.js && git add _tips && git add assets/tips && git commit -m \"push tips\" && git push"
   },
   "repository": {
     "type": "git",

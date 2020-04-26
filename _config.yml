@@ -35,6 +35,9 @@ defaults:
   - scope:
       path: ""
       type: "log"
+  - scope:
+      path: ""
+      type: "tips"
     values:
       layout: "page"
 
