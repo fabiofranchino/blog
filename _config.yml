@@ -25,6 +25,9 @@ collections:
   log:
     output: true
     permalink: /:collection/:title
+  tips:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:
