@@ -45,6 +45,7 @@ if humanoid then
   print(player.Name)
   print(player.UserId)
   print(player.Character.Head)
+  print(player.Character.Humanoid.Health)
 
 end
 ```
