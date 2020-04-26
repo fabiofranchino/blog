@@ -28,7 +28,7 @@ newfiles.forEach(f => {
 
       var assetName = slugify(`n${r}_` + path.basename(absPath)).toLowerCase()
 
-      var newpath = `./assets/log/${assetName}`
+      var newpath = `./assets/tips/${assetName}`
       fs.renameSync(absPath, newpath)
 
       var newtag = `![](.${newpath})`
@@ -47,7 +47,7 @@ newfiles.forEach(f => {
 
       var assetName = slugify(`n${r}_` + path.basename(absPath)).toLowerCase()
 
-      var newpath = `./assets/log/${assetName}`
+      var newpath = `./assets/tips/${assetName}`
       fs.renameSync(absPath, newpath)
 
       src = src.replace(rex[0], `<video autoplay muted loop src=".${newpath}"></video>`)
@@ -56,7 +56,7 @@ newfiles.forEach(f => {
 
   var today = moment().subtract(4, 'hours')
 
-  var tags = 'log'
+  var tags = 'tips'
   if (partstitle.length > 1) {
     tags = partstitle[1]
   }
