@@ -5,8 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script Detect new Players in the game
-
 This script will run a function for each new Player in the game:
 
 ```lua

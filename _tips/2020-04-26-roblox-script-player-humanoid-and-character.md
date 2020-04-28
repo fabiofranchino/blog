@@ -5,8 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script Player, Humanoid and Character
-
 In Roblox every user reference with three important objects:
 
 - The Player

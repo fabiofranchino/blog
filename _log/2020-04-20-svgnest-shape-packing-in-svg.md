@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-SVGnest: Shapes packing in SVG
-
 [SVGnest](https://github.com/Jack000/SVGnest) is a library that allows to compute a packed layout using non regular shapes.
 
 It looks very efficient, maybe one day it might come in handy.

@@ -5,8 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script Using TweenService for Animation
-
 This is a hello-world for Tween, aka Animation. Given a Part in the `workplace` named `Little`, this script will randomize its position animating the change:
 
 ```lua

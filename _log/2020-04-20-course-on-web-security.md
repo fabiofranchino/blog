@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Course on Web Security
-
 This is a [great course](https://web.stanford.edu/class/cs253/) from Stanford I can't wait to follow as soon as possible.
 
 The instructor if Feross Aboukhadijeh and the whole course has been prepared for remote class in mind.

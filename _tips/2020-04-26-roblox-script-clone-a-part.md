@@ -5,8 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script: Clone a Part
-
 If you want to reuse multiple time a custom Part, let's say the one with a script attached, you can clone it.
 
 First, you need to put the Part into `ServerStorage` to make it available during the game runtime. You can build your Part in the `Workspace` then, when you're ready, move it in the `ServerStorage`.

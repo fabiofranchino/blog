@@ -5,8 +5,6 @@ subtitle: 26th April, 2020
 categories: Tips
 ---
 
-Roblox Script Making a Part aware of Humanoid touch
-
 Making a Part aware of the Humanoid interaction is a very popular function on Roblox.
 
 The Script attached to the Part need something like:
