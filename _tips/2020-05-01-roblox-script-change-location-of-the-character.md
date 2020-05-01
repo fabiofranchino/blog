@@ -5,15 +5,15 @@ subtitle: 1st May, 2020
 categories: Tips
 ---
 
-This code changes the location of the player character when touch a Part:
+This code changes the location of the player character when touches a Part:
 
 ```lua
 local function onTouch(part)
 	local humanoid = part.Parent:FindFirstChildWhichIsA("Humanoid")
 	if humanoid then
-    local character = humanoid.Parent
-    local dpos = CFrame.new(game.Workspace.Goal.Position + Vector3.new(0,20,0))
-    character:SetPrimaryPartCFrame( dpos )
+		local character = humanoid.Parent
+		local dpos = CFrame.new(game.Workspace.Goal.Position + Vector3.new(0,20,0))
+		character:SetPrimaryPartCFrame( dpos )
 	end
 end
 
