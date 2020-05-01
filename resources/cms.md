@@ -14,9 +14,10 @@ last_modified_at: 2019-11-01
 - [ContentStack](https://www.contentstack.com/)
 - https://www.siteleaf.com/
 - http://cloudcannon.com/
-- http://osmek.com/
 - https://prismic.io/
 - http://www.takeshape.io/
 - https://kenticocloud.com/
 - https://www.netlifycms.org/
 - [GraphCMS](https://graphcms.com/)
+- [StoryBlock](https://www.storyblok.com/)
+
