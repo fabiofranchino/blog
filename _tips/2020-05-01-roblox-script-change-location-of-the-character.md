@@ -5,8 +5,6 @@ subtitle: 1st May, 2020
 categories: Tips
 ---
 
-Roblox Script Change location of the Character
-
 This code changes the location of the player character when touch a Part:
 
 ```lua
@@ -23,6 +21,4 @@ end
 script.Parent.Touched:Connect(onTouch)
 ```
 
-
-
- 
+You need to place a Part with name `Goal` to make it work properly. 
