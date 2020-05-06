@@ -9,6 +9,8 @@ Want to generate a labyrinth following a spiral shape?
 
 ![](../assets/tips/n17_screen-shot-2020-05-06-at-21.22.00.png)
 
+[Watch the preview.](https://www.youtube.com/watch?v=0k416xeuLOM)
+
 Here the code to do that using a Part cloned multiple times:
 
 ```lua
