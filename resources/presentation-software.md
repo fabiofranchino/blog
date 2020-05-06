@@ -32,4 +32,5 @@ Luckly enough, there's always the will to innovate and the following list proves
 - [PitchDeck](https://pitchdeck.io/)
 - [Ludus](https://ludus.one/)
 - [Dekks](https://dekks.app/)
+- [SlideMagic](https://www.slidemagic.com/)
 

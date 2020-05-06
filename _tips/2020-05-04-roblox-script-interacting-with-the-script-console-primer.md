@@ -5,8 +5,6 @@ subtitle: 4th May, 2020
 categories: Tips
 ---
 
-Roblox Script Interacting with the script console, primer
-
 The console allows to get messages from scripts. We can also use it to insert commands in real-time during the run-time of the game.
 
 Here a simple one:

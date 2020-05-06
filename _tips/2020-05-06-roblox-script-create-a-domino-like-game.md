@@ -7,7 +7,7 @@ categories: Tips
 
 Here the code to create elements for a domino effect.
 
-![](../assets/tips/n895_screen-shot-2020-05-06-at-19.20.26.png)
+![https://www.youtube.com/watch?v=0k416xeuLOM](../assets/tips/n895_screen-shot-2020-05-06-at-19.20.26.png)
 
 Put a Part in the ServerStorage and name it `Wall`, then put in the main script this code:
 
