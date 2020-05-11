@@ -33,6 +33,8 @@ In this list the notion of creative coding is more broad. You may find companies
 - [Small Design Firm](http://smalldesignfirm.com/)
 - [Cactus](https://www.cactus.is/)
 - [Studio Nand](https://nand.io/)
+- [MonoGrid](http://mono-grid.com/)
+- [OUCHHH](http://ouchhh.tv/)
 
 ### Artists / Practictioners
 
