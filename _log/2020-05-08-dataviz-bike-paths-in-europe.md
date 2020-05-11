@@ -6,8 +6,6 @@ categories: Logs
 tags: [log]
 ---
 
-Dataviz Bike Paths in Europe
-
 What a wonderful and powerful image that communicate a lot!
 
 ![](../assets/log/n893_exe5pzyxqaat6uz.png)
