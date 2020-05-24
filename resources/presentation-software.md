@@ -31,6 +31,7 @@ Luckly enough, there's always the will to innovate and the following list proves
 - [Microsoft Sway](https://sway.office.com/)
 - [PitchDeck](https://pitchdeck.io/)
 - [Ludus](https://ludus.one/)
+- [DeckDeckGo](https://deckdeckgo.com/)
 - [Dekks](https://dekks.app/)
 - [SlideMagic](https://www.slidemagic.com/)
 

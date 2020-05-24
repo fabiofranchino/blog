@@ -35,6 +35,7 @@ In this list the notion of creative coding is more broad. You may find companies
 - [Studio Nand](https://nand.io/)
 - [MonoGrid](http://mono-grid.com/)
 - [OUCHHH](http://ouchhh.tv/)
+- [Active Theory](https://activetheory.net/)
 
 ### Artists / Practictioners
 
