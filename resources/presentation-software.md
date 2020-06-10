@@ -34,4 +34,6 @@ Luckly enough, there's always the will to innovate and the following list proves
 - [DeckDeckGo](https://deckdeckgo.com/)
 - [Dekks](https://dekks.app/)
 - [SlideMagic](https://www.slidemagic.com/)
+- [HyperDeck](https://hyperdeck.io/)
+- [GitPitch](https://gitpitch.com/)
 

@@ -36,6 +36,7 @@ In this list the notion of creative coding is more broad. You may find companies
 - [MonoGrid](http://mono-grid.com/)
 - [OUCHHH](http://ouchhh.tv/)
 - [Active Theory](https://activetheory.net/)
+- [HAWRAF](https://hawraf.com/)
 
 ### Artists / Practictioners
 
@@ -63,6 +64,7 @@ In this list the notion of creative coding is more broad. You may find companies
 - [Saskia Freeke](http://www.sasj.nl/) (daily sketcher)
 - [Kjetil Golid](https://generated.space/) (generated.space)
 - [Mike Brondbjerg](http://www.kultur.design/) (Kultur Design)
+- [Will Chase](https://www.williamrchase.com/)
 
 ### Tools/Libraries
 

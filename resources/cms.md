@@ -11,10 +11,10 @@ last_modified_at: 2019-11-01
 - [Sanity](https://www.sanity.io/)
 - [Wordpress.com](https://wordpress.com/)
 - Github
+- [Prismic](https://prismic.io/)
 - [ContentStack](https://www.contentstack.com/)
-- https://www.siteleaf.com/
-- http://cloudcannon.com/
-- https://prismic.io/
+- [Siteleaf](https://www.siteleaf.com/)
+- [Cloudcannon](http://cloudcannon.com/)
 - http://www.takeshape.io/
 - https://kenticocloud.com/
 - https://www.netlifycms.org/

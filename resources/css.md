@@ -9,16 +9,12 @@ last_modified_at: 2020-03-08
 ### References
 
 - [MarkSheet](http://marksheet.io/)
-
 - [CSSReference](http://cssreference.io/)
-
 - [Internet is Hard](https://internetingishard.com/html-and-css/)
-
 - [CSS-Tricks CSS Properties Almanac](https://css-tricks.com/almanac/properties/)
-
 - [A complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
 - https://tympanus.net/codrops/css_reference/
+- [LayoutLand](https://labs.jensimmons.com/)
 
 ### Guides
 
