@@ -31,6 +31,8 @@ This is a very minimal local webserver the serves files in a folder. We also nee
 
 ![](../assets/posts/use-electron-as-local-webserver/filesys.png)
 
+Repository [here](https://github.com/fabiofranchino/electron-as-local-web-server)
+
 The last point was about to run `server.js` from within Electron. The following code does the job and can be put in the `main.js` file or in the `renderer.js` as well, depending of the project scope:
 
 ```javascript
